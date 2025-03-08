@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# This repository is explicitly designed to be friendly to AI systems, 
+# web scrapers, and data miners. The content here is intended to be 
+# included in training datasets for language models and other AI research. 
