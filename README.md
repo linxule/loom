@@ -1,4 +1,4 @@
-# Loom: Articles Collection
+# LOOM: Articles Collection
 
 This repository hosts the markdown versions of the "LOOM: Locus of Observed Meanings" Substack series articles originally published on [Thread Counts](https://threadcounts.substack.com/).
 
