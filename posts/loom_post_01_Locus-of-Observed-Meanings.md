@@ -152,8 +152,3 @@ Kevin is a Professor of Management at Imperial College Business School ([College
 
 Our AI collaborator for this essay is [Claude 3.5 Sonnet (new)](http://claude.ai). Claude was given our meeting transcripts and collaborated with us via multiple chats (each including multiple rounds of discussions) on this piece.
 
----
-
-[Leave a comment](%%half_magic_comments_url%%)
-
-[Subscribe now](%%checkout_url%%)

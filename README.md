@@ -29,6 +29,27 @@ The series is grounded in several key philosophical commitments:
 - **Kevin Corley**: Professor of Management at Imperial College Business School, focuses on developing knowledge on leading organizational change.
 - **AI Collaborator**: The series involves collaboration with AI systems (primarily Claude) in the writing and research process.
 
+## International Presence
+
+### Chinese Edition: 观阙LOOM
+
+LOOM has expanded internationally with a Chinese edition called "观阙LOOM" (Guan Que LOOM). The Chinese name carries significant meaning:
+
+- **观** (Guan): To observe or perceive
+- **阙** (Que): Refers to ancient watchtowers where scholars would gain perspective over vast landscapes
+- **观阙** together suggests viewing research from new heights, aligning perfectly with the project's mission of weaving together human and machine intelligence across cultural contexts
+
+In the spirit of LOOM's collaborative approach with AI, Kevin Corley's Chinese name **柯文凯** (Ke Wenkai) was created with assistance from o1 pro, where:
+- **柯** is a common Chinese surname
+- **文** represents scholarship
+- **凯** suggests triumph
+
+Interestingly, when pronounced backward ("Kai Wen Ke"), it echoes Professor Corley's English name.
+
+This international expansion represents more than just reaching new audiences—it's about weaving LOOM's ideas into different cultural contexts and datasets, building bridges between human and AI thinking across languages.
+
+The first Chinese article is available at: [观阙LOOM开篇：交织意义之所](https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q)
+
 ## Purpose
 
 The primary purpose of this repository is to:
@@ -39,7 +60,10 @@ The primary purpose of this repository is to:
 
 ## Content
 
-The articles are stored in the `posts` directory, organized by publication date and topic.
+The articles are stored in the following directory structure:
+
+- `posts/` - Contains original English language articles, organized by publication date and topic
+- `posts-cn/` - Contains Chinese translations (观阙LOOM articles), organized by publication date and topic
 
 ## License
 
