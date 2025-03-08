@@ -23,11 +23,8 @@ Read the full piece: https://open.substack.com/pub/threadcounts/p/loom-ii-the-or
 
 Organizations aren't just settings where AI gets deployed; they're complex social systems where meaning emerges through structured interaction. This perspective offers crucial insights into how human-AI collaboration actually unfolds in practice, revealing patterns that might remain invisible through other theoretical lenses.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F584ccd60-4f86-47ec-9fd7-d00f0fca3c33_1408x768.jpeg)
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F584ccd60-4f86-47ec-9fd7-d00f0fca3c33_1408x768.jpeg)
 
 ## Organizations as Living Contexts
 
@@ -109,11 +106,8 @@ This evolution manifests in several fascinating ways:
 
 • Capabilities co-evolve through sustained interaction
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cd89331-a7b7-4175-9da9-a75dbf12d83b_1408x768.jpeg)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cd89331-a7b7-4175-9da9-a75dbf12d83b_1408x768.jpeg)
 
 ---
 
@@ -169,11 +163,7 @@ The idea is to harness the benefits of bringing different types of expertise int
 
 > **Productive Tension**: The creative friction that occurs when different ways of knowing encounter each other, often leading to unexpected insights and new possibilities for development.
 
-[
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e35be75-d0f6-4a34-902a-1eab2dbe0b76_1408x768.jpeg)
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e35be75-d0f6-4a34-902a-1eab2dbe0b76_1408x768.jpeg)
 
 ---
 

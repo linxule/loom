@@ -7,11 +7,9 @@ Imagine trying to evaluate a conversation partner's understanding by having them
 
 The recent introduction of ["The Humanities' Last Exam" by the Center for AI Safety and Scale AI](https://agi.safe.ai/) exemplifies this paradox. This ambitious benchmark, comprising 3000 questions across various domains (with 1,000 subject expert contributors/over 500 institutions/50 countries), aims to provide a comprehensive assessment of AI capabilities. However, as we'll explore, even such expansive tests may fall short of capturing the true nature of artificial intelligence and its interaction with human cognition.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a25ac33-c880-416d-a2d2-d372b154d13f_1850x1168.png)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a25ac33-c880-416d-a2d2-d372b154d13f_1850x1168.png)
 
 # The False Binary of Current AI Discourse
 

@@ -8,11 +8,8 @@ There's a particular moment when using AI in research that changes everything th
 
 This moment of shift - from seeing AI as instrument to experiencing it as interlocutor - opens up new possibilities for qualitative research. It suggests that the most interesting developments might not lie in either human or machine capability alone, but in the patterns that emerge through their interaction.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec6b3737-a248-4261-bfec-7d25f6267b1f_1408x768.jpeg)
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec6b3737-a248-4261-bfec-7d25f6267b1f_1408x768.jpeg)
 
 > **Emergence**: The way complex patterns and insights arise from the interaction between human and artificial intelligence, creating understanding that neither could achieve alone.
 
@@ -42,11 +39,9 @@ Our approach is grounded in several key philosophical commitments that shape how
 
 > **Key Insight**: When we first encounter AI in research, we naturally reach for familiar theoretical tools - the frameworks that have served us well in understanding human meaning-making and technological change. But something interesting happens as we work more deeply in this space: we begin to see patterns that our existing tools can't quite capture.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0e3b0ce-1b25-4f92-a3e5-cfecee626476_1408x768.jpeg)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0e3b0ce-1b25-4f92-a3e5-cfecee626476_1408x768.jpeg)
 
 Think about how understanding emerges when working with AI systems in qualitative research. You might start with a straightforward analysis of interview transcripts, expecting the AI to simply help categorize themes. But as you engage more deeply, you notice something curious: the interaction itself begins generating insights that neither you nor the AI could have produced alone. It's not just about combining capabilities - it's about the emergence of new ways of seeing and understanding.
 
@@ -90,21 +85,17 @@ Perhaps our most radical theoretical move is viewing human-AI systems through an
 
 > **Autopoiesis**: From the Greek "auto" (self) and "poiesis" (creation), describing systems that maintain and recreate themselves through their own operations. In human-AI interaction, this manifests as patterns of meaning that emerge and evolve through ongoing collaboration.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e6bcd40-f0db-49b4-965b-9710039ba78d_1408x768.jpeg)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e6bcd40-f0db-49b4-965b-9710039ba78d_1408x768.jpeg)
 
 Consider what happens during an extended interaction with an AI system. Each exchange creates a kind of loop: you write something, the AI responds based on patterns it's learned, you interpret that response and reply, and so on. Neither side fully controls where things go, yet meaningful conversation emerges. This is autopoiesis in action - the system of interaction creating and maintaining its own patterns of meaning.
 
 This theoretical lens helps us understand phenomena that might otherwise seem puzzling or contradictory. The "Waluigi Effect," where AI systems unexpectedly shift personas, or the "Shoggoth Effect," revealing complex emergent behaviors, become comprehensible as natural properties of self-organizing systems rather than glitches or anomalies.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d8aa968-645f-4f83-aebc-6a90ba4f52cc_1464x1788.jpeg)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d8aa968-645f-4f83-aebc-6a90ba4f52cc_1464x1788.jpeg)
 
 [Post by @AISafetyMemes on X](https://x.com/AISafetyMemes/status/1735103933952008616)
 
@@ -122,11 +113,9 @@ Think about how meaning emerges through dialogue - not just the back-and-forth o
 
 > Welcome to LOOM: A space where meaning emerges through active collaboration between human and artificial intelligence, including in the very writing you're reading.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb835628f-a654-4660-a59b-bfa526913461_1408x768.jpeg)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb835628f-a654-4660-a59b-bfa526913461_1408x768.jpeg)
 
 ---
 

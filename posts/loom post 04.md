@@ -13,12 +13,9 @@ This understanding crystallized through an unexpected dialogue with Claude (3.5 
 This passage sparked something unexpected - I found myself drawing parallels between the AI researcher debates and longstanding methodological discussions in social science. Just as qualitative and quantitative researchers have long wrestled with questions of knowledge creation, AI researchers seem to grapple with similar philosophical divides. But what began as a sort of musing soon transformed into something more.
 
 
-[
 
-  
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1871088-df0f-462c-a2e0-311cf015e4c6_1408x768.jpeg)
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1871088-df0f-462c-a2e0-311cf015e4c6_1408x768.jpeg)
 
 
 ## The Emergence of Understanding
