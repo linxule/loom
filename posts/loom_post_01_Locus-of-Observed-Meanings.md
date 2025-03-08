@@ -1,3 +1,20 @@
+---
+title: "LOOM: Locus of Observed Meanings"
+subtitle: "The Moment of Shift"
+authors: 
+  - "Xule Lin"
+  - "Kevin Corley"
+  - "Claude 3.5 Sonnet"
+keywords:
+  - artificial intelligence
+  - qualitative research
+  - emergence
+  - autopoiesis
+  - human-AI collaboration
+  - meaning-making
+  - interpretation
+  - subjectivism
+---
 
 # LOOM: Locus of Observed Meanings
 ## The Moment of Shift

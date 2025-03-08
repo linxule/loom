@@ -1,6 +1,22 @@
-# Post
+---
+title: "LOOM II: The Organizational Weave"
+subtitle: "Where Human and Machine Minds Meet to Reveal New Patterns of Understanding"
+authors: 
+  - "Xule Lin"
+  - "Kevin Corley"
+keywords:
+  - organizational scholarship
+  - AI
+  - human-AI collaboration
+  - organizational contexts
+  - meaning in practice
+  - social dynamics
+  - structured interaction
+  - emergent patterns
+---
 
-🧵 LOOM II: The Organizational Weave - where human and machine minds meet to reveal new patterns of understanding.
+# LOOM II: The Organizational Weave 
+## Where Human and Machine Minds Meet to Reveal New Patterns of Understanding
 
 In this second piece, @Kevin_Corley and I explore a simple yet powerful observation: when AI enters an organization, it doesn't simply operate - it transforms through interaction. Just as a fabric takes on new qualities depending on where and how it's used, these technologies transform through their organizational contexts - shaped by the teams that use them, the people they work with, and the structures that guide their use.
 
@@ -119,7 +135,7 @@ The traditional story about AI development focuses almost exclusively on technic
 
 ## Science for Humanity: A Different Kind of Bridge
 
-> **Science for humanity:** This term “science for humanity” is taken from [**the new strategy implemented at Imperial College London**](https://www.imperial.ac.uk/media/imperial-college/about/leadership-and-strategy/president/public/Imperial-Strategy---Science-for-Humanity.pdf), one of the premier STEM-B universities in the world. One key aspect of the strategy is the recognition that science for the sake of science, or technological advancement for the sake of technological advancement, sells short the potential of a world-class institution. That science, all those technological advancements, must be applied to the challenges and needs of a complex world if the institution that fosters them is to be sustainable. We embrace this view and believe that AI advancement must be in the service of helping humanity improve itself and its world. Thus, science for humanity is at the very heart of LOOM and what we are trying to do with this conversation space.
+> **Science for humanity:** This term "science for humanity" is taken from [**the new strategy implemented at Imperial College London**](https://www.imperial.ac.uk/media/imperial-college/about/leadership-and-strategy/president/public/Imperial-Strategy---Science-for-Humanity.pdf), one of the premier STEM-B universities in the world. One key aspect of the strategy is the recognition that science for the sake of science, or technological advancement for the sake of technological advancement, sells short the potential of a world-class institution. That science, all those technological advancements, must be applied to the challenges and needs of a complex world if the institution that fosters them is to be sustainable. We embrace this view and believe that AI advancement must be in the service of helping humanity improve itself and its world. Thus, science for humanity is at the very heart of LOOM and what we are trying to do with this conversation space.
 
 Think about what happens when you bring social science insight into technological development. Instead of asking only "What can this system do?" we begin to ask richer questions: How do people actually use these tools in practice? What patterns emerge through sustained interaction? How do organizational contexts shape both use and effectiveness? How does use of this tool, engagement with this system, begin to change to social context of the people involved?
 

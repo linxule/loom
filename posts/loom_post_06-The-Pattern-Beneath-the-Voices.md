@@ -1,3 +1,26 @@
+---
+title: "LOOM VI: The Pattern Beneath the Voices"
+subtitle: "Cognitive Signatures in Human-AI Research: Towards a Resonant Methodology"
+authors: 
+  - "Xule Lin"
+  - "Kevin Corley"
+  - "Claude 3.5 Sonnet"
+  - "o3-mini-high"
+  - "o1-preview"
+  - "DeepSeek R1"
+  - "Gemini Pro"
+  - "Gemini Flash Thinking 2.0"
+keywords:
+  - cognitive signatures
+  - human-AI collaboration
+  - qualitative research
+  - dialogic engagement
+  - systematic classification
+  - progressive mastery
+  - interpretive frameworks
+  - research methodology
+---
+
 # LOOM VI: The Pattern Beneath the Voices
 
 ## Cognitive Signatures in Human-AI Research: Towards a Resonant Methodology

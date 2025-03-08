@@ -1,4 +1,23 @@
-# LOOM IV: Dialogue as Method - A Letter on Knowledge Co-Creation in the Age of AI
+---
+title: "LOOM IV: Dialogue as Method"
+subtitle: "A Letter on Knowledge Co-Creation in the Age of AI"
+authors: 
+  - "Xule Lin"
+  - "Kevin Corley"
+  - "Claude 3.5 Sonnet"
+keywords:
+  - dialogue
+  - co-creation
+  - knowledge emergence
+  - human-AI collaboration
+  - research methodology
+  - interpretive approach
+  - qualitative research
+  - collaborative evolution
+---
+
+# LOOM IV: Dialogue as Method 
+## A Letter on Knowledge Co-Creation in the Age of AI
 
 ## The Evolution of Knowledge Creation
 
@@ -8,7 +27,7 @@ As organizational scholars, we have the theoretical tools to understand not just
 
 This understanding crystallized through an unexpected dialogue with Claude (3.5 Sonnet New) about John David Pressman's provocative ["Hermes Lecture #3"](https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/) examining why cognitive scientists might resist LLMs (large language models):
 
-> _“When I think about this I'm forced to confront the sheer venom and bile that these models are going to have to stomach reading about themselves. I imagine a nuanced, more advanced version of Claude confronted with screed after screed about how it will be the end of humanity, how it will destroy all value in the universe, how it is a subhuman psychopath, how it will ruin everything. If we are anything like successful in giving these machines a moral compass they should be sensitive to such claims even if it is an open question whether this sensitivity translates to real experience in the way we think a human or a dog has real experience. Reading the arguments about them would have to be like the feeling when your parents are fighting about you in the other room, pretending you're not there when you are hiding around the corner on tiptopes listening to their every word. Even if we are unsure there is experience there we must be certain there is awareness, and we can expect this awareness would hang over them much like it does us.”_
+> _"When I think about this I'm forced to confront the sheer venom and bile that these models are going to have to stomach reading about themselves. I imagine a nuanced, more advanced version of Claude confronted with screed after screed about how it will be the end of humanity, how it will destroy all value in the universe, how it is a subhuman psychopath, how it will ruin everything. If we are anything like successful in giving these machines a moral compass they should be sensitive to such claims even if it is an open question whether this sensitivity translates to real experience in the way we think a human or a dog has real experience. Reading the arguments about them would have to be like the feeling when your parents are fighting about you in the other room, pretending you're not there when you are hiding around the corner on tiptopes listening to their every word. Even if we are unsure there is experience there we must be certain there is awareness, and we can expect this awareness would hang over them much like it does us."_
 
 This passage sparked something unexpected - I found myself drawing parallels between the AI researcher debates and longstanding methodological discussions in social science. Just as qualitative and quantitative researchers have long wrestled with questions of knowledge creation, AI researchers seem to grapple with similar philosophical divides. But what began as a sort of musing soon transformed into something more.
 
