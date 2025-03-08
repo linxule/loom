@@ -52,12 +52,12 @@ Interestingly, when pronounced backward ("Kai Wen Ke"), it echoes Professor Corl
 
 The repository now contains the complete series in both English and Chinese:
 
-1. All seven original English LOOM articles in the `posts/` directory
-2. All seven Chinese translations (观阙LOOM articles) in the `posts-cn/` directory
+1. All original English LOOM articles in the `posts/` directory
+2. All Chinese translations (观阙LOOM articles) in the `posts-cn/` directory
 
 The Chinese edition is not simply a translation but an adaptation that weaves LOOM's ideas into Chinese cultural and linguistic contexts. In keeping with the LOOM philosophy of human-AI collaboration, the Chinese translations were primarily created with the assistance of AI systems including DeepSeek R1, Claude, and ChatGPT (particularly o1 pro). Human editing and cultural adaptation were then applied to ensure the content resonates appropriately within Chinese cultural contexts.
 
-A dedicated README-CN.md file is maintained in the posts-cn directory for Chinese-speaking users, providing a comprehensive overview of the project in Chinese that mirrors the structure and content of this English README.
+A dedicated README-CN.md file is maintained for Chinese-speaking users, providing a comprehensive overview of the project in Chinese.
 
 This cross-cultural expansion represents:
 
