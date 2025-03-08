@@ -57,4 +57,14 @@ All content in this repository was originally published at [Thread Counts](https
 
 ## Contributing
 
-If you'd like to contribute corrections or improvements to any articles, please submit a pull request. 
+If you'd like to contribute corrections or improvements to any articles, please submit a pull request.
+
+## Citation
+
+When citing articles from this repository in academic work, please use the following Chicago author-date format:
+
+Lin, Xule, Kevin Corley, and AI Collaborator. [Year]. "Article Title." LOOM: Locus of Observed Meanings, Thread Counts (blog). [Month Day]. https://threadcounts.substack.com/[article-specific-path].
+
+Example:
+
+Lin, Xule, Kevin Corley, and Claude. 2024. "LOOM II: The Organizational Weave." LOOM: Locus of Observed Meanings, Thread Counts (blog). December 27. https://threadcounts.substack.com/p/loom-ii-the-organizational-weave. 

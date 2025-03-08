@@ -4,6 +4,7 @@ subtitle: "Where Human and Machine Minds Meet to Reveal New Patterns of Understa
 authors: 
   - "Xule Lin"
   - "Kevin Corley"
+  - "Claude 3.5 Sonnet (new)"
 keywords:
   - organizational scholarship
   - AI
@@ -13,6 +14,8 @@ keywords:
   - social dynamics
   - structured interaction
   - emergent patterns
+link: https://threadcounts.substack.com/p/loom-ii-the-organizational-weave
+date: 2024-12-27
 ---
 
 # LOOM II: The Organizational Weave 

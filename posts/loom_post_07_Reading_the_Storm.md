@@ -5,7 +5,7 @@ authors:
   - "Xule Lin"
   - "Kevin Corley"
   - "Claude 3.7 Sonnet"
-  - "Claude 3.5 Sonnet"
+  - "Claude 3.5 Sonnet (new)"
 keywords:
   - AI-mediated reality
   - mirror effect
@@ -15,6 +15,8 @@ keywords:
   - mediated meaning-making
   - post-post-truth
   - layered mediation
+link: https://threadcounts.substack.com/p/loom-vii-reading-the-storm
+date: 2025-03-02
 ---
 
 # LOOM VII: Reading the Storm

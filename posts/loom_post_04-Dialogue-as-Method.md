@@ -3,8 +3,7 @@ title: "LOOM IV: Dialogue as Method"
 subtitle: "A Letter on Knowledge Co-Creation in the Age of AI"
 authors: 
   - "Xule Lin"
-  - "Kevin Corley"
-  - "Claude 3.5 Sonnet"
+  - "Claude 3.5 Sonnet (new)"
 keywords:
   - dialogue
   - co-creation
@@ -14,6 +13,8 @@ keywords:
   - interpretive approach
   - qualitative research
   - collaborative evolution
+link: https://threadcounts.substack.com/p/loom-iv-dialogue-as-method
+date: 2025-01-24
 ---
 
 # LOOM IV: Dialogue as Method 

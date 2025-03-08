@@ -4,6 +4,7 @@ subtitle: "A Dialogue on the Future of Social Science Research"
 authors: 
   - "Xule Lin"
   - "ChatGPT o1 pro"
+  - "Claude 3.5 Sonnet (new)"
 keywords:
   - social science research
   - qualitative research
@@ -13,6 +14,8 @@ keywords:
   - human interpretation
   - academic identity
   - intellectual craftsmanship
+link: https://threadcounts.substack.com/p/loom-iii-between-automated-precision
+date: 2025-01-12
 ---
 
 # LOOM III: Between Automated Precision and Lived Understanding

@@ -4,12 +4,7 @@ subtitle: "Cognitive Signatures in Human-AI Research: Towards a Resonant Methodo
 authors: 
   - "Xule Lin"
   - "Kevin Corley"
-  - "Claude 3.5 Sonnet"
-  - "o3-mini-high"
-  - "o1-preview"
-  - "DeepSeek R1"
-  - "Gemini Pro"
-  - "Gemini Flash Thinking 2.0"
+  - "Claude 3.5 Sonnet (new)"
 keywords:
   - cognitive signatures
   - human-AI collaboration
@@ -19,6 +14,8 @@ keywords:
   - progressive mastery
   - interpretive frameworks
   - research methodology
+link: https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices
+date: 2025-02-16
 ---
 
 # LOOM VI: The Pattern Beneath the Voices

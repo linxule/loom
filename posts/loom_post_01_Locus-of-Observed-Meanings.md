@@ -4,7 +4,7 @@ subtitle: "The Moment of Shift"
 authors: 
   - "Xule Lin"
   - "Kevin Corley"
-  - "Claude 3.5 Sonnet"
+  - "Claude 3.5 Sonnet (new)"
 keywords:
   - artificial intelligence
   - qualitative research
@@ -14,6 +14,8 @@ keywords:
   - meaning-making
   - interpretation
   - subjectivism
+link: https://threadcounts.substack.com/p/loom-locus-of-observed-meanings
+date: 2024-12-23
 ---
 
 # LOOM: Locus of Observed Meanings
