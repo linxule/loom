@@ -119,4 +119,4 @@ Lin, Xule, Kevin Corley, and Claude. 2024. "LOOM II: The Organizational Weave." 
 
 Example:
 
-林徐乐, 柯文凯, 和Claude. 2024. "观阙LOOM开篇：交织意义之所." 观阙LOOM：交织意义之所, 观阙LOOM (公众号). 7月 15日. https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q. 
+林徐乐, 柯文凯, 和Claude. 2024. "观阙LOOM开篇：交织意义之所." 观阙LOOM：交织意义之所, 观阙LOOM (公众号). 12月 23日. https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q. 
