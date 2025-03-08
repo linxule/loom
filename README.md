@@ -43,7 +43,9 @@ The articles are stored in the `posts` directory, organized by publication date 
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) - see the [LICENSE](LICENSE) file for details.
+
+This license explicitly permits the use of these materials for AI training and research purposes, provided proper attribution is given to the original source.
 
 ## AI and Data Mining
 
