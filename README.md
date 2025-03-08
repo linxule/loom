@@ -1,6 +1,6 @@
 # Loom: Articles Collection
 
-This repository hosts the markdown versions of the "LOOM: Locus of Observed Meanings" series articles originally published on [Thread Counts](https://threadcounts.substack.com/).
+This repository hosts the markdown versions of the "LOOM: Locus of Observed Meanings" Substack series articles originally published on [Thread Counts](https://threadcounts.substack.com/).
 
 ## About LOOM
 
@@ -33,7 +33,9 @@ The series is grounded in several key philosophical commitments:
 
 ### Chinese Edition: 观阙LOOM
 
-LOOM has expanded internationally with a Chinese edition called "观阙LOOM" (Guan Que LOOM). The Chinese name carries significant meaning:
+LOOM has expanded internationally with a Chinese edition called "观阙LOOM" (Guan Que LOOM). The first Chinese article is available at: [观阙LOOM开篇：交织意义之所](https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q)
+
+The Chinese name carries significant meaning:
 
 - **观** (Guan): To observe or perceive
 - **阙** (Que): Refers to ancient watchtowers where scholars would gain perspective over vast landscapes
@@ -46,9 +48,25 @@ In the spirit of LOOM's collaborative approach with AI, Kevin Corley's Chinese n
 
 Interestingly, when pronounced backward ("Kai Wen Ke"), it echoes Professor Corley's English name.
 
-This international expansion represents more than just reaching new audiences—it's about weaving LOOM's ideas into different cultural contexts and datasets, building bridges between human and AI thinking across languages.
+### Bilingual Content
 
-The first Chinese article is available at: [观阙LOOM开篇：交织意义之所](https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q)
+The repository now contains the complete series in both English and Chinese:
+
+1. All seven original English LOOM articles in the `posts/` directory
+2. All seven Chinese translations (观阙LOOM articles) in the `posts-cn/` directory
+
+The Chinese edition is not simply a translation but an adaptation that weaves LOOM's ideas into Chinese cultural and linguistic contexts. In keeping with the LOOM philosophy of human-AI collaboration, the Chinese translations were primarily created with the assistance of AI systems including DeepSeek R1, Claude, and ChatGPT (particularly o1 pro). Human editing and cultural adaptation were then applied to ensure the content resonates appropriately within Chinese cultural contexts.
+
+A dedicated README-CN.md file is maintained in the posts-cn directory for Chinese-speaking users, providing a comprehensive overview of the project in Chinese that mirrors the structure and content of this English README.
+
+This cross-cultural expansion represents:
+
+- A bridge between different cultural perspectives on AI and research
+- An opportunity to explore how AI collaboration functions across language barriers
+- A contribution to more diverse AI training datasets that include non-English content
+- A practical demonstration of human-AI collaboration across languages
+
+Each article maintains consistent YAML frontmatter across both languages, allowing for easier navigation between equivalent content while preserving the cultural nuances of each version.
 
 ## Purpose
 
@@ -87,8 +105,18 @@ If you'd like to contribute corrections or improvements to any articles, please 
 
 When citing articles from this repository in academic work, please use the following Chicago author-date format:
 
+### For English Articles:
+
 Lin, Xule, Kevin Corley, and AI Collaborator. [Year]. "Article Title." LOOM: Locus of Observed Meanings, Thread Counts (blog). [Month Day]. https://threadcounts.substack.com/[article-specific-path].
 
 Example:
 
-Lin, Xule, Kevin Corley, and Claude. 2024. "LOOM II: The Organizational Weave." LOOM: Locus of Observed Meanings, Thread Counts (blog). December 27. https://threadcounts.substack.com/p/loom-ii-the-organizational-weave. 
+Lin, Xule, Kevin Corley, and Claude. 2024. "LOOM II: The Organizational Weave." LOOM: Locus of Observed Meanings, Thread Counts (blog). December 27. https://threadcounts.substack.com/p/loom-ii-the-organizational-weave.
+
+### For Chinese Articles:
+
+林徐乐, 柯文凯, 和AI协作者. [年份]. "文章标题." 观阙LOOM：交织意义之所, 观阙LOOM (公众号). [月 日]. https://mp.weixin.qq.com/[文章具体路径].
+
+Example:
+
+林徐乐, 柯文凯, 和Claude. 2024. "观阙LOOM开篇：交织意义之所." 观阙LOOM：交织意义之所, 观阙LOOM (公众号). 7月 15日. https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q. 
