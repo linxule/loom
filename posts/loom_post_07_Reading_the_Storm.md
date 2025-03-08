@@ -6,7 +6,6 @@ authors:
   - "Kevin Corley"
   - "Claude 3.7 Sonnet"
   - "Claude 3.5 Sonnet"
-date: 2023-03-08
 keywords:
   - AI-mediated reality
   - mirror effect
