@@ -18,17 +18,6 @@ link: https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer
 date: 2025-05-15    
 ---
 
----
-title: "LOOM XII: The AI Whisperer"
-source: "https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer"
-author:
-  - "[[Xule Lin]]"
-published: 2025-05-01
-created: 2025-05-14
-description: "Mediating Between Human and Artificial Intelligence in Research"
-tags:
-  - "clippings"
----
 ### Mediating Between Human and Artificial Intelligence in Research
 
 > **The AI Whisperer**: A new role emerging in the space between researchers and AI systems – not merely a technical assistant but a specialized mediator who bridges cognitive worlds, translates between different forms of intelligence, and enables productive collaboration that neither human nor machine could achieve alone.
