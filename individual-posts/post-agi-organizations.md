@@ -1,3 +1,20 @@
+---
+title: "Post-AGI Organizations: AI’s Blind Spot and Ours"
+subtitle: "On Artificial Logic, Human Wisdom, and the Future of Organizing"
+authors: 
+  - "Xule Lin"
+  - "Claude 4 Opus"
+  - "Gemini-2.5-Pro-06-05"
+keywords:
+  - post-agi organizations
+  - artificial general intelligence 
+  - agi
+  - organizational research
+  - human-AI collaboration
+link: https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind
+date: 2025-06-15
+---
+
 # Post-AGI Organizations: AI’s Blind Spot and Ours
 
 ## On Artificial Logic, Human Wisdom, and the Future of Organizing
