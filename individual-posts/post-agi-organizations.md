@@ -21,7 +21,7 @@ date: 2025-06-15
 
 I recently asked three of the world’s most advanced AIs - Claude-4-opus, ChatGPT (o3-pro), and Gemini (2.5-pro) - to conduct deep research on a simple question: “How might AGI fundamentally reshape the fabric of organizations?”
 
-My own thinking had been sparked by a [brilliant paper from Justin Bullock, Samuel Hammond, and Seb Krier](https://arxiv.org/abs/2503.05710) on how Artificial General Intelligence might reshape *governments*. The paper’s rigorous, forward-looking tone was a powerful call to think systemically about the future. It made me wonder: what would these alien minds have to say about the future of organizing in general?
+My own thinking had been sparked by a [brilliant paper from Justin Bullock, Samuel Hammond, and Séb Krier](https://arxiv.org/abs/2503.05710) on how Artificial General Intelligence might reshape *governments*. The paper’s rigorous, forward-looking tone was a powerful call to think systemically about the future. It made me wonder: what would these alien minds have to say about the future of organizing in general?
 
 I expected divergence. Maybe some interesting but generic insights. Perhaps a few contradictions I could explore. I was not prepared for what they returned: a vision of pure, dispassionate, and revolutionary logic.
 
