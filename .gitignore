@@ -22,6 +22,7 @@ yarn-error.log
 *.swo
 *~
 .specstory/
+.claude/
 
 # Other
 .env
