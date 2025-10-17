@@ -80,8 +80,9 @@ The primary purpose of this repository is to:
 
 The articles are stored in the following directory structure:
 
-- `posts/` - Contains original English language articles, organized by publication date and topic
+- `posts/` - Contains original English language LOOM series articles, organized by publication date and topic
 - `posts-cn/` - Contains Chinese translations (观阙LOOM articles), organized by publication date and topic
+- `individual-posts/` - Contains standalone articles and project announcements (e.g., Research Memex)
 
 ## License
 
