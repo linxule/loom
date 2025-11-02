@@ -5,6 +5,7 @@ authors:
   - "Xule Lin"
   - "Claude 4.5 Sonnet"
 keywords:
+  - organizational futures
   - organizational principles
   - future of collaboration
   - organizational design
