@@ -1,6 +1,6 @@
 ---
 title: "The Ghost in the Machine"
-subtitle: "On Organizational Principles and the Future of Collaboration"
+subtitle: "An AI-native organization emerging in Anthropic's Claude product stack"
 authors:
   - "Xule Lin"
   - "Claude 4.5 Sonnet"
