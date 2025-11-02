@@ -370,7 +370,7 @@ Organizational scholarship has what the current discourse needs: frameworks for 
 
 The tools exist. The question is how we deploy them.
 
-The current approach (a multi-year lag between technological change and theoretical catch-up) doesn't work when new forms of organizing are crystallizing in real-time. **By the time we publish comprehensive analyses, the forms we're studying have already become infrastructure.** As Tima Bansal observes, scholars "analyse historical patterns while business faces unprecedented disruption," finding that ["models trained on pre-disruption data"](https://www.ft.com/content/aa6963f4-eaf6-4875-8c8e-fd8c01c55840) offer limited guidance. The call is clear: shift from studying organizations as detached observers to co-creating solutions as engaged architects.
+The current approach (a multi-year lag between technological change and theoretical catch-up) doesn't work when new forms of organizing are crystallizing in real-time. **By the time we publish comprehensive analyses, the forms we're studying have already become infrastructure.** As Tima Bansal observes, scholars "analyse historical patterns while business faces unprecedented disruption," finding that ["models trained on pre-disruption data"](https://www.ft.com/content/aa6963f4-eaf6-4875-8c8e-fd8c01c55840) offer limited guidance. Her call: stop being "organisational anthropologists" and start becoming "organisational architects."
 
 **What the meso-level requires:**
 
