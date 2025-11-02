@@ -53,6 +53,14 @@ What follows is the story of that discovery: examining Claude’s product stack 
 
 For each architectural choice, we apply a consistent investigative pattern: What's the artifact? What's the puzzle it presents? And what does it reveal about collaboration?
 
+| Artifact | Organizational Analogue | Core Principle | Technical Manifestation |
+|----------|------------------------|----------------|------------------------|
+| **Projects** | Departments with charters & knowledge bases | Focus demands boundaries | 200K token contexts, custom instructions, team sharing |
+| **CLAUDE.md** | Institutional knowledge & shared memory | Trust demands transparency | Text files, 4-tier hierarchy, human-readable |
+| **Skills** | Training manuals & procedures | Action demands clarity | Progressive disclosure, model-invoked, portable modules |
+| **MCP** | Contractor network & IT governance | Collaboration demands openness + control | OAuth 2.0, explicit approval, standardized protocols |
+| **Marketplaces** | Distributed innovation ecosystem | Innovation demands distribution | Git repos, decentralized, no approval needed |
+
 ## Artifact One: Projects—The Bounded Context
 
 **The Surface:**[Projects](https://www.anthropic.com/news/projects) organize conversations, documents, and context into stable workspaces. Each project gets 200,000 tokens of context, custom instructions, and dedicated memory.[^1]
