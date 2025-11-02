@@ -6,8 +6,9 @@ authors:
   - "Claude 4 Opus"
   - "Gemini-2.5-Pro-06-05"
 keywords:
+  - organizational futures
   - post-agi organizations
-  - artificial general intelligence 
+  - artificial general intelligence
   - agi
   - organizational research
   - human-AI collaboration
