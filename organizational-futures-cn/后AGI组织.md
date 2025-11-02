@@ -6,6 +6,7 @@ authors:
   - "Claude 4 Opus"
   - "Gemini 2.5 Pro 06-05"
 keywords:
+  - 组织未来
   - AGI
   - 组织理论
   - 人机协作
