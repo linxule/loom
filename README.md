@@ -83,6 +83,7 @@ The articles are stored in the following directory structure:
 - `posts/` - Contains original English language LOOM series articles, organized by publication date and topic
 - `posts-cn/` - Contains Chinese translations (观阙LOOM articles), organized by publication date and topic
 - `organizational-futures/` - Contains the "Organizational Futures" series exploring AI's role in reshaping organizational forms and practices
+- `epistemic-voids/` - Contains the "Epistemic Voids" series: case studies in AI workflows that produce the aesthetic of rigor without the substance
 - `individual-posts/` - Contains standalone articles and project announcements (e.g., Research Memex)
 
 ## License

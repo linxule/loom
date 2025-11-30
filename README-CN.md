@@ -87,6 +87,7 @@
 - `posts/` - 包含原创英文LOOM系列文章，按发布日期和主题组织
 - `posts-cn/` - 包含中文版观阙LOOM文章，按发布日期和主题组织
 - `organizational-futures/` - 包含"组织未来"系列，探索AI在重塑组织形式和实践中的角色
+- `epistemic-voids/` - 包含"认知空洞"系列：审视那些徒有严谨之表却无实质之里的AI工作流案例
 - `individual-posts/` - 包含独立文章和项目公告（如Research Memex）
 
 ## 许可

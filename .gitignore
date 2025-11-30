@@ -34,4 +34,4 @@ drafts/
 .env.production.local 
 .cursorindexingignore
 CLAUDE.md
-TRANSLATION-GUIDE-CN.md
+guides/
