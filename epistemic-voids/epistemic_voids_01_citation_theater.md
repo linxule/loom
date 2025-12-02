@@ -65,7 +65,7 @@ Then the author deleted it. But not before the workflow diagram had been saved a
 > **Is this ethical?**
 > I think yes, because AI only helps me organise and express my ideas. I control the narrative and decide what to say - AI just helps me say it clearly. It transforms my papers, notes, and outlines into what is accepted as academic writing. Every step is fact-checked, and the final output is still 100% my intellectual work.
 
-[IMAGE: EffortlessAcademic workflow infographic]
+![EffortlessAcademic workflow infographic](attachments/epistemic_voids_01_citation_theater_01_effortlessacademic.jpeg)
 
 At first glance, it looks like someone finally cracked the chaos of thesis writing. Boxes, arrows, steps.
 
@@ -147,7 +147,7 @@ What if the architecture itself demanded rigor?
 
 Google's [AI Co-Scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) is a multi-agent system built on Gemini 2.0. Same aesthetic as the viral thesis diagram: boxes, arrows, agents, and feedback loops.
 
-[IMAGE: Google AI Co-Scientist system diagram]
+![Google AI Co-Scientist system diagram](attachments/epistemic_voids_01_citation_theater_02_aicoscientist_overview.png)
 
 Completely different epistemology.
 
