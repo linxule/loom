@@ -102,7 +102,7 @@ I'm not sure. But the symmetry is worth noticing.
 
 When "this technology is incapable" settles into the discourse before we've tested what's actually possible, something gets lost: potential capability, the question itself, the experiments that don't get run, the creative tensions that don't get explored.
 
-Maybe the critics are right and the entire paradigm building on LLMs is unsuited. Maybe the stack can't be steered in ways that matter. BUT we can't know for sure from only testing showroom displays.
+Maybe the critics are right and the entire paradigm building on LLMs is unsuited. Maybe the stack can't be steered in ways that matter. The experiments that would tell us haven't been run yet.
 
 ---
 
