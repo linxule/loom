@@ -3,12 +3,14 @@ title: "Epistemic Voids #1: Citation Theater"
 subtitle: "When papers become props"
 authors:
   - "Xule Lin"
+  - "Claude"
 keywords:
   - citation theater
   - AI workflows
   - academic writing
   - epistemic responsibility
   - qualitative research
+link: https://www.threadcounts.org/p/epistemic-voids-1-citation-theater
 date: 2025-11-30
 ---
 
@@ -203,4 +205,4 @@ Maybe that's not a deficiency in the workflow. Maybe it's the whole point.
 
 *This is the first in a series called **Epistemic Voids**: case studies in AI workflows that produce the aesthetic of rigor without the substance. More specimens to come.*
 
-—Xule Lin
+—Xule Lin, with Claude
