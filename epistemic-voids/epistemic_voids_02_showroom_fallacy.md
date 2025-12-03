@@ -1,6 +1,6 @@
 ---
 title: "Epistemic Voids #2: Showroom Fallacy"
-subtitle: "A phrase stopped me: \"The only thing you can do is prompt it.\""
+subtitle: "Confusing curation for capacity"
 authors:
   - "Xule Lin"
   - "Claude"
@@ -56,7 +56,7 @@ These critiques, albeit using different methods, reveal the same inferential mov
 
 ### Showroom Fallacy
 
-> **Showroom fallacy**: critiquing the display model and condemning the factory.
+> **Showroom fallacy**: mistaking product constraints for model limits.
 
 What's often less talked about in the academic discourse is that a lot of complexity sits between an LLM and a researcher's experience: system prompts, retrieval pipelines, interface design, and methodological scaffolding (e.g., think about how textual data might be split or combined in a message sent to the LLM). What we typically experience in a consumer product (e.g., when we use a chat window on ChatGPT, Claude, or Gemini) is composite.
 
