@@ -98,7 +98,7 @@ Taking all of this together, we can say that researchers are finding world model
 
 ## A technical complication
 
-[@repligate (janus)](https://x.com/repligate), an independent AI researcher, has been pointing out details that complicate the "just prediction" framing.
+[@repligate (janus)](https://x.com/repligate), an independent AI researcher, has been pointing out details that complicate the "just prediction" framing (e.g.,[here](https://x.com/repligate/status/1965659230486364420) and [here](https://x.com/repligate/status/1965671097048998078)).
 
 On the RL training distinction, janus [wrote](https://x.com/repligate/status/1965659230486364420):
 
