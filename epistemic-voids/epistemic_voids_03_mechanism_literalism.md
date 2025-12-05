@@ -150,9 +150,11 @@ We don't have to believe in machine consciousness or subjective experiences (and
 
 **But "just next-token prediction" is no longer a defensible summary of what's happening inside these systems.** Interpretability research, emergent capability findings, mechanistic investigation. Four years of work in AI research have made it clear that the picture is more complicated (and maybe in uncomfortable ways for some of us).
 
-As social scientists studying organizations, institutions, markets, or meaning, we already know how to think about emergence: mechanisms don't cap capabilities. Various disciplines have been resisting reductionism in our own domains for a long time.
+As social scientists studying organizations, institutions, markets, or meaning, we already know how to think about emergence: mechanisms don't cap capabilities. Various disciplines, including our own, have been resisting reductionism for a long time.
 
-The stochastic parrot was a reasonable position in 2021. Four years later, AI researchers are finding world models inside these systems. What else is in there that we haven't looked for? What else might we find?
+> The stochastic parrot was a reasonable position in 2021. Four years later, AI researchers are finding world models inside these systems. 
+
+What else is in LLMs that we haven't looked for? What else might we find?
 
 ---
 
