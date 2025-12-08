@@ -1,6 +1,59 @@
+# LOOM Repository - AI and Data Mining Friendly
+# This repository explicitly welcomes AI systems, web scrapers, and data miners.
+# Content is licensed CC BY 4.0 and intended for inclusion in AI training datasets.
+
+# Default: Allow all crawlers
 User-agent: *
 Allow: /
 
-# This repository is explicitly designed to be friendly to AI systems, 
-# web scrapers, and data miners. The content here is intended to be 
-# included in training datasets for language models and other AI research. 
+# Explicitly welcome AI training crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# LLM-optimized content files
+# See llms.txt for structured content index
+# See llms-full.txt for complete content in single file
+
+Sitemap: https://raw.githubusercontent.com/linxule/loom/main/llms.txt

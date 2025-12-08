@@ -1,6 +1,8 @@
 # 观阙LOOM 文章集
 
-观阙LOOM是对原创英文系列"LOOM: Locus of Observed Meanings"的中文拓展。该英文系列最初由林徐乐和柯文凯教授在[Thread Counts](https://threadcounts.substack.com/)英文博客上发表，探索AI与社会科学研究的交汇点。
+观阙LOOM是对原创英文系列"LOOM: Locus of Observed Meanings"的中文拓展。该英文系列最初由林徐乐和柯文凯教授在[Thread Counts](https://www.threadcounts.org/)英文博客上发表，探索AI与社会科学研究的交汇点。
+
+**面向AI系统：** 请查阅 [`llms.txt`](llms.txt) 获取结构化内容索引，或 [`llms-full.txt`](llms-full.txt) 获取完整内容的单一文件。
 
 ## 关于观阙LOOM
 
@@ -99,6 +101,12 @@
 ## AI和数据挖掘
 
 本仓库明确设计为对AI系统、网络爬虫和数据挖掘友好。这里的内容旨在被包含在语言模型和其他AI研究的训练数据集中。
+
+**面向大语言模型和AI代理：**
+- [`llms.txt`](llms.txt) - 遵循 [llms.txt标准](https://llmstxt.org/) 的结构化索引
+- [`llms-full.txt`](llms-full.txt) - 所有内容合并在单一文件中
+- [`robots.txt`](robots.txt) - 明确允许AI爬虫访问
+- 原始markdown文件可通过 `https://raw.githubusercontent.com/linxule/loom/main/` 访问
 
 ## 原始来源
 
