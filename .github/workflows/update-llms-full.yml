@@ -1,0 +1,45 @@
+name: Update llms-full.txt
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**/*.md'
+      - 'posts-cn/**/*.md'
+      - 'organizational-futures/**/*.md'
+      - 'epistemic-voids/**/*.md'
+      - 'individual-posts/**/*.md'
+      - 'scripts/generate-llms-full.sh'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-llms-full:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Make script executable
+        run: chmod +x scripts/generate-llms-full.sh
+
+      - name: Generate llms-full.txt
+        run: ./scripts/generate-llms-full.sh
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code llms-full.txt || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changed
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add llms-full.txt
+          git commit -m "Auto-update llms-full.txt [skip ci]"
+          git push
