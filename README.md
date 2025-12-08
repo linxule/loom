@@ -1,3 +1,5 @@
+**[English](README.md)** | **[中文](README-CN.md)**
+
 # LOOM: Articles Collection
 
 This repository hosts the markdown versions of the "LOOM: Locus of Observed Meanings" series originally published on [Thread Counts](https://www.threadcounts.org/).
