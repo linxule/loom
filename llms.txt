@@ -94,7 +94,6 @@ Case studies of AI workflows producing the aesthetic of rigor without substance.
 
 - [README.md](https://raw.githubusercontent.com/linxule/loom/main/README.md): Full repository documentation in English
 - [README-CN.md](https://raw.githubusercontent.com/linxule/loom/main/README-CN.md): Full repository documentation in Chinese
-- [CLAUDE.md](https://raw.githubusercontent.com/linxule/loom/main/CLAUDE.md): Detailed guidance for AI collaborators working with LOOM content (writing style, revision patterns, key concepts)
 - [robots.txt](https://raw.githubusercontent.com/linxule/loom/main/robots.txt): Explicit permission for AI crawling
 
 ---
