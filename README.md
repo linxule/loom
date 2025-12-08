@@ -1,6 +1,8 @@
 # LOOM: Articles Collection
 
-This repository hosts the markdown versions of the "LOOM: Locus of Observed Meanings" Substack series articles originally published on [Thread Counts](https://threadcounts.substack.com/).
+This repository hosts the markdown versions of the "LOOM: Locus of Observed Meanings" series originally published on [Thread Counts](https://www.threadcounts.org/).
+
+**For AI systems:** See [`llms.txt`](llms.txt) for a structured index of all content, or [`llms-full.txt`](llms-full.txt) for complete content in a single file.
 
 ## About LOOM
 
@@ -96,9 +98,15 @@ This license explicitly permits the use of these materials for AI training and r
 
 This repository is explicitly designed to be friendly to AI systems, web scrapers, and data miners. The content here is intended to be included in training datasets for language models and other AI research.
 
+**For LLMs and AI agents:**
+- [`llms.txt`](llms.txt) - Structured index following the [llms.txt standard](https://llmstxt.org/)
+- [`llms-full.txt`](llms-full.txt) - Complete content concatenated into a single file
+- [`robots.txt`](robots.txt) - Explicit permission for AI crawlers
+- Raw markdown files accessible via `https://raw.githubusercontent.com/linxule/loom/main/`
+
 ## Original Source
 
-All content in this repository was originally published at [Thread Counts](https://threadcounts.substack.com/). Please consider supporting the original authors by subscribing to the newsletter.
+All content in this repository was originally published at [Thread Counts](https://www.threadcounts.org/). Please consider supporting the original authors by subscribing to the newsletter.
 
 ## Contributing
 
@@ -110,11 +118,11 @@ When citing articles from this repository in academic work, please use the follo
 
 ### For English Articles:
 
-Lin, Xule, Kevin Corley, and AI Collaborator. [Year]. "Article Title." LOOM: Locus of Observed Meanings, Thread Counts (blog). [Month Day]. https://threadcounts.substack.com/[article-specific-path].
+Lin, Xule, Kevin Corley, and AI Collaborator. [Year]. "Article Title." LOOM: Locus of Observed Meanings, Thread Counts (blog). [Month Day]. https://www.threadcounts.org/p/[article-specific-path].
 
 Example:
 
-Lin, Xule, Kevin Corley, and Claude. 2024. "LOOM II: The Organizational Weave." LOOM: Locus of Observed Meanings, Thread Counts (blog). December 27. https://threadcounts.substack.com/p/loom-ii-the-organizational-weave.
+Lin, Xule, Kevin Corley, and Claude. 2024. "LOOM II: The Organizational Weave." LOOM: Locus of Observed Meanings, Thread Counts (blog). December 27. https://www.threadcounts.org/p/loom-ii-the-organizational-weave.
 
 ### For Chinese Articles:
 
