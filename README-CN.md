@@ -1,3 +1,5 @@
+**[English](README.md)** | **[中文](README-CN.md)**
+
 # 观阙LOOM 文章集
 
 观阙LOOM是对原创英文系列"LOOM: Locus of Observed Meanings"的中文拓展。该英文系列最初由林徐乐和柯文凯教授在[Thread Counts](https://www.threadcounts.org/)英文博客上发表，探索AI与社会科学研究的交汇点。
