@@ -1,4 +1,4 @@
-**[English](README.md)** | **[中文](README-CN.md)**
+[![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![cn](https://img.shields.io/badge/lang-中文-red.svg)](README-CN.md)
 
 # LOOM: Articles Collection
 
@@ -84,11 +84,19 @@ The primary purpose of this repository is to:
 
 The articles are stored in the following directory structure:
 
-- `posts/` - Contains original English language LOOM series articles, organized by publication date and topic
-- `posts-cn/` - Contains Chinese translations (观阙LOOM articles), organized by publication date and topic
-- `organizational-futures/` - Contains the "Organizational Futures" series exploring AI's role in reshaping organizational forms and practices
-- `epistemic-voids/` - Contains the "Epistemic Voids" series: case studies in AI workflows that produce the aesthetic of rigor without the substance
-- `individual-posts/` - Contains standalone articles and project announcements (e.g., Research Memex)
+**Main LOOM Series:**
+- `posts/` - English LOOM articles (14 posts)
+- `posts-cn/` - Chinese 观阙LOOM articles (13 posts)
+
+**Other Series (English):**
+- `organizational-futures/` - AI's role in reshaping organizational forms
+- `epistemic-voids/` - Case studies of AI workflows producing form without substance
+- `individual-posts/` - Standalone articles and announcements
+
+**Other Series (中文):**
+- `organizational-futures-cn/` - 组织未来系列中文版
+- `epistemic-voids-cn/` - 认知空隙系列中文版
+- `individual-posts-cn/` - 独立文章中文版
 
 ## License
 

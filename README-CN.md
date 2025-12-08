@@ -1,4 +1,4 @@
-**[English](README.md)** | **[中文](README-CN.md)**
+[![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![cn](https://img.shields.io/badge/lang-中文-red.svg)](README-CN.md)
 
 # 观阙LOOM 文章集
 
