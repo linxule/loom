@@ -7,8 +7,11 @@ on:
       - 'posts/**/*.md'
       - 'posts-cn/**/*.md'
       - 'organizational-futures/**/*.md'
+      - 'organizational-futures-cn/**/*.md'
       - 'epistemic-voids/**/*.md'
+      - 'epistemic-voids-cn/**/*.md'
       - 'individual-posts/**/*.md'
+      - 'individual-posts-cn/**/*.md'
       - 'scripts/generate-llms-full.sh'
   workflow_dispatch:  # Allow manual trigger
 

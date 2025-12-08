@@ -66,16 +66,29 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 - [Ghost in the Machine](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/ghost-in-the-machine.md): AI agency in organizational contexts
 - [Post-AGI Organizations](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/post-agi-organizations.md): Organizational forms after artificial general intelligence
 
+### Organizational Futures (中文)
+- [机器中的幽灵](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/机器中的幽灵.md): AI在组织情境中的能动性
+- [后AGI组织](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织.md): 通用人工智能后的组织形态
+
 ### Epistemic Voids
 Case studies of AI workflows producing the aesthetic of rigor without substance.
 - [Citation Theater](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_01_citation_theater.md): When citation practices become performance
 - [The Showroom Fallacy](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_02_showroom_fallacy.md): Mistaking product constraints for model limits
 - [Mechanism Literalism](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_03_mechanism_literalism.md): Over-literal interpretation of AI mechanisms
 
+### Epistemic Voids (认知空隙 中文)
+- [引用剧场](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_01_引用剧场.md): 当引用实践沦为表演
+- [展厅谬误](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_02_展厅谬误.md): 将产品限制误认为模型局限
+
 ### Individual Posts
 - [Research Memex](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/research_memex.md): AI-augmented research workflows
 - [Kimi K2: Another DeepSeek Moment](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/kimi-k2-another-deepseek-moment.md): Reflections on emerging AI models
 - [Which AI Tool Should I Use?](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/which-ai-tool-should-i-use.md): Practical guidance for researchers
+
+### Individual Posts (中文)
+- [研究备忘录](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/研究备忘录.md): AI增强的研究工作流
+- [Kimi K2：又一次DeepSeek时刻](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/kimi-k2-又一次deepseek时刻.md): 对新兴AI模型的思考
+- [哪款AI工具才对路](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/哪款AI工具才对路.md): 研究者实用指南
 
 ## Optional
 

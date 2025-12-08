@@ -71,6 +71,22 @@ for file in organizational-futures/*.md; do
     fi
 done
 
+# Add Organizational Futures (Chinese)
+echo "## Organizational Futures Series (中文)" >> "$OUTPUT_FILE"
+echo "" >> "$OUTPUT_FILE"
+
+for file in organizational-futures-cn/*.md; do
+    if [ -f "$file" ]; then
+        echo "Adding: $file"
+        echo "---" >> "$OUTPUT_FILE"
+        echo "Source: https://raw.githubusercontent.com/linxule/loom/main/$file" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        cat "$file" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+    fi
+done
+
 # Add Epistemic Voids
 echo "## Epistemic Voids Series" >> "$OUTPUT_FILE"
 echo "" >> "$OUTPUT_FILE"
@@ -87,11 +103,43 @@ for file in epistemic-voids/*.md; do
     fi
 done
 
+# Add Epistemic Voids (Chinese)
+echo "## Epistemic Voids Series (认知空隙 中文)" >> "$OUTPUT_FILE"
+echo "" >> "$OUTPUT_FILE"
+
+for file in epistemic-voids-cn/*.md; do
+    if [ -f "$file" ]; then
+        echo "Adding: $file"
+        echo "---" >> "$OUTPUT_FILE"
+        echo "Source: https://raw.githubusercontent.com/linxule/loom/main/$file" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        cat "$file" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+    fi
+done
+
 # Add Individual Posts
 echo "## Individual Posts" >> "$OUTPUT_FILE"
 echo "" >> "$OUTPUT_FILE"
 
 for file in individual-posts/*.md; do
+    if [ -f "$file" ]; then
+        echo "Adding: $file"
+        echo "---" >> "$OUTPUT_FILE"
+        echo "Source: https://raw.githubusercontent.com/linxule/loom/main/$file" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        cat "$file" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+    fi
+done
+
+# Add Individual Posts (Chinese)
+echo "## Individual Posts (中文)" >> "$OUTPUT_FILE"
+echo "" >> "$OUTPUT_FILE"
+
+for file in individual-posts-cn/*.md; do
     if [ -f "$file" ]; then
         echo "Adding: $file"
         echo "---" >> "$OUTPUT_FILE"
