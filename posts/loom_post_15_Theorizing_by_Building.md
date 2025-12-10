@@ -1,6 +1,6 @@
 ---
 title: "LOOM XV: Theorizing by Building"
-subtitle: "Finally, Something You Can Try"
+subtitle: "How Do You Become Someone Who Knows?"
 authors:
   - "Xule Lin"
   - "Kevin Corley"
