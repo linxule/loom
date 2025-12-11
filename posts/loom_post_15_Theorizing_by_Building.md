@@ -49,8 +49,6 @@ Two tools. Both open source. Both running today. (Fourteen posts of theorizing. 
 
 One is an AI interview platform that treats interpretive multiplicity as a design principle. The other is a Claude Code plugin that embeds qualitative methodology directly into the AI collaboration environment. Both grew from the same question: What would it look like if the concepts we've been developing actually ran?
 
-Like above, we could have asked: How do we translate philosophy into code? But that frames it wrong—as if philosophy sits on one side, code on the other, and translation bridges the gap.
-
 The question that kept pulling us forward: What does it look like to demonstrate a practice?
 
 ---
