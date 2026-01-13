@@ -63,10 +63,12 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 ## Other Series
 
 ### Organizational Futures
+- [Claude Cowork: The Easy Part Is Over](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/cowork-beyond-the-terminal.md): Where structure lives - in filenames or in your head
 - [Ghost in the Machine](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/ghost-in-the-machine.md): AI agency in organizational contexts
 - [Post-AGI Organizations](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/post-agi-organizations.md): Organizational forms after artificial general intelligence
 
 ### Organizational Futures (中文)
+- [轻松的部分结束了](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/轻松的部分结束了.md): 结构所在之处——在文件名里，还是在你的理解中
 - [机器中的幽灵](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/机器中的幽灵.md): AI在组织情境中的能动性
 - [后AGI组织](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织.md): 通用人工智能后的组织形态
 
