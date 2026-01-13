@@ -11,7 +11,7 @@ keywords:
   - knowledge work
   - AI methodology
   - delegation vs dialogue
-link: https://www.threadcounts.org/p/cowork-beyond-the-terminal
+link: https://www.threadcounts.org/p/claude-cowork-the-easy-part-is-over
 date: 2026-01-13
 ---
 
