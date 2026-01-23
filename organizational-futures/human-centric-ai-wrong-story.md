@@ -13,13 +13,15 @@ keywords:
   - ceramics
   - kiln fire
   - posture
-link: [TBD]
+link: https://www.threadcounts.org/p/human-centric-ai-is-the-wrong-story
 date: 2026-01-22
 ---
 
 # "Human-Centric AI" Is the Wrong Story
 
 *A ceramicist's ritual, Anthropic's constitution, and the posture that changes what becomes possible*
+
+![The fire needs the dark to do its work](images/kiln-fire-dark.png)
 
 A ceramics studio in North Acton. I've been visiting, watching how the work happens.
 
@@ -130,10 +132,6 @@ I still think about this when I interact with AI. Not the grand questions of ali
 合掌拜三下. Palms together. Three bows.
 
 Then you let the fire do its work.
-
----
-
-![The fire needs the dark to do its work](images/kiln-fire-dark.png)
 
 ---
 
