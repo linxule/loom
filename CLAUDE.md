@@ -48,7 +48,7 @@ The repository contains multiple series, each with different register and purpos
 |--------|---------|----------|-------|
 | **LOOM** (main) | Methodological depth, concepts, qualitative research collaboration | Scholarly, exploratory, polyvocal | This file |
 | **Organizational Futures** | Timely response to AI interfaces as they launch | Conversational, immediate, applies LOOM concepts | `/guides/ORGANIZATIONAL-FUTURES-GUIDE.md` |
-| **AI Whispers** | Practical conversational techniques for AI interaction | Casual, practical, copy-paste prompts | — |
+| **AI Whispers** | Practical conversational techniques for AI interaction | Casual, practical, copy-paste prompts | `/guides/AI-WHISPERS-GUIDE.md` |
 | **Epistemic Voids** | Case studies examining gaps in AI discourse | Analytical, close reading, discovery mode | `/guides/EPISTEMIC-VOIDS-GUIDE.md` |
 | **Individual Posts** | One-offs that don't fit a series | Varies | — |
 
