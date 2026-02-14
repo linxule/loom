@@ -74,6 +74,11 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 - [机器中的幽灵](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/机器中的幽灵.md): AI在组织情境中的能动性
 - [后AGI组织](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织.md): 通用人工智能后的组织形态
 
+### AI Whispers
+Practical conversational techniques for AI interaction — the craft side of the Whisperer concept (LOOM XII).
+- [AI Whispers 1: Context-Setting Primers](https://www.threadcounts.org/p/context-setting-primers-not-prompts) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_01_Context_Setting_Primers.md): Role-play scripts for setting up AI conversations
+- [AI Whispers 2: Conversation/Vibe-Steering Prodders](https://www.threadcounts.org/p/conversationvibe-steering-prodders) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_02_Conversation_Vibe_Steering_Prodders.md): Lightweight moves for steering AI dialogue mid-conversation
+
 ### Epistemic Voids
 Case studies of AI workflows producing the aesthetic of rigor without substance.
 - [Citation Theater](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_01_citation_theater.md): When citation practices become performance
