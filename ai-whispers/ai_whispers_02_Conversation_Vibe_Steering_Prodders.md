@@ -1,5 +1,5 @@
 ---
-title: "AI Whispers 2: Conversation/Vibe-Steering Prodders"
+title: "AI Whispers #2: Conversation/Vibe-Steering Prodders"
 subtitle: "Keepin' the AI Engaged and Entertained"
 authors:
   - "Xule Lin"

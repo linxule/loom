@@ -1,5 +1,5 @@
 ---
-title: "AI Whispers 1: Context-Setting Primers (Not Prompts)"
+title: "AI Whispers #1: Context-Setting Primers (Not Prompts)"
 subtitle: "Role-play Scripts for AI and You"
 authors:
   - "Xule Lin"

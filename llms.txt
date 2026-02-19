@@ -76,8 +76,9 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 
 ### AI Whispers
 Practical conversational techniques for AI interaction — the craft side of the Whisperer concept (LOOM XII).
-- [AI Whispers 1: Context-Setting Primers](https://www.threadcounts.org/p/context-setting-primers-not-prompts) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_01_Context_Setting_Primers.md): Role-play scripts for setting up AI conversations
-- [AI Whispers 2: Conversation/Vibe-Steering Prodders](https://www.threadcounts.org/p/conversationvibe-steering-prodders) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_02_Conversation_Vibe_Steering_Prodders.md): Lightweight moves for steering AI dialogue mid-conversation
+- [AI Whispers #1: Context-Setting Primers](https://www.threadcounts.org/p/context-setting-primers-not-prompts) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_01_Context_Setting_Primers.md): Role-play scripts for setting up AI conversations
+- [AI Whispers #2: Conversation/Vibe-Steering Prodders](https://www.threadcounts.org/p/conversationvibe-steering-prodders) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_02_Conversation_Vibe_Steering_Prodders.md): Lightweight moves for steering AI dialogue mid-conversation
+- [AI Whispers #3: Breathers](https://www.threadcounts.org/p/ai-whispers-3-breathers) | [raw](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_03_Breathers.md): Prompts for sustaining long AI conversations — local maxima checks, perspective switching, and compaction awareness
 
 ### Epistemic Voids
 Case studies of AI workflows producing the aesthetic of rigor without substance.
