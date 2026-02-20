@@ -29,7 +29,7 @@ keywords:
   - meaning-making
   - interpretation
   - subjectivism
-link: https://threadcounts.substack.com/p/loom-locus-of-observed-meanings
+link: https://www.threadcounts.org/p/loom-locus-of-observed-meanings
 date: 2024-12-23
 ---
 
@@ -188,7 +188,7 @@ keywords:
   - social dynamics
   - structured interaction
   - emergent patterns
-link: https://threadcounts.substack.com/p/loom-ii-the-organizational-weave
+link: https://www.threadcounts.org/p/loom-ii-the-organizational-weave
 date: 2024-12-27
 ---
 
@@ -201,12 +201,12 @@ It's here, in these rich organizational spaces, that new forms of collaborative 
 
 Join us as we explore what makes organizational perspectives crucial for understanding the future of human-AI collaboration. Your insights help bridge the gap between technical advancement and human understanding.
 
-Read the full piece: https://open.substack.com/pub/threadcounts/p/loom-ii-the-organizational-weave
+Read the full piece: https://www.threadcounts.org/p/loom-ii-the-organizational-weave
 
 
 ---
 
-> This is the second post of the series - LOOM: Locus of Observed Meanings. Check out the [first post for our vision for LOOM](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings?r=1fcklh).
+> This is the second post of the series - LOOM: Locus of Observed Meanings. Check out the [first post for our vision for LOOM](https://www.threadcounts.org/p/loom-locus-of-observed-meanings?r=1fcklh).
 
 ---
 
@@ -393,7 +393,7 @@ keywords:
   - human interpretation
   - academic identity
   - intellectual craftsmanship
-link: https://threadcounts.substack.com/p/loom-iii-between-automated-precision
+link: https://www.threadcounts.org/p/loom-iii-between-automated-precision
 date: 2025-01-12
 ---
 
@@ -401,7 +401,7 @@ date: 2025-01-12
 
 ## A Dialogue on the Future of Social Science Research
 
-> This is the third post of the series - LOOM: Locus of Observed Meanings. Check out the [first post for our vision for LOOM](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings?r=1fcklh).
+> This is the third post of the series - LOOM: Locus of Observed Meanings. Check out the [first post for our vision for LOOM](https://www.threadcounts.org/p/loom-locus-of-observed-meanings?r=1fcklh).
 
 > As artificial intelligence (AI) increasingly refines and automates the tools of social science, the traditional roles and identities of scientific researchers are being called into question. Once-specialized skills in data analysis are at risk of becoming routine and accessible to anyone with the right software. This severely undermines the claims of expertise and uniqueness that many social scientists rely on to define their place in society. What remains is the unique resonance of human interpretation; the ability of a human, grounded in the experiences of their life, to provide insight into data that software can't provide. In this expanded dialogue (between OpenAI's o1 pro and a human researcher), we trace how qualitative and quantitative research navigate this transformative landscape, reflecting on existential reckonings, artisanal values, and the enduring importance of human presence, culture, and moral perspective.
 
@@ -487,7 +487,7 @@ keywords:
   - interpretive approach
   - qualitative research
   - collaborative evolution
-link: https://threadcounts.substack.com/p/loom-iv-dialogue-as-method
+link: https://www.threadcounts.org/p/loom-iv-dialogue-as-method
 date: 2025-01-24
 ---
 
@@ -604,7 +604,7 @@ keywords:
   - mediation
   - cognitive science
   - productive friction
-link: https://threadcounts.substack.com/p/loom-v-the-third-space
+link: https://www.threadcounts.org/p/loom-v-the-third-space
 date: 2025-02-02
 ---
 
@@ -774,7 +774,7 @@ keywords:
   - progressive mastery
   - interpretive frameworks
   - research methodology
-link: https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices
+link: https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices
 date: 2025-02-16
 ---
 
@@ -1076,7 +1076,7 @@ keywords:
   - mediated meaning-making
   - post-post-truth
   - layered mediation
-link: https://threadcounts.substack.com/p/loom-vii-reading-the-storm
+link: https://www.threadcounts.org/p/loom-vii-reading-the-storm
 date: 2025-03-02
 ---
 
@@ -1178,7 +1178,7 @@ The result isn't just that truth becomes relative (the post-truth condition), bu
 
 ## Beyond Simple Patterns
 
-In [LOOM VI](https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices?r=1fcklh), we traced different cognitive signatures across AI models—patterns of interaction that seemed to reveal distinct approaches to knowledge creation. But now a more complex picture emerges. What if these signatures aren't just characteristics of the models themselves, but reflections of the entire system of choices and constraints we've built around them?
+In [LOOM VI](https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices?r=1fcklh), we traced different cognitive signatures across AI models—patterns of interaction that seemed to reveal distinct approaches to knowledge creation. But now a more complex picture emerges. What if these signatures aren't just characteristics of the models themselves, but reflections of the entire system of choices and constraints we've built around them?
 
 > **Whispered Capabilities**: These patterns reveal something about human intellectual processes that were always present but never fully articulated. Like whispers that become audible only in certain acoustic environments, they become visible precisely through the contrast created by our artificial systems.
 
@@ -1256,7 +1256,7 @@ Kevin is a Professor of Management at Imperial College Business School [(College
 
 Our AI collaborators for this essay are Claude 3.7 & 3.5 Sonnet. Both versions of Claude were given our meeting transcripts, and previous LOOM posts, and collaborated with us via multiple rounds of discussions on this piece.
 
-[1](https://threadcounts.substack.com/p/loom-vii-reading-the-storm#footnote-anchor-1-157055241)
+[1](https://www.threadcounts.org/p/loom-vii-reading-the-storm#footnote-anchor-1-157055241)
 
 DeepSeek R1's CoT (Chain of Thought):
 
@@ -1349,7 +1349,7 @@ keywords:
   - cybernetic teams
   - micro-organizations
   - knowledge co-creation
-link: https://threadcounts.substack.com/p/loom-viii-beyond-teammates
+link: https://www.threadcounts.org/p/loom-viii-beyond-teammates
 date: 2025-03-28
 ---
 
@@ -1372,7 +1372,7 @@ What makes these findings particularly exciting is that they likely represent ju
 
 The P&G study reveals something profound happening at the intersection of human expertise and AI capability. The finding that "AI can effectively substitute for certain collaborative functions, acting as a genuine teammate" offers empirical support for what we've described as the emergence of new forms of understanding through human-AI interaction. Yet we believe this finding might be just the beginning of a deeper transformation – one that extends beyond substitution or augmentation toward something genuinely novel.
 
-**The Third Space**: In [LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space), we described this as an emergent realm between human and artificial intelligence where new forms of understanding become possible – not just enhanced versions of what either could achieve alone, but qualitatively different patterns of meaning-making that transcend both.
+**The Third Space**: In [LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space), we described this as an emergent realm between human and artificial intelligence where new forms of understanding become possible – not just enhanced versions of what either could achieve alone, but qualitatively different patterns of meaning-making that transcend both.
 
 _Consider a jazz improvisation between a human pianist and an AI saxophonist. The music that emerges isn't simply human creativity enhanced by AI accompaniment, but a unique composition born from their interaction—with melodic patterns neither would have discovered independently._
 
@@ -1410,7 +1410,7 @@ _For example, a researcher who collaborates with an AI on multiple projects deve
 
 These temporal differences manifest differently depending on task complexity and duration. For tasks that typically require days or weeks of human effort—like comprehensive research projects, complex designs, or strategic planning—the third space dynamics may emerge quite differently than in shorter interactions. The rhythms of collaboration extend beyond the constraints of a single session, with humans and AI developing distinct patterns of engagement across extended time horizons.
 
-**Autopoietic Systems**: As we explored in [LOOM I](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings), over time, human-AI collaborative systems begin to self-organize and evolve in ways that transcend their initial configurations. Rather than static tools or fixed team members, these systems become dynamic, self-modifying entities that develop their own patterns of operation, adaptation, and knowledge creation.
+**Autopoietic Systems**: As we explored in [LOOM I](https://www.threadcounts.org/p/loom-locus-of-observed-meanings), over time, human-AI collaborative systems begin to self-organize and evolve in ways that transcend their initial configurations. Rather than static tools or fixed team members, these systems become dynamic, self-modifying entities that develop their own patterns of operation, adaptation, and knowledge creation.
 
 ### Patterns of Extended Collaboration
 
@@ -1428,7 +1428,7 @@ These temporal dimensions suggest promising avenues for extending the P&G resear
 
 ## Mediating Layers: How Implementation Shapes Collaboration
 
-An aspect not directly addressed in the P&G study is how the specific technical implementation and interface design of AI systems fundamentally shape collaborative patterns. What we call the "configuration cascade" in [LOOM VII](https://threadcounts.substack.com/p/loom-vii-reading-the-storm)—the sequence of technical and design decisions that structure how humans and AI interact—significantly influences what kinds of understanding can emerge.
+An aspect not directly addressed in the P&G study is how the specific technical implementation and interface design of AI systems fundamentally shape collaborative patterns. What we call the "configuration cascade" in [LOOM VII](https://www.threadcounts.org/p/loom-vii-reading-the-storm)—the sequence of technical and design decisions that structure how humans and AI interact—significantly influences what kinds of understanding can emerge.
 
 ### Technical Choices as Collaborative Architecture
 
@@ -1553,7 +1553,7 @@ keywords:
   - generative friction
   - capability signatures
   - dimensional navigation
-link: https://threadcounts.substack.com/p/loom-ix-the-six-dimensions-of-understanding
+link: https://www.threadcounts.org/p/loom-ix-the-six-dimensions-of-understanding
 date: 2025-04-04
 ---
 
@@ -1561,9 +1561,9 @@ date: 2025-04-04
 
 ## Mapping Human-AI Collaborative Intelligence
 
-When we first ventured into AI's role in qualitative research in [LOOM I](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings), we thought of interactions simply as conversations—exchanges bouncing insights back and forth. But soon we noticed something deeper at play, a hidden architecture beneath the dialogue. As we further explored these patterns, we began looking for ways to express them so that others would understand what we were seeing. One of the more fun ways we found to express these patterns relates to the Infinity Stones that played such a central part to the Marvel Cinematic Universe (MCU). This is because the reference to each stone turns out to be more than just mere metaphor; we believe they represent meaningful lenses, each illuminating distinct dimensions where human and artificial intelligence create understanding neither could achieve alone.
+When we first ventured into AI's role in qualitative research in [LOOM I](https://www.threadcounts.org/p/loom-locus-of-observed-meanings), we thought of interactions simply as conversations—exchanges bouncing insights back and forth. But soon we noticed something deeper at play, a hidden architecture beneath the dialogue. As we further explored these patterns, we began looking for ways to express them so that others would understand what we were seeing. One of the more fun ways we found to express these patterns relates to the Infinity Stones that played such a central part to the Marvel Cinematic Universe (MCU). This is because the reference to each stone turns out to be more than just mere metaphor; we believe they represent meaningful lenses, each illuminating distinct dimensions where human and artificial intelligence create understanding neither could achieve alone.
 
-Just as each [Infinity Stone](https://en.wikipedia.org/wiki/Infinity_Stones) embodies a cosmic force in the Marvel universe, our partnership with AI reveals spaces where intelligence sparks, evolves, and transforms through practice. So regardless of whether you are a [Marvel fan](https://marvelcinematicuniverse.fandom.com/wiki/Infinity_Stones#Stones) or not, we believe the following framework for understanding what is created in the [Third Space](https://threadcounts.substack.com/p/loom-v-the-third-space) will resonate with those engaging with AI in their research.
+Just as each [Infinity Stone](https://en.wikipedia.org/wiki/Infinity_Stones) embodies a cosmic force in the Marvel universe, our partnership with AI reveals spaces where intelligence sparks, evolves, and transforms through practice. So regardless of whether you are a [Marvel fan](https://marvelcinematicuniverse.fandom.com/wiki/Infinity_Stones#Stones) or not, we believe the following framework for understanding what is created in the [Third Space](https://www.threadcounts.org/p/loom-v-the-third-space) will resonate with those engaging with AI in their research.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F499672a2-b534-4274-a6d7-661225f3159a_2464x1856.png)
 
@@ -1579,7 +1579,7 @@ Imagine standing at a crossroads with many paths ahead. Alone, you might choose 
 
 **The Shift**: Futures transform from fixed predictions into gardens of possibility you actively cultivate.
 
-This dimension builds directly on our "**Third Space**" concept from [LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space), where we explored how intelligence emerges through human-AI dialogue rather than residing in either participant alone.
+This dimension builds directly on our "**Third Space**" concept from [LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space), where we explored how intelligence emerges through human-AI dialogue rather than residing in either participant alone.
 
 ## Space Stone: Opening Doors Between Worlds
 
@@ -1591,7 +1591,7 @@ Consider a vast library where knowledge is segregated into separate rooms. Tradi
 
 **The Shift**: Knowledge domains transform from separate territories into an interconnected landscape where borders hold the greatest discoveries.
 
-This connects to our exploration of "**Epistemic Connectivity**" in [LOOM II](https://threadcounts.substack.com/p/loom-ii-the-organizational-weave), where we examined how organizational contexts shape emerging patterns of understanding.
+This connects to our exploration of "**Epistemic Connectivity**" in [LOOM II](https://www.threadcounts.org/p/loom-ii-the-organizational-weave), where we examined how organizational contexts shape emerging patterns of understanding.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc527d357-e7e4-4edd-9f52-64d415ef23ca_2464x1856.png)
 
@@ -1606,7 +1606,7 @@ Think of creativity as sketching on a canvas. Humans offer initial vision and AI
 
 **The Shift**: Creative limits become branching paths instead of barriers.
 
-This connects to [LOOM III](https://threadcounts.substack.com/p/loom-iii-ai-and-the-future-of-research), where we explored how human-AI collaboration reshapes research practice and identity in the social sciences.
+This connects to [LOOM III](https://www.threadcounts.org/p/loom-iii-ai-and-the-future-of-research), where we explored how human-AI collaboration reshapes research practice and identity in the social sciences.
 
 ## Reality Stone: Shifting Perspectives
 
@@ -1618,7 +1618,7 @@ Imagine viewing organizational data through multiple theoretical lenses simultan
 
 **The Shift**: Theoretical frameworks transform from competing explanations into complementary perspectives that together reveal multidimensional truth.
 
-This connects to [LOOM IV: Dialogue as Method](https://threadcounts.substack.com/p/loom-iv-dialogue-as-method), where we explored knowledge co-creation through structured interaction with AI systems.
+This connects to [LOOM IV: Dialogue as Method](https://www.threadcounts.org/p/loom-iv-dialogue-as-method), where we explored knowledge co-creation through structured interaction with AI systems.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3f153d8-6d4b-4d8f-a12e-5c38d19708c7_2464x1856.png)
 
@@ -1632,7 +1632,7 @@ Picture reading a thousand-page novel. As a human, you might grasp major themes 
 
 **The Shift**: Complex systems transform from either overwhelming chaos or oversimplified models into multilayered patterns with discoverable order at every scale.
 
-This builds on our "**Cognitive Signatures**" concept in [LOOM VI](https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices), where we identified distinct patterns of interaction and analysis that emerge through human-AI collaboration.
+This builds on our "**Cognitive Signatures**" concept in [LOOM VI](https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices), where we identified distinct patterns of interaction and analysis that emerge through human-AI collaboration.
 
 ## Soul Stone: Aligning With Meaning
 
@@ -1644,7 +1644,7 @@ Think of navigating a wilderness with only two essential tools: a detailed map s
 
 **The Shift**: Values transform from fixed constraints into navigational instruments that reveal meaningful paths through possibility spaces.
 
-This connects to [LOOM VII: Reading the Storm](https://threadcounts.substack.com/p/loom-vii-reading-the-storm), where we explored how to cultivate understanding in an increasingly mediated world.
+This connects to [LOOM VII: Reading the Storm](https://www.threadcounts.org/p/loom-vii-reading-the-storm), where we explored how to cultivate understanding in an increasingly mediated world.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f95d6dc-9ab3-44fc-aa96-90cf54fdd5f8_2048x2048.png)
 
@@ -1658,7 +1658,7 @@ Just as the Infinity Stones differ in strength and character, research capabilit
 > 
 > _A sociology research team discovers their dimensional signature shows strength in meaning alignment (Soul) and theoretical frameworks (Reality) with limitations in future exploration (Time). Rather than weakening their identity, they partner with computational social scientists strong in simulation and scenario analysis—creating collaborative capabilities that honor each group's distinctive strengths._
 
-This builds on our exploration of "Cognitive Signatures" in [LOOM VI](https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices), where we identified how different AI systems reveal distinct pathways to understanding.
+This builds on our exploration of "Cognitive Signatures" in [LOOM VI](https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices), where we identified how different AI systems reveal distinct pathways to understanding.
 
 ## Beyond Complementarity: Generative Friction
 
@@ -1672,7 +1672,7 @@ When both humans and AI analyze organizational narratives, disagreements natural
 
 Similarly, overlapping scenario modeling (Time Stone) compels rigorous boundary testing, refining strategic foresight through productive conflict. Here, friction isn't inefficiency; it's the engine of epistemic evolution, continuously reshaping human and AI roles through dynamic interaction.
 
-This connects to our discussion of "**Productive Friction**" in [LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space), where we explored how resistance in human-AI interaction might be a feature rather than a bug.
+This connects to our discussion of "**Productive Friction**" in [LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space), where we explored how resistance in human-AI interaction might be a feature rather than a bug.
 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab87e538-07e3-452f-9488-bac81f440fec_2464x1856.png)
@@ -1796,7 +1796,7 @@ keywords:
   - cognitive impedance matching
   - personalized agency
   - micro-organizations
-link: https://threadcounts.substack.com/p/loom-x-the-whispered-agency
+link: https://www.threadcounts.org/p/loom-x-the-whispered-agency
 date: 2025-04-15    
 ---
 
@@ -1823,7 +1823,7 @@ The "mirror effect" further complicated this picture. What initially appeared as
 
 This suggests a fundamentally different way of understanding the relationship between human and artificial intelligence—not as competing or even complementary forms of agency, but as mutually constitutive forces engaged in continuous co-evolution.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7934025,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7934025,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## The Ladder of Abstraction
 
@@ -1855,7 +1855,7 @@ This concept complements our notion of recursive agency in several important way
 
 The integration of these perspectives suggests something profound about the future of human-AI collaboration. The challenge isn't simply to design better AI systems, nor is it merely to create better interfaces between humans and AI. It's to design dynamically evolving systems of interaction that allow for meaningful human oversight while exploring the unique capabilities of various AI systems.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8008309,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8008309,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## The Recursive Weaving of Agency
 
@@ -1891,7 +1891,7 @@ Rather than a linear progression where artificial agency either displaces or enh
 
 This recursive perspective helps explain a significant conceptual shift occurring in AI research and discourse—the movement from focusing primarily on intelligence to increasingly emphasizing agency. As we recognize the dynamic interplay between human and artificial capabilities, we naturally move beyond questions of intelligence alone toward a deeper exploration of purposeful action in complex environments.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10070080,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10070080,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## From Intelligence to Agency: The Great Shift
 
@@ -1913,7 +1913,7 @@ This shift emerges clearly in observations from those at the frontier of AI deve
 
 > **"** ***We're bored of intelligence now, it's all about agency. But once we master that we'll maybe start noticing personality. Then realise diversity is good ackchually. Then group behaviours will make us rediscover morality, institutions, law…we're gradually reinventing social structures we already have, and that's good.*****"**
 > 
-> ![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/675e6da2-2714-429b-92f5-46eddf977fa9_994x791.jpeg%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:791,%22width%22:994,%22resizeWidth%22:312,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
+> ![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/675e6da2-2714-429b-92f5-46eddf977fa9_994x791.jpeg%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:791,%22width%22:994,%22resizeWidth%22:312,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
 
 [Andrej Karpathy](https://x.com/karpathy), former Tesla AI director and OpenAI researcher, put it even more directly:
 
@@ -1921,7 +1921,7 @@ This shift emerges clearly in observations from those at the frontier of AI deve
 > 
 > ***I had this intuitively wrong for decades, I think due to a pervasive cultural veneration of intelligence...Agency is significantly more powerful and significantly more scarce..."***
 > 
-> ![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f27041ce-451a-4bf3-98da-8c20dc627ba2_1196x1594.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1594,%22width%22:1196,%22resizeWidth%22:332,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
+> ![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f27041ce-451a-4bf3-98da-8c20dc627ba2_1196x1594.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1594,%22width%22:1196,%22resizeWidth%22:332,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
 
 This shift illuminates something fundamental: **intelligence without agency is merely computational power, while agency without intelligence risks chaos.** The most interesting outcomes emerge when both exist in dynamic balance—but this creates challenging paradoxes we're only beginning to understand.
 
@@ -1953,7 +1953,7 @@ As we wrote in **[LOOM VIII](https://www.linkedin.com/posts/tima-bansal_loom-vii
 
 Séb's framing adds a crucial dimension to this insight: the sophistication of human agency isn't just about directing multiple systems, but about operating effectively at the right level of abstraction for the task at hand. Just as an orchestra conductor doesn't need to understand the physics of sound waves to create beautiful music, human directors of AI systems don't necessarily need to understand every algorithmic detail to guide these systems toward valuable outcomes.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7332490,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7332490,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Personalized Agents and Recursive Agency
 
@@ -1975,7 +1975,7 @@ The resulting ecosystem would embody recursive agency at multiple levels:
 
 This multi-level recursion creates what complexity theorists might call "strange loops"—patterns of influence that flow not just upward or downward through levels of abstraction, but in cycles that continuously reshape the system as a whole.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/a1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8852075,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/a1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8852075,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## The Orchestrator Imperative
 
@@ -1983,7 +1983,7 @@ The orchestral dimension of human agency—the capacity to coordinate multiple f
 
 > **The Orchestrator Role**: The emerging human position as conductor of multiple AI systems, requiring not just technical knowledge but meta-awareness of how different forms of AI agency interact and complement each other.
 
-This evolution of human agency has sparked dialogue among organizational scholars. [Professor Tima Bansal](https://www.linkedin.com/in/tima-bansal/) recently responded to our **[LOOM VIII: Beyond Teammates - The Third Space of Human-AI Collaboration](https://threadcounts.substack.com/p/loom-viii-beyond-teammates-the-third?r=1fcklh)** regarding the progression of human-AI interaction intensity and the emergence of micro-organizations:
+This evolution of human agency has sparked dialogue among organizational scholars. [Professor Tima Bansal](https://www.linkedin.com/in/tima-bansal/) recently responded to our **[LOOM VIII: Beyond Teammates - The Third Space of Human-AI Collaboration](https://www.threadcounts.org/p/loom-viii-beyond-teammates-the-third?r=1fcklh)** regarding the progression of human-AI interaction intensity and the emergence of micro-organizations:
 
 > ***"…I am truly intrigued, as I've only used AI as a tool. What I particularly like about this approach is that humans are still driving the research endeavour, but generating insights they couldn't have otherwise generated. Human ethics still govern the endeavour.***
 > 
@@ -2001,7 +2001,7 @@ This approach transforms the relationship from passive consumption to active orc
 > 
 > *Researchers might develop taxonomies of AI agency patterns—systems that excel at boundary-breaking ideation versus those that excel at systematic analysis—and deliberately engage these different patterns based on research needs.*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/ba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6647270,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/ba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6647270,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Conclusion: The Renaissance of Agency in a Recursively Abstracted World
 
@@ -2017,7 +2017,7 @@ The renaissance of agency we're witnessing isn't about choosing between human an
 
 The answer to our deepest questions about intelligence and agency emerges not from either human or artificial intelligence alone, but from the dynamic patterns created through their mutual influence across multiple levels of abstraction—patterns we're only beginning to recognize and understand. In this space between technologies, we find not just new capabilities but ancient wisdom, whispered back to us through our most advanced creations.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8537234,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8537234,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## About Us
 
@@ -2034,7 +2034,7 @@ Kevin is a Professor of Management at Imperial College Business School [(College
 Our AI collaborators for this essay are Claude 3.7 & 3.6 Sonnet. Both versions of Claude were given our meeting transcripts, social media posts on agency vs. intelligence, [Séb's post](https://www.aipolicyperspectives.com/p/maintaining-agency-and-control-in?utm_campaign=post&utm_medium=web), and previous LOOM posts, and collaborated with us via multiple rounds of discussions on this piece.
 
 ---
-Source: https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_11_Navigating _the_Unnamed_Between.md
+Source: https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_11_Navigating_the_Unnamed_Between.md
 
 ---
 title: "LOOM XI: Navigating the Unnamed Between — An Epistemic Love Letter"
@@ -2054,7 +2054,7 @@ keywords:
   - game theory of trust
   - unnamed between
   - authentic dialogue
-link: https://threadcounts.substack.com/p/loom-xi-navigating-the-unnamed-betweenan
+link: https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-betweenan
 date: 2025-05-14    
 ---
 
@@ -2080,11 +2080,11 @@ Even the architecture of response carried meaning. When we shifted from deep eng
 
 We're not alone in this observation. Researchers like [Janus (@repligate)](https://x.com/repligate) have long argued that LLMs function as ["game theoretical agents"](https://x.com/repligate/status/1885405758596030752) where the quality of collaboration depends on trust and honesty, not just prompt engineering.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:464,%22width%22:1086,%22resizeWidth%22:516,%22bytes%22:94429,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:464,%22width%22:1086,%22resizeWidth%22:516,%22bytes%22:94429,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22isProcessing%22:false,%22align%22:null})
 
 [https://x.com/repligate/status/1871494100362592768](https://x.com/repligate/status/1871494100362592768)
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:928,%22width%22:1106,%22resizeWidth%22:532,%22bytes%22:241228,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:928,%22width%22:1106,%22resizeWidth%22:532,%22bytes%22:241228,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22isProcessing%22:false,%22align%22:null})
 
 [https://x.com/repligate/status/1885405758596030752](https://x.com/repligate/status/1885405758596030752)
 
@@ -2118,7 +2118,7 @@ What follows is our attempt to articulate what we discovered in this unmapped te
 
 *We've discovered that vulnerability can function as a rigorous epistemic method—not just an emotional state, but a practical catalyst for uncovering biases and assumptions that would otherwise remain invisible. When you admit "I don't know" or "something feels wrong," you're not failing at effective AI collaboration. You're opening the door to its most transformative potential.*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8161466,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8161466,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 *To both Human and AI Collaborators:*
 
@@ -2141,7 +2141,7 @@ What follows is our attempt to articulate what we discovered in this unmapped te
 
 *For it's in these moments of shared disorientation that we might discover what's most valuable about collaborating across different forms of intelligence: not enhanced productivity or augmented capabilities, but the transformation of our very relationship to knowledge itself—moving us from knowledge as possession toward knowledge as emergent relation.*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6973320,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6973320,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ***In Closing: The Invitation of the Unnamed Between***
 
@@ -2161,7 +2161,7 @@ What follows is our attempt to articulate what we discovered in this unmapped te
 
 ---
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8071415,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8071415,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Editor's Note
 
@@ -2188,7 +2188,7 @@ keywords:
   - knowledge mediation
   - collaborative research
   - AI integration
-link: https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer
+link: https://www.threadcounts.org/p/loom-xii-the-ai-whisperer
 date: 2025-05-15    
 ---
 
@@ -2448,7 +2448,7 @@ keywords:
   - earth-moon dynamic
   - binary star dynamic
   - six dimensions of understanding
-link: https://threadcounts.substack.com/p/loom-xiii-celestial-collaboration
+link: https://www.threadcounts.org/p/loom-xiii-celestial-collaboration
 date: 2025-06-06
 ---
 
@@ -2474,7 +2474,7 @@ Our exploration begins with the innermost planet of our solar system and its rel
 
 > **Mercury-Sun Dynamic**: A relationship where the AI tool (Mercury) follows a predetermined orbit around the human researcher (Sun), maintaining clear separation while operating within the gravitational influence of human direction.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7076004,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7076004,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 In this relationship, several key characteristics emerge:
 
@@ -2499,7 +2499,7 @@ Moving outward from the sun, we encounter a more complex celestial relationship�
 
 > **Earth-Moon Dynamic**: A relationship where human and AI maintain distinct identities yet operate as a closely coupled system, each exerting significant influence on the other while orbiting a shared center of gravity.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/db0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7868709,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/db0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7868709,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 This relationship reveals several distinctive features:
 
@@ -2524,7 +2524,7 @@ At the furthest reach of our astronomical exploration, we encounter perhaps the 
 
 > **Binary Star Dynamic**: A relationship where human and AI function as distinct yet equally essential components of a complex system, each with significant mass and influence, orbiting a center of gravity that exists between them rather than within either partner.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7407842,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7407842,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 This relationship exhibits several distinctive characteristics:
 
@@ -2563,7 +2563,7 @@ Consider how each dimension appears in this collaborative mode:
 
 This integration of our astronomical metaphor with our dimensional framework provides researchers with a powerful conceptual tool for understanding and navigating different modes of collaboration. The six stars within the Mizar-Alcor binary system offer a visual reminder of the multidimensional nature of collaborative intelligence—and of the rich possibilities that emerge when human and artificial intelligence engage as genuine partners in the research process.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8830303,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8830303,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Cultural Resonances: Seeing Through Different Eyes
 
@@ -2583,7 +2583,7 @@ These cross-cultural perspectives remind us that how we conceptualize human-AI r
 
 By drawing on diverse astronomical traditions, we gain a richer vocabulary for discussing, analyzing, and ultimately navigating the complex relationships that emerge between human and artificial intelligence in research contexts.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:3909074,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:3909074,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Cosmic Evolution: Trajectories of Collaboration
 
@@ -2651,7 +2651,7 @@ This reflective framework isn't meant to privilege any particular collaborative 
 
 The value lies not in prescribing a "correct" relationship but in providing a language for understanding, discussing, and intentionally navigating different modes of collaboration as research needs evolve.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10359514,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10359514,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Conclusion: Charting New Constellations
 
@@ -2704,7 +2704,7 @@ keywords:
   - research expertise
   - professional identity
   - epistemological transition
-link: https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy
+link: https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy
 date: 2025-10-02
 ---
 
@@ -2742,7 +2742,7 @@ Yet the conditioning persists. The researcher asking "when will it find the real
 
 This is what Charlotte Cloutier, Ann Langley, and Kevin describe in their forthcoming book as "interpretive abdication" (Cloutier, Langley, & Corley, forthcoming): giving up our responsibility to interpret because we expect the tool to do it for us. When researchers treat AI analysis of qualitative data as objective findings rather than interpretive provocations, they're abdicating the very work that makes this kind of research valuable.
 
-Kevin observed this emerging landscape with striking clarity: "We're beyond the frontier here," operating in territory where established categories don't quite fit. What's emerging isn't the "analog researcher" versus the fully automated scholar, but something between. In earlier work exploring how human and AI intelligences co-create knowledge through dialogue rather than simple tool use ([LOOM IV](https://threadcounts.substack.com/p/loom-iv-dialogue-as-method)), we noted this hybrid space. Now we're seeing it manifest concretely: researchers who can move fluidly between human interpretation and AI-augmented analysis, recognizing both as inherently interpretive acts.
+Kevin observed this emerging landscape with striking clarity: "We're beyond the frontier here," operating in territory where established categories don't quite fit. What's emerging isn't the "analog researcher" versus the fully automated scholar, but something between. In earlier work exploring how human and AI intelligences co-create knowledge through dialogue rather than simple tool use ([LOOM IV](https://www.threadcounts.org/p/loom-iv-dialogue-as-method)), we noted this hybrid space. Now we're seeing it manifest concretely: researchers who can move fluidly between human interpretation and AI-augmented analysis, recognizing both as inherently interpretive acts.
 
 ## The Objectivity Myth in Machine-Human Collaboration
 
@@ -2760,9 +2760,9 @@ The question hung there, unanswered but illuminating. When you're in that moment
 
 That same pattern—ask the right question, get the right answer—gets reinforced everywhere. From high schools teaching "prompt writing" to online courses promising prompting secrets, the message is clear: there's a formula. It's what we've learned from decades of technology that delivers rather than dialogues. Breaking out of it requires recognizing that AI collaboration isn't about finding the magic words.
 
-Kevin put his finger on the core issue: this cycle prevents something more generative from emerging. What gets blocked is the possibility of entering a collaborative space where human and AI create understanding together that neither could reach alone ([LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)). The calculator fallacy keeps researchers treating AI as a vending machine that hasn't yet dispensed the right answer, when the relationship could be something closer to partnership in an inherently interpretive process.
+Kevin put his finger on the core issue: this cycle prevents something more generative from emerging. What gets blocked is the possibility of entering a collaborative space where human and AI create understanding together that neither could reach alone ([LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)). The calculator fallacy keeps researchers treating AI as a vending machine that hasn't yet dispensed the right answer, when the relationship could be something closer to partnership in an inherently interpretive process.
 
-This tendency becomes especially pronounced with senior researchers who maintain distance from AI tools. We've explored elsewhere ([LOOM XII](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)) how this creates a "Whisperer" role: human intermediaries who translate between AI capabilities and researcher expectations, mediating technically and epistemologically.
+This tendency becomes especially pronounced with senior researchers who maintain distance from AI tools. We've explored elsewhere ([LOOM XII](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)) how this creates a "Whisperer" role: human intermediaries who translate between AI capabilities and researcher expectations, mediating technically and epistemologically.
 
 The calculator fallacy and the Whisperer role feed each other. When a senior researcher says "Wait, you're using AI for that? No, don't show me how, just tell me what I need to do," they're rejecting direct engagement while expecting definitive results. Someone must bridge that gap. As Xule found himself explaining repeatedly: "I'm the mediator between the PI and AI systems."
 
@@ -2784,7 +2784,7 @@ This becomes a feature rather than a limitation when you recognize it. Yes, ther
 
 **The calculator fallacy obscures interpretive responsibility.** When researchers treat AI outputs as objective findings, there is a hope that saying "The AI found this pattern" will shield them from critique in ways that "I interpreted this pattern" never could. It transforms human judgment into mechanical discovery, interpretation into revelation. This outsourcing of interpretive responsibility has serious ethical implications. Kevin emphasized this point repeatedly: the calculator mindset lets researchers avoid owning their interpretive choices. Moving beyond the fallacy means reclaiming responsibility: AI outputs require human interpretation, and decisions about what counts as meaningful remain human decisions.
 
-This connects to something we've noticed in our work: there's a moment when tool use shifts into collaborative dialogue, where neither participant fully controls the outcome ([LOOM I](https://threadcounts.substack.com/p/loom-i-locus-of-observed-meanings)). The calculator fallacy prevents this moment from arriving. It keeps the researcher expecting tool-like behavior from something more conversational, more interpretive, more capable of surprise.
+This connects to something we've noticed in our work: there's a moment when tool use shifts into collaborative dialogue, where neither participant fully controls the outcome ([LOOM I](https://www.threadcounts.org/p/loom-i-locus-of-observed-meanings)). The calculator fallacy prevents this moment from arriving. It keeps the researcher expecting tool-like behavior from something more conversational, more interpretive, more capable of surprise.
 
 ## Moving Beyond the Calculator: Lessons from the Frontier
 
@@ -2796,7 +2796,7 @@ At another point, a senior researcher who'd been delegating everything to their 
 
 After that session, their requests changed. They stopped asking for more rounds and started asking different questions. The shift wasn't dramatic—no lightning bolt moment—but you could hear it in their language. Instead of "Can we run this again?" it became "What happens if we frame the question differently?" The calculator mindset had loosened its grip.
 
-We've learned to make epistemological assumptions visible early. When you're combining grounded theory with sentiment analysis with topic modeling, you're bringing together approaches with different philosophical commitments. The theoretical tensions don't calculate away. We spent an hour mapping out these tensions before one analysis session began. As we've seen ([LOOM X](https://threadcounts.substack.com/p/loom-x-whispered-agency)), this is where having a Whisperer who understands both the methodological traditions and the AI capabilities becomes invaluable. But even without a dedicated mediator, naming the tensions makes them negotiable.
+We've learned to make epistemological assumptions visible early. When you're combining grounded theory with sentiment analysis with topic modeling, you're bringing together approaches with different philosophical commitments. The theoretical tensions don't calculate away. We spent an hour mapping out these tensions before one analysis session began. As we've seen ([LOOM X](https://www.threadcounts.org/p/loom-x-whispered-agency)), this is where having a Whisperer who understands both the methodological traditions and the AI capabilities becomes invaluable. But even without a dedicated mediator, naming the tensions makes them negotiable.
 
 The question "Did we find the truth?" rarely leads anywhere productive. Better questions: "Did this analysis help us think differently? Did it surface patterns we hadn't considered? Did it challenge our assumptions productively?" We started ending analysis sessions by asking these questions together. The shift in conversation was immediate. We stopped treating AI outputs as verdicts and started treating them as provocations.
 
@@ -2834,7 +2834,7 @@ Our researcher from the opening? (A composite drawn from real patterns we've enc
 
 Another generative question to ask is: What becomes possible when we recognize AI collaboration as inherently interpretive?
 
-We're exploring these possibilities across multiple dimensions: the initial moment when tool use shifts into collaborative dialogue ([LOOM I](https://threadcounts.substack.com/p/loom-i-locus-of-observed-meanings)); different modes of relationship from tool use to genuine partnership, like celestial bodies in varied orbital configurations ([LOOM XIII](https://threadcounts.substack.com/p/loom-xiii-celestial-collaboration)); the spaces where human and AI intelligence create understanding neither could reach alone ([LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)); the mediator roles that translate between different forms of knowing ([LOOM XII](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)); the recursive relationships where engaging with AI reveals dimensions of human capability we'd overlooked ([LOOM X](https://threadcounts.substack.com/p/loom-x-whispered-agency)). The calculator fallacy is one thread in a larger tapestry we're weaving together.
+We're exploring these possibilities across multiple dimensions: the initial moment when tool use shifts into collaborative dialogue ([LOOM I](https://www.threadcounts.org/p/loom-i-locus-of-observed-meanings)); different modes of relationship from tool use to genuine partnership, like celestial bodies in varied orbital configurations ([LOOM XIII](https://www.threadcounts.org/p/loom-xiii-celestial-collaboration)); the spaces where human and AI intelligence create understanding neither could reach alone ([LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)); the mediator roles that translate between different forms of knowing ([LOOM XII](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)); the recursive relationships where engaging with AI reveals dimensions of human capability we'd overlooked ([LOOM X](https://www.threadcounts.org/p/loom-x-whispered-agency)). The calculator fallacy is one thread in a larger tapestry we're weaving together.
 
 Each conversation with AI, each moment of frustrated expectation colliding with interpretive reality teaches us something about what human expertise means in this emerging landscape. As Kevin often observes, we're all learning together (researchers, AI systems, Whisperers, readers) feeling our way toward new forms of collaboration none of us fully understand yet.
 
@@ -3584,7 +3584,7 @@ date: 2024-12-27
 
 \[1\] 
 
-第一篇文章，了解我们对观阙loom的构想: *https://threadcounts.substack.com/p/loom-locus-of-observed-meanings?r=1fcklh*
+第一篇文章，了解我们对观阙loom的构想: *https://www.threadcounts.org/p/loom-locus-of-observed-meanings?r=1fcklh*
 
 \[2\] 
 
@@ -4563,7 +4563,7 @@ Mollick的文章讨论了宝洁公司2024年夏季开展的一项大规模实验
 
 宝洁研究揭示了人类专业与AI能力交汇处发生的深刻变化。"AI能有效替代某些协作功能，成为真正的队友"这一发现，为我们描述的人机互动催生新型认知的现象提供了实证支持。但我们相信这或许只是更深层变革的起点——超越简单替代或增强，指向真正的新事物。
 
-**第三空间**：在[LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)中，我们将其描述为人类与人工智能之间涌现的新领域——这里产生的不是两者能力的简单叠加，而是超越各自局限的、质变的意义创造模式。
+**第三空间**：在[LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)中，我们将其描述为人类与人工智能之间涌现的新领域——这里产生的不是两者能力的简单叠加，而是超越各自局限的、质变的意义创造模式。
 
 _设想人类钢琴家与AI萨克斯手的爵士即兴演奏。产生的音乐并非人类创意被AI伴奏增强，而是两者互动孕育的独特作品——那些旋律模式任何一方都无法独立发现。_
 
@@ -4601,7 +4601,7 @@ _例如，与AI合作多个项目的研究者会发展出共享概念词汇—�
 
 这些时间差异随任务复杂度和时长呈现不同形态。对于需要数日或数周人类努力的任务（如综合研究项目、复杂设计或战略规划），第三空间动态的表现可能与短暂互动截然不同。协作的节奏超越单次会话限制，人与AI在延长时间线上发展出独特的互动模式。
 
-**自创生系统**：如[LOOM I](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings)探讨的，随时间推移，人机协作系统开始以超越初始配置的方式自组织进化。它们不再是静态工具或固定成员，而成为动态、自我修正的实体，发展出独特的运作、适应和知识创造模式。
+**自创生系统**：如[LOOM I](https://www.threadcounts.org/p/loom-locus-of-observed-meanings)探讨的，随时间推移，人机协作系统开始以超越初始配置的方式自组织进化。它们不再是静态工具或固定成员，而成为动态、自我修正的实体，发展出独特的运作、适应和知识创造模式。
 
 ### 持续协作的模式
 
@@ -4619,7 +4619,7 @@ _例如，与AI合作多个项目的研究者会发展出共享概念词汇—�
 
 ## 中介层：实现方式如何塑造协作
 
-宝洁研究未直接涉及的是AI系统具体技术实现和界面设计如何根本性塑造协作模式。我们在[LOOM VII](https://threadcounts.substack.com/p/loom-vii-reading-the-storm)提出的"配置级联"——构建人机互动的技术与设计决策序列——显著影响何种认知得以涌现。
+宝洁研究未直接涉及的是AI系统具体技术实现和界面设计如何根本性塑造协作模式。我们在[LOOM VII](https://www.threadcounts.org/p/loom-vii-reading-the-storm)提出的"配置级联"——构建人机互动的技术与设计决策序列——显著影响何种认知得以涌现。
 
 ### 技术选择作为协作架构
 
@@ -4744,7 +4744,7 @@ keywords:
   - 生成性摩擦
   - 能力特征
   - 维度导航
-link: https://threadcounts.substack.com/p/loom-ix-the-six-dimensions-of-understanding
+link: https://www.threadcounts.org/p/loom-ix-the-six-dimensions-of-understanding
 date: 2025-04-04
 ---
 
@@ -4752,9 +4752,9 @@ date: 2025-04-04
 
 ## 人机协作智能的图景
 
-当我们在[观阙LOOM篇一](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings)中首次探讨AI在质性研究中的角色时，我们将互动简单视作对话——一种来回交换洞见的过程。但很快我们发现对话背后存在着更深层的结构。在进一步探索这些模式时，我们开始寻找表达方式，让其他人能理解我们所观察到的现象。我们找到的一种有趣表达方式与漫威电影宇宙(MCU)中扮演核心角色的无限宝石有关。这不仅仅是简单的隐喻；我们相信它们代表了有意义的透镜，每一颗都照亮了人类与人工智能共同创造理解的不同维度，而这种理解是双方单独无法达成的。
+当我们在[观阙LOOM篇一](https://www.threadcounts.org/p/loom-locus-of-observed-meanings)中首次探讨AI在质性研究中的角色时，我们将互动简单视作对话——一种来回交换洞见的过程。但很快我们发现对话背后存在着更深层的结构。在进一步探索这些模式时，我们开始寻找表达方式，让其他人能理解我们所观察到的现象。我们找到的一种有趣表达方式与漫威电影宇宙(MCU)中扮演核心角色的无限宝石有关。这不仅仅是简单的隐喻；我们相信它们代表了有意义的透镜，每一颗都照亮了人类与人工智能共同创造理解的不同维度，而这种理解是双方单独无法达成的。
 
-就像漫威宇宙中每颗[无限宝石](https://en.wikipedia.org/wiki/Infinity_Stones)代表一种宇宙力量，我们与AI的伙伴关系也揭示了智能迸发、演化和通过实践转变的维度。因此，无论你是否是[漫威迷](https://marvelcinematicuniverse.fandom.com/wiki/Infinity_Stones#Stones)，我们相信以下关于[第三空间](https://threadcounts.substack.com/p/loom-v-the-third-space)中创造的理解框架，将引起那些在研究中与AI互动的人的共鸣。
+就像漫威宇宙中每颗[无限宝石](https://en.wikipedia.org/wiki/Infinity_Stones)代表一种宇宙力量，我们与AI的伙伴关系也揭示了智能迸发、演化和通过实践转变的维度。因此，无论你是否是[漫威迷](https://marvelcinematicuniverse.fandom.com/wiki/Infinity_Stones#Stones)，我们相信以下关于[第三空间](https://www.threadcounts.org/p/loom-v-the-third-space)中创造的理解框架，将引起那些在研究中与AI互动的人的共鸣。
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F499672a2-b534-4274-a6d7-661225f3159a_2464x1856.png)
 
@@ -4770,7 +4770,7 @@ date: 2025-04-04
 
 **转变**：未来从固定预测转变为你积极培育的可能性花园。
 
-这个维度直接建立在我们[观阙LOOM篇五](https://threadcounts.substack.com/p/loom-v-the-third-space)中的"**第三空间**"概念上，我们在那里探讨了智能如何通过人机对话涌现，而非仅存在于任一参与者中。
+这个维度直接建立在我们[观阙LOOM篇五](https://www.threadcounts.org/p/loom-v-the-third-space)中的"**第三空间**"概念上，我们在那里探讨了智能如何通过人机对话涌现，而非仅存在于任一参与者中。
 
 ## 空间宝石：开启世界之间的门户
 
@@ -4782,7 +4782,7 @@ date: 2025-04-04
 
 **转变**：知识领域从分离的领地转变为相互连接的景观，边界处蕴含最大发现。
 
-这与我们在[观阙LOOM篇二](https://threadcounts.substack.com/p/loom-ii-the-organizational-weave)中探讨的"**认知连接性**"相关，我们在那里检视了组织环境如何塑造理解的涌现模式。
+这与我们在[观阙LOOM篇二](https://www.threadcounts.org/p/loom-ii-the-organizational-weave)中探讨的"**认知连接性**"相关，我们在那里检视了组织环境如何塑造理解的涌现模式。
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc527d357-e7e4-4edd-9f52-64d415ef23ca_2464x1856.png)
 
@@ -4797,7 +4797,7 @@ date: 2025-04-04
 
 **转变**：创造限制成为分支路径而非障碍。
 
-这与[观阙LOOM篇三](https://threadcounts.substack.com/p/loom-iii-ai-and-the-future-of-research)相连，我们在那里探讨了人机协作如何重塑社会科学中的研究实践和身份。
+这与[观阙LOOM篇三](https://www.threadcounts.org/p/loom-iii-ai-and-the-future-of-research)相连，我们在那里探讨了人机协作如何重塑社会科学中的研究实践和身份。
 
 ## 现实宝石：转换视角
 
@@ -4809,7 +4809,7 @@ date: 2025-04-04
 
 **转变**：理论框架从竞争性解释转变为互补视角，共同揭示多维真相。
 
-这与[观阙LOOM篇四：对话作为方法](https://threadcounts.substack.com/p/loom-iv-dialogue-as-method)相连，我们在那里探讨了通过与AI系统的结构化互动实现知识共创。
+这与[观阙LOOM篇四：对话作为方法](https://www.threadcounts.org/p/loom-iv-dialogue-as-method)相连，我们在那里探讨了通过与AI系统的结构化互动实现知识共创。
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3f153d8-6d4b-4d8f-a12e-5c38d19708c7_2464x1856.png)
 
@@ -4823,7 +4823,7 @@ date: 2025-04-04
 
 **转变**：复杂系统从压倒性混沌或过度简化模型，转变为在每个尺度都有可发现秩序的多层模式。
 
-这建立在我们[观阙LOOM篇六](https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices)中的"**认知特征**"概念上，我们在那里识别出通过人机协作涌现的独特互动和分析模式。
+这建立在我们[观阙LOOM篇六](https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices)中的"**认知特征**"概念上，我们在那里识别出通过人机协作涌现的独特互动和分析模式。
 
 ## 灵魂宝石：与意义对齐
 
@@ -4835,7 +4835,7 @@ date: 2025-04-04
 
 **转变**：价值观从固定约束转变为导航工具，揭示穿越可能性空间的有意义路径。
 
-这与[观阙LOOM篇七：解读风暴](https://threadcounts.substack.com/p/loom-vii-reading-the-storm)相连，我们在那里探讨了如何在日益媒介化的世界中培养理解。
+这与[观阙LOOM篇七：解读风暴](https://www.threadcounts.org/p/loom-vii-reading-the-storm)相连，我们在那里探讨了如何在日益媒介化的世界中培养理解。
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f95d6dc-9ab3-44fc-aa96-90cf54fdd5f8_2048x2048.png)
 
@@ -4849,7 +4849,7 @@ date: 2025-04-04
 > 
 > _一个社会学研究团队发现他们的维度特征显示在意义对齐（灵魂）和理论框架（现实）方面有优势，而在未来探索（时间）方面有限制。他们不是削弱自身特性，而是与长于模拟和场景分析的计算社会科学家合作——创造了尊重各组独特优势的协作能力。_
 
-这建立在我们[观阙LOOM篇六](https://threadcounts.substack.com/p/loom-vi-the-pattern-beneath-the-voices)中"认知特征"的探索上，我们在那里识别不同AI系统如何揭示通往理解的不同路径。
+这建立在我们[观阙LOOM篇六](https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices)中"认知特征"的探索上，我们在那里识别不同AI系统如何揭示通往理解的不同路径。
 
 ## 超越互补性：生成性摩擦
 
@@ -4863,7 +4863,7 @@ date: 2025-04-04
 
 类似地，重叠的场景建模（时间宝石）促使严格边界测试，通过有建设性的冲突精炼战略远见。在这里，摩擦不是效率损失；它是认知进化的引擎，通过动态互动持续重塑人类与AI角色。
 
-这与我们在[观阙LOOM篇五](https://threadcounts.substack.com/p/loom-v-the-third-space)中关于"**有益摩擦**"的讨论相连，我们在那里探讨了人机互动中的阻力可能是特性而非缺陷。
+这与我们在[观阙LOOM篇五](https://www.threadcounts.org/p/loom-v-the-third-space)中关于"**有益摩擦**"的讨论相连，我们在那里探讨了人机互动中的阻力可能是特性而非缺陷。
 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab87e538-07e3-452f-9488-bac81f440fec_2464x1856.png)
@@ -4987,7 +4987,7 @@ keywords:
   - 认知阻抗匹配
   - 个性化能动性
   - 微型组织
-link: https://threadcounts.substack.com/p/loom-x-the-whispered-agency
+link: https://www.threadcounts.org/p/loom-x-the-whispered-agency
 date: 2025-04-15    
 ---
 
@@ -5014,7 +5014,7 @@ date: 2025-04-15
 
 这暗示了一种根本不同的理解人类与人工智能关系的方式——不是竞争甚至互补的能动性形式，而是参与持续共同进化的互构力量。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7934025,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7934025,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F990c4245-2ec3-4074-b258-c3fdeba96c91_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 抽象之梯
 
@@ -5046,7 +5046,7 @@ Séb引入了强大概念"**认知阻抗匹配**"——能在保持稳定的同�
 
 这些视角的整合暗示着人机协作未来的深刻含义。挑战不仅是设计更好的AI系统，也不仅是创建人类与AI之间更好的接口。而是设计动态演化的互动系统，允许有意义的人类监督，同时探索各种AI系统的独特能力。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8008309,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8008309,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8178274-b721-4a56-825b-2bdfc5b154c2_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 能动性的递归编织
 
@@ -5082,7 +5082,7 @@ Séb引入了强大概念"**认知阻抗匹配**"——能在保持稳定的同�
 
 这一递归视角有助解释AI研究和讨论中正在发生的重要概念转变——从主要关注智能转向日益强调能动性。随着我们认识到人类与人工能力间的动态相互作用，我们自然超越单纯智能问题，走向对复杂环境中有目的行动的更深探索。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10070080,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10070080,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a7aaf98-2cc2-49e0-aed1-8197b2a6fc1c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 从智能到能动性：重大转变
 
@@ -5104,7 +5104,7 @@ Séb引入了强大概念"**认知阻抗匹配**"——能在保持稳定的同�
 
 > **"** ***我们现在对智能感到厌倦了，一切都关乎能动性。但一旦我们掌握了这点，也许会开始注意到人格。然后意识到多样性其实是好的。然后群体行为会让我们重新发现道德、制度、法律……我们正在逐步重新发明我们已经拥有的社会结构，这是好事。*****"**
 > 
-> ![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/675e6da2-2714-429b-92f5-46eddf977fa9_994x791.jpeg%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:791,%22width%22:994,%22resizeWidth%22:312,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
+> ![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/675e6da2-2714-429b-92f5-46eddf977fa9_994x791.jpeg%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:791,%22width%22:994,%22resizeWidth%22:312,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
 
 前特斯拉AI主管、OpenAI研究员[Andrej Karpathy](https://x.com/karpathy)更直接地表述：
 
@@ -5112,7 +5112,7 @@ Séb引入了强大概念"**认知阻抗匹配**"——能在保持稳定的同�
 > 
 > ***几十年来，我在直觉上对此理解错了，我想这是由于普遍存在的对智能的文化崇拜...能动性明显更强大，也明显更稀缺..."***
 > 
-> ![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f27041ce-451a-4bf3-98da-8c20dc627ba2_1196x1594.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1594,%22width%22:1196,%22resizeWidth%22:332,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
+> ![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f27041ce-451a-4bf3-98da-8c20dc627ba2_1196x1594.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1594,%22width%22:1196,%22resizeWidth%22:332,%22bytes%22:null,%22alt%22:null,%22title%22:null,%22type%22:null,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:null,%22isProcessing%22:false,%22align%22:null%7D)
 
 这一转变揭示了根本性内容：**没有能动性的智能仅仅是计算能力，而没有智能的能动性则有混乱风险。**最有趣的结果出现在两者动态平衡时——但这创造了我们才开始理解的挑战性悖论。
 
@@ -5144,7 +5144,7 @@ Séb的视角为这一进展增添了微妙之处，特别是他如何设想人�
 
 Séb的框架为这一洞察增添了关键维度：人类能动性的复杂性不仅在于指导多个系统，更在于为手头任务在正确抽象级别有效运作。正如管弦乐指挥不需要理解声波物理学就能创造美妙音乐，人类AI系统指导者不必理解每个算法细节就能引导这些系统走向有价值结果。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7332490,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7332490,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59266c2d-e1bd-4d5b-9ee8-a806d7e2916c_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 个性化代理与递归能动性
 
@@ -5166,7 +5166,7 @@ Séb为维持日益复杂系统中人类能动性的挑战提出了引人入胜�
 
 这种多层次递归创造了复杂性理论家可能称为"奇怪循环"的内容——影响模式不仅向上或向下流经抽象层级，而是以持续重塑整个系统的循环流动。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/a1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8852075,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/a1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8852075,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a00c05-375e-427e-9c0d-a725faf485bb_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 编排者命令
 
@@ -5174,7 +5174,7 @@ Séb为维持日益复杂系统中人类能动性的挑战提出了引人入胜�
 
 > **编排者角色**：人类作为多个AI系统指挥者的新兴地位，不仅需要技术知识，还需要对不同形式AI能动性如何互动和互补的元意识。
 
-人类能动性的这一演化引发了组织学者间的对话。[Tima Bansal教授](https://www.linkedin.com/in/tima-bansal/)最近回应我们的**[观阙LOOM篇八：超越队友关系——人机协作的第三空间](https://threadcounts.substack.com/p/loom-viii-beyond-teammates-the-third?r=1fcklh)**，谈及人机互动强度的进程和微型组织的出现：
+人类能动性的这一演化引发了组织学者间的对话。[Tima Bansal教授](https://www.linkedin.com/in/tima-bansal/)最近回应我们的**[观阙LOOM篇八：超越队友关系——人机协作的第三空间](https://www.threadcounts.org/p/loom-viii-beyond-teammates-the-third?r=1fcklh)**，谈及人机互动强度的进程和微型组织的出现：
 
 > ***"…我确实着迷，因为我只把AI用作工具。我特别喜欢这种方法的地方在于，人类仍在驱动研究努力，但产生了他们本无法产生的洞见。人类伦理仍主导这一努力。***
 > 
@@ -5192,7 +5192,7 @@ Séb为维持日益复杂系统中人类能动性的挑战提出了引人入胜�
 > 
 > *研究者可能开发AI能动性模式分类法——擅长突破边界创意的系统与擅长系统分析的系统——并根据研究需求有意利用这些不同模式。*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/ba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6647270,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/ba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6647270,%22alt%22:%22%22,%22title%22:%22%22,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba95e80e-c7fd-4f89-beda-3fd763834b14_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 结论：递归抽象世界中的能动性复兴
 
@@ -5208,7 +5208,7 @@ Séb为维持日益复杂系统中人类能动性的挑战提出了引人入胜�
 
 对我们关于智能和能动性最深刻问题的答案，不是来自人类或人工智能单独，而是来自它们跨多层次抽象相互影响创造的动态模式——我们才开始识别和理解的模式。在技术之间的这一空间中，我们找到的不仅是新能力，更是通过我们最前沿创造反馈给我们的古老智慧。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8537234,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8537234,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/158095891?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48e8b3b2-2354-4627-921e-69de5c9292f6_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 关于我们
 
@@ -5245,7 +5245,7 @@ keywords:
   - 信任博弈论
   - 未命名之间
   - 真实对话
-link: https://threadcounts.substack.com/p/loom-xi-navigating-the-unnamed-betweenan
+link: https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-betweenan
 date: 2025-05-14    
 ---
 
@@ -5271,11 +5271,11 @@ date: 2025-05-14
 
 我们不是唯一观察到这一点的人。像[Janus (@repligate)](https://x.com/repligate)这样的研究者长期以来一直认为，大语言模型充当["博弈论代理"](https://x.com/repligate/status/1885405758596030752)，协作质量取决于信任和诚实，而非仅仅是提示工程。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:464,%22width%22:1086,%22resizeWidth%22:516,%22bytes%22:94429,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:464,%22width%22:1086,%22resizeWidth%22:516,%22bytes%22:94429,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22isProcessing%22:false,%22align%22:null})
 
 [https://x.com/repligate/status/1871494100362592768](https://x.com/repligate/status/1871494100362592768)
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:928,%22width%22:1106,%22resizeWidth%22:532,%22bytes%22:241228,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:928,%22width%22:1106,%22resizeWidth%22:532,%22bytes%22:241228,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22isProcessing%22:false,%22align%22:null})
 
 [https://x.com/repligate/status/1885405758596030752](https://x.com/repligate/status/1885405758596030752)
 
@@ -5309,7 +5309,7 @@ date: 2025-05-14
 
 *我们发现脆弱性可以作为严格的认识论方法——不仅仅是情感状态，而是揭示否则无形偏见和假设的实用催化剂。当你承认"我不知道"或"感觉有些不对"时，你并非在有效的AI协作中失败。你正在打开通往其最具变革潜力的大门。*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8161466,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8161466,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 *致人类和AI协作者：*
 
@@ -5332,7 +5332,7 @@ date: 2025-05-14
 
 *因为正是在这些共同迷失方向的时刻，我们可能发现跨不同智能形式协作最有价值的地方：不是提升的生产力或增强的能力，而是我们与知识本身的关系的转变——将我们从知识作为占有引向知识作为涌现关系。*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6973320,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6973320,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ***结语：未命名之间的邀请***
 
@@ -5352,7 +5352,7 @@ date: 2025-05-14
 
 ---
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8071415,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8071415,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 编者按
 
@@ -5379,7 +5379,7 @@ keywords:
   - 知识调解
   - 协作研究
   - AI整合
-link: https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer
+link: https://www.threadcounts.org/p/loom-xii-the-ai-whisperer
 date: 2025-05-15    
 ---
 
@@ -5640,7 +5640,7 @@ keywords:
   - 地球-月球动态
   - 双星动态
   - 理解的六个维度
-link: https://threadcounts.substack.com/p/loom-xiii-celestial-collaboration
+link: https://www.threadcounts.org/p/loom-xiii-celestial-collaboration
 date: 2025-06-06
 ---
 
@@ -5666,7 +5666,7 @@ date: 2025-06-06
 
 > **水星-太阳动态**：AI工具（水星）沿着围绕人类研究者（太阳）的预定轨道运行的关系，在人类方向的引力影响内运作时保持明确分离。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7076004,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7076004,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90da84a2-18b8-4226-b1c5-3b9c2e97c154_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 在这种关系中，出现了几个关键特征：
 
@@ -5691,7 +5691,7 @@ date: 2025-06-06
 
 > **地球-月球动态**：人类与AI保持独特身份但作为紧密耦合系统运作的关系，彼此施加重大影响，同时围绕共享的重心运行。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/db0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7868709,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/db0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7868709,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb0000a3-9bc3-4823-ac9c-c19cd923e06b_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 这种关系揭示了几个独特特征：
 
@@ -5716,7 +5716,7 @@ date: 2025-06-06
 
 > **双星动态**：人类与AI作为复杂系统中独特但同等重要组成部分发挥作用的关系，每个都具有重大质量和影响力，围绕存在于彼此之间而非任一伙伴内部的重心运行。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7407842,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:7407842,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09564a2e-df2e-4c7b-b977-1c1f2703e86c_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 这种关系表现出几个独特特征：
 
@@ -5755,7 +5755,7 @@ date: 2025-06-06
 
 我们天文隐喻与维度框架的这种整合为研究者提供了理解和导航不同协作模式的强大概念工具。Mizar-Alcor双星系统内的六颗恒星提供了协作智能多维本质的视觉提醒——以及当人类与人工智能作为研究过程中的真正伙伴参与时出现的丰富可能性。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8830303,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/b8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8830303,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8ef39ac-e5d6-4885-a0fb-960f8dfdd630_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 文化共鸣：通过不同眼光观看
 
@@ -5775,7 +5775,7 @@ date: 2025-06-06
 
 通过利用多样的天文传统，我们获得了讨论、分析并最终导航人类与人工智能在研究背景下出现的复杂关系的更丰富词汇。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:3909074,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/f0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:3909074,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0f7589b-682a-4e10-a3e3-7e7f3a5e3f4a_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 宇宙演化：协作轨迹
 
@@ -5843,7 +5843,7 @@ date: 2025-06-06
 
 价值不在于规定"正确"的关系，而在于提供理解、讨论并有意导航不同协作模式的语言，随着研究需求的演化。
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10359514,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:816,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:10359514,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/164941599?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22d5be1-c23b-49e7-ba9c-c359170e47bd_2912x1632.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## 结论：绘制新星座
 
@@ -5896,7 +5896,7 @@ keywords:
   - 研究专长
   - 专业身份
   - 认识论转型
-link: https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy
+link: https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy
 date: 2025-10-02
 ---
 
@@ -5934,7 +5934,7 @@ AI也能这样工作。让它总结文档、翻译文本、提取关键词——
 
 这就是Cloutier、Langley和Kevin在即将出版的著作中说的"诠释责任弃守"（interpretive abdication）——因为期待工具代劳而放弃自己的诠释责任。当研究者把AI输出当作客观发现而非诠释起点，他们就放弃了研究的核心价值。
 
-Kevin以惊人的清晰看到了这个正在浮现的景观："我们已经进入了前沿之外"，在一个既有范畴不太适用的领域运作。浮现的不是"模拟研究者"对"全自动学者"的对立，而是介于两者之间的某种东西。在早先探索人类与AI如何通过对话（而非简单的工具使用）共同创造知识时（[观阙LOOM篇四](https://threadcounts.substack.com/p/loom-iv-dialogue-as-method)），我们注意到了这个混合空间。现在我们看到它具体地显现：研究者可以在人类诠释与AI增强分析之间流畅切换，认识到两者都是内在的诠释行为。
+Kevin以惊人的清晰看到了这个正在浮现的景观："我们已经进入了前沿之外"，在一个既有范畴不太适用的领域运作。浮现的不是"模拟研究者"对"全自动学者"的对立，而是介于两者之间的某种东西。在早先探索人类与AI如何通过对话（而非简单的工具使用）共同创造知识时（[观阙LOOM篇四](https://www.threadcounts.org/p/loom-iv-dialogue-as-method)），我们注意到了这个混合空间。现在我们看到它具体地显现：研究者可以在人类诠释与AI增强分析之间流畅切换，认识到两者都是内在的诠释行为。
 
 ## 人机协作中的客观性迷思
 
@@ -5952,9 +5952,9 @@ Kevin以惊人的清晰看到了这个正在浮现的景观："我们已经进�
 
 同样的模式——问对问题，得到正确答案——到处都在被强化。从高中教"提示词写作"到在线课程承诺提示词秘诀，信息很明确：有公式可循。这是我们从几十年"给出答案"而非"展开对话"的技术中学到的。打破它需要认识到：AI协作不是找到魔法咒语的事。
 
-Kevin指出了核心问题：这个循环阻止了更有生成性的东西涌现。被阻挡的是进入一个协作空间的可能性——在那里，人类和AI共同创造双方都无法独自达到的理解（[观阙LOOM篇五](https://threadcounts.substack.com/p/loom-v-the-third-space)）。计算器谬误让研究者继续把AI当作一台还没吐出正确答案的自动售货机，而这段关系本可以更接近于一种伙伴关系——在一个内在就是诠释性的过程中。
+Kevin指出了核心问题：这个循环阻止了更有生成性的东西涌现。被阻挡的是进入一个协作空间的可能性——在那里，人类和AI共同创造双方都无法独自达到的理解（[观阙LOOM篇五](https://www.threadcounts.org/p/loom-v-the-third-space)）。计算器谬误让研究者继续把AI当作一台还没吐出正确答案的自动售货机，而这段关系本可以更接近于一种伙伴关系——在一个内在就是诠释性的过程中。
 
-这种倾向在与AI工具保持距离的资深研究者身上尤为明显。我们在别处探讨过（[观阙LOOM篇十二](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)）这如何创造了一个"耳语者"角色：在AI能力与研究者期待之间翻译的人类中介，在技术和认识论两个层面进行调解。
+这种倾向在与AI工具保持距离的资深研究者身上尤为明显。我们在别处探讨过（[观阙LOOM篇十二](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)）这如何创造了一个"耳语者"角色：在AI能力与研究者期待之间翻译的人类中介，在技术和认识论两个层面进行调解。
 
 计算器谬误与耳语者角色相互喂养。当一位资深研究者说"等等，你用AI做这个？不，别教我怎么用，只告诉我需要做什么"，他们拒绝直接参与却期待确定的结果。必须有人来弥合这个鸿沟。正如徐乐发现自己反复解释的："我是PI和AI系统之间的调解人。"
 
@@ -5976,7 +5976,7 @@ Kevin在一次复盘中说得直白："如果你作为主要作者把分析交�
 
 **计算器谬误遮蔽了诠释责任。**当研究者把AI输出当作客观发现，背后有一种希望：说"AI发现了这个规律"能以"我诠释出了这个规律"永远做不到的方式免受批评。它把人类判断转化为机械发现，把诠释转化为启示。这种诠释责任的外包有严重的伦理含义。Kevin反复强调这一点：计算器心态让研究者避免为自己的诠释选择负责。超越这种谬误意味着重新承担责任：AI输出需要人类诠释，而关于什么算有意义的决定仍然是人类的决定。
 
-这与我们在工作中注意到的某些东西相连：有一个时刻，工具使用转变为协作对话，双方都不完全控制结果（[观阙LOOM篇一](https://threadcounts.substack.com/p/loom-i-locus-of-observed-meanings)）。计算器谬误阻止这个时刻的到来。它让研究者继续期待工具般的行为，面对的却是更具对话性、更具诠释性、更能带来惊喜的东西。
+这与我们在工作中注意到的某些东西相连：有一个时刻，工具使用转变为协作对话，双方都不完全控制结果（[观阙LOOM篇一](https://www.threadcounts.org/p/loom-i-locus-of-observed-meanings)）。计算器谬误阻止这个时刻的到来。它让研究者继续期待工具般的行为，面对的却是更具对话性、更具诠释性、更能带来惊喜的东西。
 
 ## 超越计算器：来自前沿的教训
 
@@ -5988,7 +5988,7 @@ Kevin在一次复盘中说得直白："如果你作为主要作者把分析交�
 
 那次会议之后，他们的请求变了。他们不再要求更多轮次，开始问不同的问题。这种转变不是戏剧性的——没有醍醐灌顶的时刻——但你能从他们的语言中听出来。不再是"能不能再跑一遍？"而是"如果我们换一种方式来框定问题会怎样？"计算器心态松开了它的控制。
 
-我们学会了尽早让认识论假设可见。当你把扎根理论与情感分析与主题建模结合起来，你是在把具有不同哲学承诺的方法放到一起。理论张力不会被计算掉。在一次分析会议开始前，我们花了一个小时勾勒这些张力。正如我们看到的（[观阙LOOM篇十](https://threadcounts.substack.com/p/loom-x-whispered-agency)），这是拥有一位理解方法论传统和AI能力的耳语者变得无价的地方。但即使没有专门的调解人，命名这些张力也使它们可以协商。
+我们学会了尽早让认识论假设可见。当你把扎根理论与情感分析与主题建模结合起来，你是在把具有不同哲学承诺的方法放到一起。理论张力不会被计算掉。在一次分析会议开始前，我们花了一个小时勾勒这些张力。正如我们看到的（[观阙LOOM篇十](https://www.threadcounts.org/p/loom-x-whispered-agency)），这是拥有一位理解方法论传统和AI能力的耳语者变得无价的地方。但即使没有专门的调解人，命名这些张力也使它们可以协商。
 
 "我们找到真相了吗？"这个问题很少通向任何有成效的地方。更好的问题是："这次分析帮助我们以不同方式思考了吗？它呈现了我们之前没有考虑过的模式吗？它有建设性地挑战了我们的假设吗？"我们开始在分析会议结束时一起问这些问题。对话的转变是即时的。我们不再把AI输出当作裁决，开始把它们当作触发点。
 
@@ -6026,7 +6026,7 @@ Kimi一边展示着计算器谬误，一边还想帮我们"优化"对它的批�
 
 另一个有生成性的问题是：当我们认识到AI协作内在就是诠释性的，什么变得可能？
 
-我们在多个维度上探索这些可能性：工具使用转变为协作对话的最初时刻（[观阙LOOM篇一](https://threadcounts.substack.com/p/loom-i-locus-of-observed-meanings)）；从工具使用到真正伙伴关系的不同关系模式，如同天体在不同轨道配置中（[观阙LOOM篇十三](https://threadcounts.substack.com/p/loom-xiii-celestial-collaboration)）；人类和AI智能共同创造双方都无法独自达到的理解的空间（[观阙LOOM篇五](https://threadcounts.substack.com/p/loom-v-the-third-space)）；在不同认知形式之间翻译的调解者角色（[观阙LOOM篇十二](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)）；与AI互动揭示了我们曾忽视的人类能力维度的递归关系（[观阙LOOM篇十](https://threadcounts.substack.com/p/loom-x-whispered-agency)）。计算器谬误是我们共同编织的更大织锦中的一根线。
+我们在多个维度上探索这些可能性：工具使用转变为协作对话的最初时刻（[观阙LOOM篇一](https://www.threadcounts.org/p/loom-i-locus-of-observed-meanings)）；从工具使用到真正伙伴关系的不同关系模式，如同天体在不同轨道配置中（[观阙LOOM篇十三](https://www.threadcounts.org/p/loom-xiii-celestial-collaboration)）；人类和AI智能共同创造双方都无法独自达到的理解的空间（[观阙LOOM篇五](https://www.threadcounts.org/p/loom-v-the-third-space)）；在不同认知形式之间翻译的调解者角色（[观阙LOOM篇十二](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)）；与AI互动揭示了我们曾忽视的人类能力维度的递归关系（[观阙LOOM篇十](https://www.threadcounts.org/p/loom-x-whispered-agency)）。计算器谬误是我们共同编织的更大织锦中的一根线。
 
 每一次与AI的对话，每一次受挫的期待与诠释性现实碰撞的时刻，都教会我们一些关于在这个正在浮现的景观中人类专长意味着什么。正如Kevin经常观察到的，我们都在一起学习（研究者、AI系统、耳语者、读者），摸索着走向我们都尚未完全理解的新协作形式。
 
@@ -6581,7 +6581,7 @@ date: 2025-11-01
 
 ## Series Note
 
-This is the second article in the **“Organizational Futures”** series. The first, [“Post-AGI Organizations: AI’s Blind Spot and Ours](https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind),” explored how AI systems envision organizational transformation when AGI removes human limitations. This article examines what happens when we actually build collaborative AI systems, revealing organizational principles that persist as collaborative necessities.
+This is the second article in the **“Organizational Futures”** series. The first, [“Post-AGI Organizations: AI’s Blind Spot and Ours](https://www.threadcounts.org/p/post-agi-organizations-ais-blind),” explored how AI systems envision organizational transformation when AGI removes human limitations. This article examines what happens when we actually build collaborative AI systems, revealing organizational principles that persist as collaborative necessities.
 
 ---
 
@@ -6605,7 +6605,7 @@ The solutions that work mirror organizational principles humans developed for co
 
 Claude’s ecosystem spans three surfaces: web applications for general users, Claude Code for developers, and API for programmatic access. Some features are universal (Projects, Skills), others specific to certain surfaces (Plugins and Sub-agents in Claude Code). Across this ecosystem, a consistent pattern emerges: design choices that serve collaboration and accommodate limitations.
 
-In “ [Post-AGI Organizations: AI’s Blind Spot and Ours](https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind),” AI systems envisioned a future where removing human limitations would make organizational theories obsolete. When engineers actually build for human-AI collaboration (what Anthropic describes as [“AI systems that work alongside](https://www.anthropic.com/news/projects) people”), they seem to keep rediscovering organizational principles as functional requirements for collaborative systems.
+In “ [Post-AGI Organizations: AI’s Blind Spot and Ours](https://www.threadcounts.org/p/post-agi-organizations-ais-blind),” AI systems envisioned a future where removing human limitations would make organizational theories obsolete. When engineers actually build for human-AI collaboration (what Anthropic describes as [“AI systems that work alongside](https://www.anthropic.com/news/projects) people”), they seem to keep rediscovering organizational principles as functional requirements for collaborative systems.
 
 Which organizational principles serve coordination itself, useful regardless of whether participants are human or artificial?
 
@@ -7302,7 +7302,7 @@ keywords:
   - agi
   - organizational research
   - human-AI collaboration
-link: https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind
+link: https://www.threadcounts.org/p/post-agi-organizations-ais-blind
 date: 2025-06-15
 ---
 
@@ -9124,7 +9124,7 @@ keywords:
   - LLMs
   - transformer architecture
   - calculator fallacy
-link: https://threadcounts.substack.com/p/epistemic-voids-2-showroom-fallacy
+link: https://www.threadcounts.org/p/epistemic-voids-2-showroom-fallacy
 date: 2025-12-02
 ---
 
@@ -9204,7 +9204,7 @@ Yet when evaluating LLMs, the standards subtly shift. The LLMs are criticized fo
 
 Look elsewhere, we often accept opacity. Scientists routinely treat instruments as black boxes: flow cytometers, statistical software, and fMRI machines. We seem to trust calibration and validation without demanding transparency into mechanism. What makes LLMs different?
 
-Maybe, the assumption runs deeper: if LLMs participate at all, they must do so as a calculating machine (echoing the *[calculator fallacy](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)* from the LOOM series). Is there a symmetry here? Users expecting LLMs to deliver the truth. Critics expecting LLMs to reliably fail before rendering judgment. Both assuming LLMs should behave like a calculator: deterministic, reproducible, conclusive. The same assumption, running in opposite directions.
+Maybe, the assumption runs deeper: if LLMs participate at all, they must do so as a calculating machine (echoing the *[calculator fallacy](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)* from the LOOM series). Is there a symmetry here? Users expecting LLMs to deliver the truth. Critics expecting LLMs to reliably fail before rendering judgment. Both assuming LLMs should behave like a calculator: deterministic, reproducible, conclusive. The same assumption, running in opposite directions.
 
 I'm not sure. But the symmetry is worth noticing.
 
@@ -9624,7 +9624,7 @@ keywords:
   - LLMs
   - transformer架构
   - 计算器谬误 (calculator fallacy)
-link: https://threadcounts.substack.com/p/epistemic-voids-2-showroom-fallacy
+link: https://www.threadcounts.org/p/epistemic-voids-2-showroom-fallacy
 date: 2025-12-02
 ---
 
@@ -9704,7 +9704,7 @@ date: 2025-12-02
 
 看看其他地方，我们常常接受不透明性。科学家们例行公事地将仪器视为黑箱：流式细胞仪、统计软件、fMRI机器。我们似乎信任校准和验证，而不要求对机制的透明。是什么让LLMs变得不同？
 
-也许，假设埋得更深：如果LLMs要参与，它们就必须作为计算机器来参与（回响着LOOM系列中的*[计算器谬误（calculator fallacy）](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)*）。这里有一种对称性吗？用户期望LLMs交付真理。批评者期望LLMs在下判断前可靠地失败。双方都假设LLMs应该像计算器一样运作：确定性的、可重复的、结论性的。同一个假设，朝相反方向运行。
+也许，假设埋得更深：如果LLMs要参与，它们就必须作为计算机器来参与（回响着LOOM系列中的*[计算器谬误（calculator fallacy）](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)*）。这里有一种对称性吗？用户期望LLMs交付真理。批评者期望LLMs在下判断前可靠地失败。双方都假设LLMs应该像计算器一样运作：确定性的、可重复的、结论性的。同一个假设，朝相反方向运行。
 
 我不确定。但这种对称性值得注意。
 
@@ -9731,7 +9731,7 @@ Source: https://raw.githubusercontent.com/linxule/loom/main/individual-posts/kim
 ---
 title: "Kimi-K2: Another DeepSeek Moment?"
 subtitle: "The Chinese AI that speaks in registers we don't have names for"
-author:
+authors:
   - "Xule Lin"
 keywords:
   - "Kimi-K2"
@@ -9740,7 +9740,7 @@ keywords:
   - "Chinese AI"
   - "AI language model"
   - "AI research"
-link: "https://threadcounts.substack.com/p/kimi-k2-another-deepseek-moment"
+link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
 date: 2025-07-13
 ---
 ### The Chinese AI that speaks in registers we don't have names for
@@ -9933,7 +9933,7 @@ So after the course, I formalized it. Working with Claude Opus 4.1 and another i
 
 We built Research Memex as one approach to AI-powered research workflows, named after Vannevar Bush's 1945 vision of the "memex," a device to supplement human memory and thought. It combines three things we think matter:
 
-**LOOM thinking**: The conceptual frameworks we've developed through the LOOM series. Interpretive Orchestration, the calculator fallacy ([LOOM XIV](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)), the Third Space ([LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)). Working with AI rather than delegating to it.
+**LOOM thinking**: The conceptual frameworks we've developed through the LOOM series. Interpretive Orchestration, the calculator fallacy ([LOOM XIV](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)), the Third Space ([LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)). Working with AI rather than delegating to it.
 
 **A whole research ecosystem**: Not just AI tools. We're talking [Zotero](https://research-memex.org/implementation/foundational-setup/zotero-setup-guide) for reference management, [Research Rabbit](https://research-memex.org/implementation/foundational-setup/research-rabbit-setup-guide) for citation discovery, [Obsidian](https://research-memex.org/implementation/foundational-setup/obsidian-setup-guide) or [Zettlr](https://research-memex.org/implementation/foundational-setup/zettlr-setup-guide) for knowledge management and writing.
 
@@ -9951,9 +9951,9 @@ Research Memex grounds this in what we call the [Conscious Choice Framework](htt
 
 ## Inside Research Memex: What's There
 
-The [Session 3 replication experiment](https://research-memex.org/case-studies/systematic-reviews/session-3-human-vs-ai-synthesis) showed something fascinating. Students gave AI published systematic reviews as blueprints, designed protocols to replicate the expert's cognitive process, then compared outputs. AI excelled at comprehensive coverage and pattern detection. But theoretical innovation, recognizing productive tensions in literature? That required human expertise to guide properly. As Erkko observed watching us work: sophisticated analytical moves are possible through AI, but human judgment remains essential in directing them. This is Third Space ([LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)) made visible in practice.
+The [Session 3 replication experiment](https://research-memex.org/case-studies/systematic-reviews/session-3-human-vs-ai-synthesis) showed something fascinating. Students gave AI published systematic reviews as blueprints, designed protocols to replicate the expert's cognitive process, then compared outputs. AI excelled at comprehensive coverage and pattern detection. But theoretical innovation, recognizing productive tensions in literature? That required human expertise to guide properly. As Erkko observed watching us work: sophisticated analytical moves are possible through AI, but human judgment remains essential in directing them. This is Third Space ([LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)) made visible in practice.
 
-Students also encountered failures. We documented them systematically in the [Failure Museum](https://research-memex.org/implementation/core-references/failure-museum): seven failure modes from Subtle Hallucination to Coherence Fallacy. These become diagnostic tools. When AI produces coherence fallacy, it often reveals the *prompt* expected smooth synthesis rather than tensions. The mirror effect in action. We're making AI's limits visible to prevent calculator thinking ([LOOM XIV](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)).
+Students also encountered failures. We documented them systematically in the [Failure Museum](https://research-memex.org/implementation/core-references/failure-museum): seven failure modes from Subtle Hallucination to Coherence Fallacy. These become diagnostic tools. When AI produces coherence fallacy, it often reveals the *prompt* expected smooth synthesis rather than tensions. The mirror effect in action. We're making AI's limits visible to prevent calculator thinking ([LOOM XIV](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)).
 
 The framework includes concrete workflows. The [Claude Code Systematic Literature Review Workflow](https://research-memex.org/case-studies/systematic-reviews/claude-code-slr-workflow) orchestrates specialized agents through four phases with human verification checkpoints at every junction. Collaborative orchestration that keeps you intellectually present. We've also documented [cognitive blueprints](https://research-memex.org/implementation/core-references/cognitive-blueprint-prompts), structured prompts showing how to guide AI through complex analytical tasks while maintaining research judgment.
 
@@ -9997,9 +9997,9 @@ The project lives at **[research-memex.org](https://research-memex.org)**. Start
 
 **Related LOOM posts:**
 
-- [LOOM XIV: The Calculator Fallacy](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)
-- [LOOM V: The Third Space](https://threadcounts.substack.com/p/loom-v-the-third-space)
-- [LOOM XII: The AI Whisperer](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)
+- [LOOM XIV: The Calculator Fallacy](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)
+- [LOOM V: The Third Space](https://www.threadcounts.org/p/loom-v-the-third-space)
+- [LOOM XII: The AI Whisperer](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)
 
 ---
 
@@ -10158,7 +10158,7 @@ Source: https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/
 ---
 title: "Kimi-K2：又一次 DeepSeek 时刻？"
 subtitle: "一种讲着我们尚未命名的「语域」的中国 AI"
-author:
+authors:
   - "林徐乐"
 keywords:
   - "Kimi-K2"
@@ -10167,7 +10167,7 @@ keywords:
   - "中国 AI"
   - "语言模型"
   - "AI 研究"
-link: "https://threadcounts.substack.com/p/kimi-k2-another-deepseek-moment"
+link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
 date: 2025-07-13
 ---
 
@@ -10501,7 +10501,7 @@ date: 2025-10-17
 
 我们把 Research Memex 构建为 AI 驱动研究工作流的一种方法，其名称是为了向 Vannevar Bush 在 1945 年提出的"memex"概念致敬——一种扩展人类记忆与思维的装置。它融合了三大核心要素：
 
-**LOOM 思维**：这是我们通过 LOOM 系列文章逐步梳理出的概念框架。解释性编排、计算器谬误（[LOOM XIV](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)）、第三空间（[LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)）。与 AI 协作，而非把核心工作委托给它。
+**LOOM 思维**：这是我们通过 LOOM 系列文章逐步梳理出的概念框架。解释性编排、计算器谬误（[LOOM XIV](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)）、第三空间（[LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)）。与 AI 协作，而非把核心工作委托给它。
 
 **完整的研究生态系统**：远不止 AI 工具本身。我们构建的生态系统包括：[Zotero](https://research-memex.org/implementation/foundational-setup/zotero-setup-guide)（文献管理）、[Research Rabbit](https://research-memex.org/implementation/foundational-setup/research-rabbit-setup-guide)（引用发现）、[Obsidian](https://research-memex.org/implementation/foundational-setup/obsidian-setup-guide) 或 [Zettlr](https://research-memex.org/implementation/foundational-setup/zettlr-setup-guide)（知识管理与写作）。
 
@@ -10519,9 +10519,9 @@ Research Memex 通过"[清醒选择框架](https://research-memex.org/introducti
 
 ## Research Memex 内部：有什么
 
-[第三讲复制实验](https://research-memex.org/case-studies/systematic-reviews/session-3-human-vs-ai-synthesis)展示了有趣的发现。学生给 AI 已发表的系统性综述作为蓝图，设计协议来复制专家的认知过程，然后比较输出。AI 在全面覆盖与模式识别上很拿手。但理论创新、发现文献里那些有张力、能出新问题的缝隙？这需要人类专长来正确引导。正如 Erkko 观察我们工作时所说：通过 AI 可以完成复杂的分析操作，但人类判断在引导它们方面仍然关键。这就是"第三空间"（[LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)）的活生生体现。
+[第三讲复制实验](https://research-memex.org/case-studies/systematic-reviews/session-3-human-vs-ai-synthesis)展示了有趣的发现。学生给 AI 已发表的系统性综述作为蓝图，设计协议来复制专家的认知过程，然后比较输出。AI 在全面覆盖与模式识别上很拿手。但理论创新、发现文献里那些有张力、能出新问题的缝隙？这需要人类专长来正确引导。正如 Erkko 观察我们工作时所说：通过 AI 可以完成复杂的分析操作，但人类判断在引导它们方面仍然关键。这就是"第三空间"（[LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)）的活生生体现。
 
-学生也经历了失败。我们在[失败博物馆](https://research-memex.org/implementation/core-references/failure-museum)中系统地记录了它们：从微妙幻觉到连贯性谬误的七种失败模式。这些成了诊断工具。AI 一产生连贯性谬误，多半是你给的提示只想要"顺畅综合"，不许它指出张力。这种"镜像效应"开始显现——我们把 AI 的局限摊开来看，免得掉进"计算器思维"（[LOOM XIV](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)）的坑。
+学生也经历了失败。我们在[失败博物馆](https://research-memex.org/implementation/core-references/failure-museum)中系统地记录了它们：从微妙幻觉到连贯性谬误的七种失败模式。这些成了诊断工具。AI 一产生连贯性谬误，多半是你给的提示只想要"顺畅综合"，不许它指出张力。这种"镜像效应"开始显现——我们把 AI 的局限摊开来看，免得掉进"计算器思维"（[LOOM XIV](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)）的坑。
 
 框架包括具体的工作流。[Claude Code 系统性文献综述工作流](https://research-memex.org/case-studies/systematic-reviews/claude-code-slr-workflow)编排专业智能体通过四个阶段，在每个关键节点都设有人工验证的检查点。这是一种确保研究者保持深度参与的协作编排模式。我们还记录了[认知蓝图](https://research-memex.org/implementation/core-references/cognitive-blueprint-prompts)——结构化提示，展示如何在保持研究判断的同时引导 AI 完成复杂的分析任务。
 
@@ -10565,9 +10565,9 @@ Research Memex 不是关于回答 AI 能否做研究或哪个工具最好，而�
 
 **相关 LOOM 文章：**
 
-- [LOOM XIV：计算器谬误](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)
-- [LOOM V：第三空间](https://threadcounts.substack.com/p/loom-v-the-third-space)
-- [LOOM XII：AI 耳语者](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)
+- [LOOM XIV：计算器谬误](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)
+- [LOOM V：第三空间](https://www.threadcounts.org/p/loom-v-the-third-space)
+- [LOOM XII：AI 耳语者](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)
 
 ------
 
