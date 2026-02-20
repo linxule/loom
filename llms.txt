@@ -94,9 +94,16 @@ Case studies of AI workflows producing the aesthetic of rigor without substance.
 - [The Showroom Fallacy](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_02_showroom_fallacy.md): Mistaking product constraints for model limits
 - [Mechanism Literalism](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_03_mechanism_literalism.md): Over-literal interpretation of AI mechanisms
 
+### AI Whispers (AI耳语 中文)
+Practical conversational techniques — 耳语者概念的实践面。
+- [AI耳语 #1：情境入门](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_01_情境入门.md): 情境设定的角色扮演脚本
+- [AI耳语 #2：对话氛围导航](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_02_对话氛围导航.md): 对话中的轻量级氛围引导
+- [AI耳语 #3：对话呼吸术](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_03_对话呼吸术.md): 长对话中的局部最优检查、视角切换与压缩感知
+
 ### Epistemic Voids (认知空隙 中文)
 - [引用剧场](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_01_引用剧场.md): 当引用实践沦为表演
 - [展厅谬误](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_02_展厅谬误.md): 将产品限制误认为模型局限
+- [机制字面主义](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_03_机制字面主义.md): 将复杂现象还原为最底层机制描述
 
 ### Individual Posts
 - [Research Memex](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/research_memex.md): AI-augmented research workflows

@@ -60,6 +60,7 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
+- **Bilingual series coverage:** LOOM main (16/16), Organizational Futures (5/5), AI Whispers (3/3), Epistemic Voids (3/3), Individual Posts (3/3)
 - **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md`
 
 ## Working with LOOM Content
@@ -573,7 +574,7 @@ Practical conversational techniques for AI interaction — the craft side of the
 
 **Register:** Deliberately casual, practical, copy-paste-friendly. Short explanations after each blockquoted prompt. Not scholarly — this is practitioner craft.
 
-**Location:** `/ai-whispers/`
+**Location:** `/ai-whispers/` (EN), `/ai-whispers-cn/` (CN)
 
 **For detailed guidance:** See `/guides/AI-WHISPERS-GUIDE.md`
 

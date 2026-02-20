@@ -95,6 +95,7 @@ The articles are stored in the following directory structure:
 
 **Other Series (中文):**
 - `organizational-futures-cn/` - 组织未来系列中文版
+- `ai-whispers-cn/` - AI耳语系列中文版
 - `epistemic-voids-cn/` - 认知空隙系列中文版
 - `individual-posts-cn/` - 独立文章中文版
 
