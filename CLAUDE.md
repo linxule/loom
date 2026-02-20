@@ -465,6 +465,9 @@ Lin, Xule, Kevin Corley, and [AI Collaborator]. [Year]. "Title." LOOM: Locus of 
 - File naming: `loom_post_##_Title_With_Underscores.md`
 - Git workflow: standard commits, no special hooks
 - Primary publication domain: `threadcounts.org` (not threadcounts.substack.com)
+- All internal cross-references should use `www.threadcounts.org/p/slug` — never `threadcounts.substack.com` or `open.substack.com`
+- `guides/` and `drafts/` directories are gitignored (local working files only)
+- XHS social media drafts live in `drafts/xhs-posts/` (gitignored)
 
 ## AI Accessibility Files (Maintenance Required)
 
@@ -486,6 +489,8 @@ Explicitly welcomes AI crawlers (GPTBot, ClaudeBot, PerplexityBot, etc.). No upd
 - After adding any new LOOM post (English or Chinese)
 - After adding posts to other series (Organizational Futures, Epistemic Voids, Individual Posts)
 - After significant structural changes to the repository
+- **Common gap:** Chinese translations often lag behind English posts. After each translation session, check that `llms.txt` includes Chinese entries for all translated posts.
+- After updates, also check that `README.md` post counts are still accurate
 
 ## Key Concepts Across LOOM Series
 
@@ -569,6 +574,8 @@ Practical conversational techniques for AI interaction — the craft side of the
 **Register:** Deliberately casual, practical, copy-paste-friendly. Short explanations after each blockquoted prompt. Not scholarly — this is practitioner craft.
 
 **Location:** `/ai-whispers/`
+
+**For detailed guidance:** See `/guides/AI-WHISPERS-GUIDE.md`
 
 ### Epistemic Voids Series
 
