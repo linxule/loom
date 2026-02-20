@@ -3110,10 +3110,10 @@ Our AI collaborator for this post is Claude Opus 4.5. This post itself demonstra
 
 
 ---
-Source: https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_17_Are_You_Climbing_the_Right_Hill.md
+Source: https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_16_Are_You_Climbing_the_Right_Hill.md
 
 ---
-title: "LOOM XVII: Are You Climbing the Right Hill?"
+title: "LOOM XVI: Are You Climbing the Right Hill?"
 subtitle: "When Rigor Becomes the Wrong Kind of More"
 authors:
   - "Xule Lin"
@@ -3129,11 +3129,11 @@ keywords:
   - human-AI collaboration
   - research methodology
   - epistemic responsibility
-link: https://www.threadcounts.org/p/loom-xvii-are-you-climbing-the-right
+link: https://www.threadcounts.org/p/loom-xvi-are-you-climbing-the-right
 date: 2026-02-20
 ---
 
-# LOOM XVII: Are You Climbing the Right Hill?
+# LOOM XVI: Are You Climbing the Right Hill?
 
 *Xule:*
 
@@ -3207,7 +3207,7 @@ If something is nagging you right now, pay attention. A design that keeps growin
 
 ---
 
-*This is the seventeenth entry in [LOOM](https://www.threadcounts.org/t/loom), a series exploring how human researchers and AI systems create understanding together. If something here resonated, we'd like to hear about it.*
+*This is the sixteenth entry in [LOOM](https://www.threadcounts.org/t/loom), a series exploring how human researchers and AI systems create understanding together. If something here resonated, we'd like to hear about it.*
 
 ---
 
@@ -3227,7 +3227,7 @@ Our AI collaborators for this post are two instances of Claude Opus 4.6: one via
 
 ---
 
-![Cover image: The fissure — doubt cracking through certainty](images/loom_post_17_cover.png)
+![Cover image: The fissure — doubt cracking through certainty](images/loom_post_16_cover.png)
 
 
 ## Chinese Articles (观阙LOOM Series)
