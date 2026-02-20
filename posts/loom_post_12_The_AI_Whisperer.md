@@ -14,7 +14,7 @@ keywords:
   - knowledge mediation
   - collaborative research
   - AI integration
-link: https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer
+link: https://www.threadcounts.org/p/loom-xii-the-ai-whisperer
 date: 2025-05-15    
 ---
 

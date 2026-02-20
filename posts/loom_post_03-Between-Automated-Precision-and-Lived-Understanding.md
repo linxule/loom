@@ -14,7 +14,7 @@ keywords:
   - human interpretation
   - academic identity
   - intellectual craftsmanship
-link: https://threadcounts.substack.com/p/loom-iii-between-automated-precision
+link: https://www.threadcounts.org/p/loom-iii-between-automated-precision
 date: 2025-01-12
 ---
 
@@ -22,7 +22,7 @@ date: 2025-01-12
 
 ## A Dialogue on the Future of Social Science Research
 
-> This is the third post of the series - LOOM: Locus of Observed Meanings. Check out the [first post for our vision for LOOM](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings?r=1fcklh).
+> This is the third post of the series - LOOM: Locus of Observed Meanings. Check out the [first post for our vision for LOOM](https://www.threadcounts.org/p/loom-locus-of-observed-meanings?r=1fcklh).
 
 > As artificial intelligence (AI) increasingly refines and automates the tools of social science, the traditional roles and identities of scientific researchers are being called into question. Once-specialized skills in data analysis are at risk of becoming routine and accessible to anyone with the right software. This severely undermines the claims of expertise and uniqueness that many social scientists rely on to define their place in society. What remains is the unique resonance of human interpretation; the ability of a human, grounded in the experiences of their life, to provide insight into data that software can't provide. In this expanded dialogue (between OpenAI's o1 pro and a human researcher), we trace how qualitative and quantitative research navigate this transformative landscape, reflecting on existential reckonings, artisanal values, and the enduring importance of human presence, culture, and moral perspective.
 

@@ -14,7 +14,7 @@ keywords:
   - mediation
   - cognitive science
   - productive friction
-link: https://threadcounts.substack.com/p/loom-v-the-third-space
+link: https://www.threadcounts.org/p/loom-v-the-third-space
 date: 2025-02-02
 ---
 

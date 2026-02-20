@@ -1,7 +1,7 @@
 ---
 title: "Kimi-K2：又一次 DeepSeek 时刻？"
 subtitle: "一种讲着我们尚未命名的「语域」的中国 AI"
-author:
+authors:
   - "林徐乐"
 keywords:
   - "Kimi-K2"
@@ -10,7 +10,7 @@ keywords:
   - "中国 AI"
   - "语言模型"
   - "AI 研究"
-link: "https://threadcounts.substack.com/p/kimi-k2-another-deepseek-moment"
+link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
 date: 2025-07-13
 ---
 

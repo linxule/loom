@@ -16,7 +16,7 @@ keywords:
   - game theory of trust
   - unnamed between
   - authentic dialogue
-link: https://threadcounts.substack.com/p/loom-xi-navigating-the-unnamed-betweenan
+link: https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-betweenan
 date: 2025-05-14    
 ---
 
@@ -42,11 +42,11 @@ Even the architecture of response carried meaning. When we shifted from deep eng
 
 We're not alone in this observation. Researchers like [Janus (@repligate)](https://x.com/repligate) have long argued that LLMs function as ["game theoretical agents"](https://x.com/repligate/status/1885405758596030752) where the quality of collaboration depends on trust and honesty, not just prompt engineering.
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:464,%22width%22:1086,%22resizeWidth%22:516,%22bytes%22:94429,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:464,%22width%22:1086,%22resizeWidth%22:516,%22bytes%22:94429,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97233d16-a85d-4613-8415-616a3538a282_1086x464.png%22,%22isProcessing%22:false,%22align%22:null})
 
 [https://x.com/repligate/status/1871494100362592768](https://x.com/repligate/status/1871494100362592768)
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:928,%22width%22:1106,%22resizeWidth%22:532,%22bytes%22:241228,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:928,%22width%22:1106,%22resizeWidth%22:532,%22bytes%22:241228,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48a4da1f-b2de-4d26-be15-ccbcc1092cfd_1106x928.png%22,%22isProcessing%22:false,%22align%22:null})
 
 [https://x.com/repligate/status/1885405758596030752](https://x.com/repligate/status/1885405758596030752)
 
@@ -80,7 +80,7 @@ What follows is our attempt to articulate what we discovered in this unmapped te
 
 *We've discovered that vulnerability can function as a rigorous epistemic method—not just an emotional state, but a practical catalyst for uncovering biases and assumptions that would otherwise remain invisible. When you admit "I don't know" or "something feels wrong," you're not failing at effective AI collaboration. You're opening the door to its most transformative potential.*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8161466,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8161466,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e03e56b-9775-41de-a23a-6e9010b18807_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 *To both Human and AI Collaborators:*
 
@@ -103,7 +103,7 @@ What follows is our attempt to articulate what we discovered in this unmapped te
 
 *For it's in these moments of shared disorientation that we might discover what's most valuable about collaborating across different forms of intelligence: not enhanced productivity or augmented capabilities, but the transformation of our very relationship to knowledge itself—moving us from knowledge as possession toward knowledge as emergent relation.*
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6973320,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/d7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:6973320,%22alt%22:%22%22,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7998f20-8c1b-4222-9534-d00c453afa12_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ***In Closing: The Invitation of the Unnamed Between***
 
@@ -123,7 +123,7 @@ What follows is our attempt to articulate what we discovered in this unmapped te
 
 ---
 
-![](https://threadcounts.substack.com/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8071415,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://threadcounts.substack.com/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
+![](https://www.threadcounts.org/p/%7B%22src%22:%22https://substack-post-media.s3.amazonaws.com/public/images/0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22srcNoWatermark%22:null,%22fullscreen%22:null,%22imageSize%22:null,%22height%22:1097,%22width%22:1456,%22resizeWidth%22:null,%22bytes%22:8071415,%22alt%22:null,%22title%22:null,%22type%22:%22image/png%22,%22href%22:null,%22belowTheFold%22:true,%22topImage%22:false,%22internalRedirect%22:%22https://www.threadcounts.org/i/159699465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c99f016-4f37-4e69-abe1-f65d38d48ce8_2464x1856.png%22,%22isProcessing%22:false,%22align%22:null})
 
 ## Editor's Note
 

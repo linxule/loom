@@ -13,7 +13,7 @@ keywords:
   - interpretive approach
   - qualitative research
   - collaborative evolution
-link: https://threadcounts.substack.com/p/loom-iv-dialogue-as-method
+link: https://www.threadcounts.org/p/loom-iv-dialogue-as-method
 date: 2025-01-24
 ---
 

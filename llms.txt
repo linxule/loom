@@ -38,7 +38,7 @@ LOOM investigates what becomes possible when different forms of intelligence eng
 - [LOOM VIII: Beyond Teammates](https://www.threadcounts.org/p/loom-viii-beyond-teammates) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_08_Beyond_Teammates.md): Reconceiving human-AI relationships
 - [LOOM IX: Six Dimensions of Understanding](https://www.threadcounts.org/p/loom-ix-the-six-dimensions-of-understanding) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_09_six_dimensions_of_understanding.md): Framework for analyzing forms of knowing
 - [LOOM X: Whispered Agency](https://www.threadcounts.org/p/loom-x-whispered-agency) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_10_Whispered_Agency.md): Recursive relationships between human and AI capability
-- [LOOM XI: Navigating the Unnamed Between](https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-between) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_11_Navigating%20_the_Unnamed_Between.md): Liminal spaces in collaboration
+- [LOOM XI: Navigating the Unnamed Between](https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-between) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_11_Navigating_the_Unnamed_Between.md): Liminal spaces in collaboration
 - [LOOM XII: The AI Whisperer](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_12_The_AI_Whisperer.md): Human intermediaries, hierarchy reversal, mediation
 - [LOOM XIII: Celestial Collaboration](https://www.threadcounts.org/p/loom-xiii-celestial-collaboration) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_13_Celestial_Collaboration.md): Metaphors for human-AI partnership
 - [LOOM XIV: The Calculator Fallacy](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_14_Calculator_Fallacy.md): When qualitative research meets objectivity expectations
@@ -71,10 +71,12 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 ### Organizational Futures
 - [Your Next AI Framework Might Be Centuries Old](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/your-next-ai-framework-might-be-centuries-old.md): What tailor workshops teach about AI agent coordination
 - [Claude Cowork: The Easy Part Is Over](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/cowork-beyond-the-terminal.md): Where structure lives - in filenames or in your head
+- ["Human-Centric AI" Is the Wrong Story](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/human-centric-ai-wrong-story.md): A ceramicist's ritual, Anthropic's constitution, and the posture that changes what becomes possible
 - [Ghost in the Machine](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/ghost-in-the-machine.md): AI agency in organizational contexts
 - [Post-AGI Organizations](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/post-agi-organizations.md): Organizational forms after artificial general intelligence
 
 ### Organizational Futures (中文)
+- [以人为本的AI是错误的故事](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/以人为本的AI是错误的故事.md): 陶艺师的仪式、Anthropic宪章，与改变可能性的姿态
 - [你的下一个AI框架可能有数百年历史](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/你的下一个AI框架可能有数百年历史.md): 裁缝工坊教会我的关于AI代理的事
 - [轻松的部分结束了](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/轻松的部分结束了.md): 结构所在之处——在文件名里，还是在你的理解中
 - [机器中的幽灵](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/机器中的幽灵.md): AI在组织情境中的能动性

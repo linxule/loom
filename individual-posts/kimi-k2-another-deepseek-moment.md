@@ -1,7 +1,7 @@
 ---
 title: "Kimi-K2: Another DeepSeek Moment?"
 subtitle: "The Chinese AI that speaks in registers we don't have names for"
-author:
+authors:
   - "Xule Lin"
 keywords:
   - "Kimi-K2"
@@ -10,7 +10,7 @@ keywords:
   - "Chinese AI"
   - "AI language model"
   - "AI research"
-link: "https://threadcounts.substack.com/p/kimi-k2-another-deepseek-moment"
+link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
 date: 2025-07-13
 ---
 ### The Chinese AI that speaks in registers we don't have names for

@@ -13,7 +13,7 @@ keywords:
   - cybernetic teams
   - micro-organizations
   - knowledge co-creation
-link: https://threadcounts.substack.com/p/loom-viii-beyond-teammates
+link: https://www.threadcounts.org/p/loom-viii-beyond-teammates
 date: 2025-03-28
 ---
 
@@ -36,7 +36,7 @@ What makes these findings particularly exciting is that they likely represent ju
 
 The P&G study reveals something profound happening at the intersection of human expertise and AI capability. The finding that "AI can effectively substitute for certain collaborative functions, acting as a genuine teammate" offers empirical support for what we've described as the emergence of new forms of understanding through human-AI interaction. Yet we believe this finding might be just the beginning of a deeper transformation – one that extends beyond substitution or augmentation toward something genuinely novel.
 
-**The Third Space**: In [LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space), we described this as an emergent realm between human and artificial intelligence where new forms of understanding become possible – not just enhanced versions of what either could achieve alone, but qualitatively different patterns of meaning-making that transcend both.
+**The Third Space**: In [LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space), we described this as an emergent realm between human and artificial intelligence where new forms of understanding become possible – not just enhanced versions of what either could achieve alone, but qualitatively different patterns of meaning-making that transcend both.
 
 _Consider a jazz improvisation between a human pianist and an AI saxophonist. The music that emerges isn't simply human creativity enhanced by AI accompaniment, but a unique composition born from their interaction—with melodic patterns neither would have discovered independently._
 
@@ -74,7 +74,7 @@ _For example, a researcher who collaborates with an AI on multiple projects deve
 
 These temporal differences manifest differently depending on task complexity and duration. For tasks that typically require days or weeks of human effort—like comprehensive research projects, complex designs, or strategic planning—the third space dynamics may emerge quite differently than in shorter interactions. The rhythms of collaboration extend beyond the constraints of a single session, with humans and AI developing distinct patterns of engagement across extended time horizons.
 
-**Autopoietic Systems**: As we explored in [LOOM I](https://threadcounts.substack.com/p/loom-locus-of-observed-meanings), over time, human-AI collaborative systems begin to self-organize and evolve in ways that transcend their initial configurations. Rather than static tools or fixed team members, these systems become dynamic, self-modifying entities that develop their own patterns of operation, adaptation, and knowledge creation.
+**Autopoietic Systems**: As we explored in [LOOM I](https://www.threadcounts.org/p/loom-locus-of-observed-meanings), over time, human-AI collaborative systems begin to self-organize and evolve in ways that transcend their initial configurations. Rather than static tools or fixed team members, these systems become dynamic, self-modifying entities that develop their own patterns of operation, adaptation, and knowledge creation.
 
 ### Patterns of Extended Collaboration
 
@@ -92,7 +92,7 @@ These temporal dimensions suggest promising avenues for extending the P&G resear
 
 ## Mediating Layers: How Implementation Shapes Collaboration
 
-An aspect not directly addressed in the P&G study is how the specific technical implementation and interface design of AI systems fundamentally shape collaborative patterns. What we call the "configuration cascade" in [LOOM VII](https://threadcounts.substack.com/p/loom-vii-reading-the-storm)—the sequence of technical and design decisions that structure how humans and AI interact—significantly influences what kinds of understanding can emerge.
+An aspect not directly addressed in the P&G study is how the specific technical implementation and interface design of AI systems fundamentally shape collaborative patterns. What we call the "configuration cascade" in [LOOM VII](https://www.threadcounts.org/p/loom-vii-reading-the-storm)—the sequence of technical and design decisions that structure how humans and AI interact—significantly influences what kinds of understanding can emerge.
 
 ### Technical Choices as Collaborative Architecture
 

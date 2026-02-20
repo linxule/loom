@@ -17,7 +17,7 @@ date: 2025-11-01
 
 ## Series Note
 
-This is the second article in the **“Organizational Futures”** series. The first, [“Post-AGI Organizations: AI’s Blind Spot and Ours](https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind),” explored how AI systems envision organizational transformation when AGI removes human limitations. This article examines what happens when we actually build collaborative AI systems, revealing organizational principles that persist as collaborative necessities.
+This is the second article in the **“Organizational Futures”** series. The first, [“Post-AGI Organizations: AI’s Blind Spot and Ours](https://www.threadcounts.org/p/post-agi-organizations-ais-blind),” explored how AI systems envision organizational transformation when AGI removes human limitations. This article examines what happens when we actually build collaborative AI systems, revealing organizational principles that persist as collaborative necessities.
 
 ---
 
@@ -41,7 +41,7 @@ The solutions that work mirror organizational principles humans developed for co
 
 Claude’s ecosystem spans three surfaces: web applications for general users, Claude Code for developers, and API for programmatic access. Some features are universal (Projects, Skills), others specific to certain surfaces (Plugins and Sub-agents in Claude Code). Across this ecosystem, a consistent pattern emerges: design choices that serve collaboration and accommodate limitations.
 
-In “ [Post-AGI Organizations: AI’s Blind Spot and Ours](https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind),” AI systems envisioned a future where removing human limitations would make organizational theories obsolete. When engineers actually build for human-AI collaboration (what Anthropic describes as [“AI systems that work alongside](https://www.anthropic.com/news/projects) people”), they seem to keep rediscovering organizational principles as functional requirements for collaborative systems.
+In “ [Post-AGI Organizations: AI’s Blind Spot and Ours](https://www.threadcounts.org/p/post-agi-organizations-ais-blind),” AI systems envisioned a future where removing human limitations would make organizational theories obsolete. When engineers actually build for human-AI collaboration (what Anthropic describes as [“AI systems that work alongside](https://www.anthropic.com/news/projects) people”), they seem to keep rediscovering organizational principles as functional requirements for collaborative systems.
 
 Which organizational principles serve coordination itself, useful regardless of whether participants are human or artificial?
 

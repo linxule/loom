@@ -577,6 +577,7 @@ Case studies examining gaps between evidence and conclusion in how we think abou
 **Posts so far:**
 - **Citation Theater** — Viral AI research workflow, the inversion where AI generates claims then searches for evidence
 - **Showroom Fallacy** — Mistaking product constraints for model limits
+- **Mechanism Literalism** — Why "just next-token prediction" is the new "just price signals"
 
 **Key move:** Find an artifact (diagram, tweet, paper). Do close reading. Let the gap become visible. End with the question that doesn't get asked.
 

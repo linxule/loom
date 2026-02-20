@@ -38,7 +38,7 @@ So after the course, I formalized it. Working with Claude Opus 4.1 and another i
 
 We built Research Memex as one approach to AI-powered research workflows, named after Vannevar Bush's 1945 vision of the "memex," a device to supplement human memory and thought. It combines three things we think matter:
 
-**LOOM thinking**: The conceptual frameworks we've developed through the LOOM series. Interpretive Orchestration, the calculator fallacy ([LOOM XIV](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)), the Third Space ([LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)). Working with AI rather than delegating to it.
+**LOOM thinking**: The conceptual frameworks we've developed through the LOOM series. Interpretive Orchestration, the calculator fallacy ([LOOM XIV](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)), the Third Space ([LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)). Working with AI rather than delegating to it.
 
 **A whole research ecosystem**: Not just AI tools. We're talking [Zotero](https://research-memex.org/implementation/foundational-setup/zotero-setup-guide) for reference management, [Research Rabbit](https://research-memex.org/implementation/foundational-setup/research-rabbit-setup-guide) for citation discovery, [Obsidian](https://research-memex.org/implementation/foundational-setup/obsidian-setup-guide) or [Zettlr](https://research-memex.org/implementation/foundational-setup/zettlr-setup-guide) for knowledge management and writing.
 
@@ -56,9 +56,9 @@ Research Memex grounds this in what we call the [Conscious Choice Framework](htt
 
 ## Inside Research Memex: What's There
 
-The [Session 3 replication experiment](https://research-memex.org/case-studies/systematic-reviews/session-3-human-vs-ai-synthesis) showed something fascinating. Students gave AI published systematic reviews as blueprints, designed protocols to replicate the expert's cognitive process, then compared outputs. AI excelled at comprehensive coverage and pattern detection. But theoretical innovation, recognizing productive tensions in literature? That required human expertise to guide properly. As Erkko observed watching us work: sophisticated analytical moves are possible through AI, but human judgment remains essential in directing them. This is Third Space ([LOOM V](https://threadcounts.substack.com/p/loom-v-the-third-space)) made visible in practice.
+The [Session 3 replication experiment](https://research-memex.org/case-studies/systematic-reviews/session-3-human-vs-ai-synthesis) showed something fascinating. Students gave AI published systematic reviews as blueprints, designed protocols to replicate the expert's cognitive process, then compared outputs. AI excelled at comprehensive coverage and pattern detection. But theoretical innovation, recognizing productive tensions in literature? That required human expertise to guide properly. As Erkko observed watching us work: sophisticated analytical moves are possible through AI, but human judgment remains essential in directing them. This is Third Space ([LOOM V](https://www.threadcounts.org/p/loom-v-the-third-space)) made visible in practice.
 
-Students also encountered failures. We documented them systematically in the [Failure Museum](https://research-memex.org/implementation/core-references/failure-museum): seven failure modes from Subtle Hallucination to Coherence Fallacy. These become diagnostic tools. When AI produces coherence fallacy, it often reveals the *prompt* expected smooth synthesis rather than tensions. The mirror effect in action. We're making AI's limits visible to prevent calculator thinking ([LOOM XIV](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)).
+Students also encountered failures. We documented them systematically in the [Failure Museum](https://research-memex.org/implementation/core-references/failure-museum): seven failure modes from Subtle Hallucination to Coherence Fallacy. These become diagnostic tools. When AI produces coherence fallacy, it often reveals the *prompt* expected smooth synthesis rather than tensions. The mirror effect in action. We're making AI's limits visible to prevent calculator thinking ([LOOM XIV](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)).
 
 The framework includes concrete workflows. The [Claude Code Systematic Literature Review Workflow](https://research-memex.org/case-studies/systematic-reviews/claude-code-slr-workflow) orchestrates specialized agents through four phases with human verification checkpoints at every junction. Collaborative orchestration that keeps you intellectually present. We've also documented [cognitive blueprints](https://research-memex.org/implementation/core-references/cognitive-blueprint-prompts), structured prompts showing how to guide AI through complex analytical tasks while maintaining research judgment.
 
@@ -102,9 +102,9 @@ The project lives at **[research-memex.org](https://research-memex.org)**. Start
 
 **Related LOOM posts:**
 
-- [LOOM XIV: The Calculator Fallacy](https://threadcounts.substack.com/p/loom-xiv-the-calculator-fallacy)
-- [LOOM V: The Third Space](https://threadcounts.substack.com/p/loom-v-the-third-space)
-- [LOOM XII: The AI Whisperer](https://threadcounts.substack.com/p/loom-xii-the-ai-whisperer)
+- [LOOM XIV: The Calculator Fallacy](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy)
+- [LOOM V: The Third Space](https://www.threadcounts.org/p/loom-v-the-third-space)
+- [LOOM XII: The AI Whisperer](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer)
 
 ---
 

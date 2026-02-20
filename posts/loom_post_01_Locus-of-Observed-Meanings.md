@@ -14,7 +14,7 @@ keywords:
   - meaning-making
   - interpretation
   - subjectivism
-link: https://threadcounts.substack.com/p/loom-locus-of-observed-meanings
+link: https://www.threadcounts.org/p/loom-locus-of-observed-meanings
 date: 2024-12-23
 ---
 

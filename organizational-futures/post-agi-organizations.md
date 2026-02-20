@@ -12,7 +12,7 @@ keywords:
   - agi
   - organizational research
   - human-AI collaboration
-link: https://open.substack.com/pub/threadcounts/p/post-agi-organizations-ais-blind
+link: https://www.threadcounts.org/p/post-agi-organizations-ais-blind
 date: 2025-06-15
 ---
 
