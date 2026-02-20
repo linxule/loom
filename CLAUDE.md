@@ -530,8 +530,20 @@ Understanding these helps maintain conceptual coherence and enables rich cross-r
 - Blocks the moment of shift (LOOM I)
 - Related to professional identity threat and expertise reconception
 
+**LOOM XV: Theorizing by Building**
+- Partnership agency: open source as theorizing, not just distributing
+- The theorist-craftsperson: building artifacts as a form of intellectual contribution
+- Making yourself unnecessary as a feature, not a bug
+
+**LOOM XVI: Are You Climbing the Right Hill?**
+- Local maxima in research design: optimizing within the wrong frame
+- Performing rigor: methodological stages that anticipate critique but don't serve the research question
+- "I brought a task when I should have brought a doubt"
+- Connected to calculator fallacy (XIV): both involve mistaking defensibility for insight
+- The breather concept (AI Whispers #3) as practical tool for detecting local maxima
+
 **How concepts interconnect:**
-The calculator fallacy (XIV) prevents the moment of shift (I) into collaborative dialogue (IV), blocking entry to the Third Space (V) where interpretive multiplicity (IX) could emerge. This creates need for Whisperers (XII) who mediate expectations while navigating Whispered Agency (X)—the recursive relationship between human and AI capability.
+The calculator fallacy (XIV) prevents the moment of shift (I) into collaborative dialogue (IV), blocking entry to the Third Space (V) where interpretive multiplicity (IX) could emerge. This creates need for Whisperers (XII) who mediate expectations while navigating Whispered Agency (X)—the recursive relationship between human and AI capability. Performing rigor (XVI) is what the calculator fallacy looks like in research design—optimizing locally while the frame itself goes unquestioned. Theorizing by building (XV) offers an alternative stance: making the work open, making yourself unnecessary, treating artifacts as theory.
 
 ### Organizational Futures Series
 
