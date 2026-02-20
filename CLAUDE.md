@@ -58,8 +58,9 @@ The repository contains multiple series, each with different register and purpos
 
 - Chinese edition is "观阙LOOM" (Guan Que LOOM - "watchtower of observation")
 - Not direct translations but cultural adaptations
-- Chinese translations created with AI assistance (DeepSeek R1, Claude, ChatGPT/o1) then culturally adapted by humans
+- Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
+- **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md`
 
 ## Working with LOOM Content
 
