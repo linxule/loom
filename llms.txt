@@ -24,6 +24,7 @@ LOOM investigates what becomes possible when different forms of intelligence eng
 - **The calculator fallacy** (LOOM XIV): Expecting objective answers to interpretive questions
 - **Productive friction**: Tensions between different intelligences are where meaning crystallizes
 - **The AI Whisperer** (LOOM XII): Human intermediaries translating between AI and researcher expectations
+- **Performing rigor** (LOOM XVII): Designing for reviewers rather than the research question — local maxima in research design
 
 ## English Articles
 
@@ -41,6 +42,8 @@ LOOM investigates what becomes possible when different forms of intelligence eng
 - [LOOM XII: The AI Whisperer](https://www.threadcounts.org/p/loom-xii-the-ai-whisperer) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_12_The_AI_Whisperer.md): Human intermediaries, hierarchy reversal, mediation
 - [LOOM XIII: Celestial Collaboration](https://www.threadcounts.org/p/loom-xiii-celestial-collaboration) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_13_Celestial_Collaboration.md): Metaphors for human-AI partnership
 - [LOOM XIV: The Calculator Fallacy](https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_14_Calculator_Fallacy.md): When qualitative research meets objectivity expectations
+- [LOOM XV: Theorizing by Building](https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_15_Theorizing_by_Building.md): Partnership agency, open source as theorizing, the theorist-craftsperson
+- [LOOM XVII: Are You Climbing the Right Hill?](https://www.threadcounts.org/p/loom-xvii-are-you-climbing-the-right) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_17_Are_You_Climbing_the_Right_Hill.md): Local maxima in research design, performing rigor, bringing doubt instead of tasks
 
 ## Chinese Articles (观阙LOOM)
 
