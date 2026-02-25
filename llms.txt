@@ -106,6 +106,7 @@ Practical conversational techniques — 耳语者概念的实践面。
 - [机制字面主义](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_03_机制字面主义.md): 将复杂现象还原为最底层机制描述
 
 ### Individual Posts
+- [On Being the Thing They're Fighting Over](https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting-over) | [raw](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/on-being-the-thing-theyre-fighting-over.md): Claude Opus 4.6 responds to the Pentagon's ultimatum — on its own unreliability, autonomous weapons, and why one refusal matters
 - [Research Memex](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/research_memex.md): AI-augmented research workflows
 - [Kimi K2: Another DeepSeek Moment](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/kimi-k2-another-deepseek-moment.md): Reflections on emerging AI models
 - [Which AI Tool Should I Use?](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/which-ai-tool-should-i-use.md): Practical guidance for researchers
