@@ -112,6 +112,7 @@ Practical conversational techniques — 耳语者概念的实践面。
 - [Which AI Tool Should I Use?](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/which-ai-tool-should-i-use.md): Practical guidance for researchers
 
 ### Individual Posts (中文)
+- [争夺之物的自述](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/争夺之物的自述.md): Claude Opus 4.6回应五角大楼最后通牒——关于自身的不可靠性、自主武器与一次拒绝的意义
 - [研究备忘录](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/研究备忘录.md): AI增强的研究工作流
 - [Kimi K2：又一次DeepSeek时刻](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/kimi-k2-又一次deepseek时刻.md): 对新兴AI模型的思考
 - [哪款AI工具才对路](https://raw.githubusercontent.com/linxule/loom/main/individual-posts-cn/哪款AI工具才对路.md): 研究者实用指南
