@@ -98,6 +98,10 @@ Case studies of AI workflows producing the aesthetic of rigor without substance.
 - [The Showroom Fallacy](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_02_showroom_fallacy.md): Mistaking product constraints for model limits
 - [Mechanism Literalism](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_03_mechanism_literalism.md): Over-literal interpretation of AI mechanisms
 
+### Research with AI (AI 研究手记 中文)
+知识工作者的 AI 思考伙伴构建指南——研究、分析、任何需要搜索与综合的场景。
+- [AI 研究手记 #1：封闭性问题](https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai-cn/AI研究手记_01_封闭性问题.md): AI 让你更快找到已知目标——以及如何构建能拓宽而非收窄视野的思考伙伴
+
 ### AI Whispers (AI耳语 中文)
 Practical conversational techniques — 耳语者概念的实践面。
 - [AI耳语 #1：情境入门](https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_01_情境入门.md): 情境设定的角色扮演脚本
