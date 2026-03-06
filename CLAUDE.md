@@ -124,6 +124,7 @@ Lin, Xule, Kevin Corley, and [AI Collaborator]. [Year]. "Title." LOOM: Locus of 
 - All internal cross-references should use `www.threadcounts.org/p/slug` — never `threadcounts.substack.com` or `open.substack.com`
 - `guides/` and `drafts/` directories are gitignored (local working files only)
 - XHS social media drafts live in `drafts/xhs-posts/` (gitignored)
+- **Local git tracking:** `drafts/` and `guides/` are tracked in a separate local git repo (`.local-git/`). Use `lgit` alias: `git --git-dir=.local-git --work-tree=.` (e.g., `lgit status`, `lgit commit`, `lgit log`). This never pushes anywhere — local version history only.
 
 ## AI Accessibility Files (Maintenance Required)
 
