@@ -74,6 +74,7 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 - ["Human-Centric AI" Is the Wrong Story](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/human-centric-ai-wrong-story.md): A ceramicist's ritual, Anthropic's constitution, and the posture that changes what becomes possible
 - [Ghost in the Machine](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/ghost-in-the-machine.md): AI agency in organizational contexts
 - [Post-AGI Organizations](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/post-agi-organizations.md): Organizational forms after artificial general intelligence
+- [Post-AGI Organizations I: Thirteen Dreams](https://www.threadcounts.org/p/post-agi-organizations-i-thirteen) | [raw](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures/post-agi-organizations-i-thirteen-dreams.md): Thirteen AI systems design the future of organizing — welfare states, thermodynamic commons, creator economies, and consulting frameworks. None imagined organizational politics.
 
 ### Organizational Futures (中文)
 - [以人为本的AI是错误的故事](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/以人为本的AI是错误的故事.md): 陶艺师的仪式、Anthropic宪章，与改变可能性的姿态
