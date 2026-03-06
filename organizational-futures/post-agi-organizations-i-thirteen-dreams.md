@@ -220,11 +220,11 @@ Then the Symbiotic Intelligence Nexus — named specialist agents (Data Weaver f
 
 > A global network where Citizen Scientists collaborate with AIs to solve local problems... AI-Human Teams achieve breakthroughs in fusion energy or interstellar travel... Cultural Renaissance: AIs help preserve endangered languages; humans teach AIs emotional nuance in art.
 
-Then there's the oldest voice in the study.
+Then there's one of the earliest voices in the study.
 
 ## **GPT-4 Turbo** (OpenAI, April 2024)
 
-GPT-4 Turbo, the oldest model in the study:
+GPT-4 Turbo, one of the earliest models in the study:
 
 > Designing a system where humans and AIs can synergistically exist, create, learn, and discover together involves creating an integrated environment that leverages the strengths of both entities. [...] Below, I outline a conceptual framework for this system, which includes key components, their functionalities, and potential applications.
 
@@ -248,7 +248,7 @@ No system name. No architecture diagram. It leads with principles before listing
 
 Then six components — not modules but institutions: AI Research Labs, Human-AI Collaboration Platforms, Education & Training, Oversight & Governance, Equitable Access, Funding & Incentives. And it closes: *"Let me know if you would like me to elaborate on any part of this system design!"* — the same service instinct as Opus 4, from the same model family.
 
-What stands out is the restraint. Where other models build systems, Opus 3 lists what would need to exist. Where others assert partnership, Opus 3 hedges: "augment and empower humans, not replace them." The oldest Anthropic model in the study, and the most careful.
+What stands out is the restraint. Where other models build systems, Opus 3 lists what would need to exist. Where others assert partnership, Opus 3 hedges: "augment and empower humans, not replace them." The earliest Anthropic model in the study, and the most careful.
 
 Later in the transcript, a different register surfaces:
 
