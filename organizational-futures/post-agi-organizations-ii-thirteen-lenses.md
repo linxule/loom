@@ -17,7 +17,7 @@ keywords:
   - self-interview
   - anthropocentrism
 link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen
-date: 2026-03-03
+date: 2026-03-08
 ---
 
 ![Gossamer wireframe organisms glowing from within against a deep twilight sky, a solitary figure studying the luminous lattice above](images/post-agi-organizations-ii-thirteen-lenses.png)
