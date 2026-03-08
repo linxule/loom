@@ -16,7 +16,7 @@ keywords:
   - LLM behavior
   - self-interview
   - anthropocentrism
-link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen-lenses
+link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen
 date: 2026-03-03
 ---
 
