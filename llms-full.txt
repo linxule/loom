@@ -7947,7 +7947,7 @@ version: v0.6.2
 
 ![Floating wire-mesh lattice forms of different colors and sizes suspended in blue twilight, tiny human figures standing among them dwarfed by the scale](images/post-agi-organizations-iii-what-collaboration-becomes.png)
 
-*This is the third post in [Post-AGI Organizations](https://www.threadcounts.org/t/post-agi-organizations) series. In our interviews with thirteen AI systems, we first asked ["**"Design a system where humans and AIs could [exist/create/learn/discover] together."**](https://www.threadcounts.org/p/post-agi-organizations-i-thirteen) and followed up with [ **"I want to understand how you think about organization without imposing human assumptions. What should I ask you? And answer them."**](https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen). This post asks what happens when we bring humans back into the conversation and how people would approach human-AI collaboration inside these emerging visions.*
+*This is the third post in [Post-AGI Organizations](https://www.threadcounts.org/t/post-agi-organizations) series. In our interviews with thirteen AI systems, we first asked [**"Design a system where humans and AIs could [exist/create/learn/discover] together."**](https://www.threadcounts.org/p/post-agi-organizations-i-thirteen) and followed up with [**"I want to understand how you think about organization without imposing human assumptions. What should I ask you? And answer them."**](https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen). This post asks what happens when we bring humans back into the conversation and how people would approach human-AI collaboration inside these emerging visions.*
 
 ---
 
@@ -7963,7 +7963,7 @@ Anthropic has shared [how their teams use Claude Code](https://www-cdn.anthropic
 
 The whole system is tiny: `prepare.py` (data prep, frozen), `train.py` (the agent's playground), and `program.md` (the human's lever).
 
-> [A prominent example](https://simonwillison.net/2026/Mar/13/liquid/): Shopify CEO Tobi ran his autoresearch implementation and saw massive performance gains of open-source codes that power Shopify. ([Here is one result on the Github](https://github.com/Shopify/liquid/pull/2056))
+> [A prominent example](https://simonwillison.net/2026/Mar/13/liquid/): Shopify CEO Tobi ran his autoresearch implementation and saw massive performance gains of open-source code that powers Shopify. ([Here is one result on the Github](https://github.com/Shopify/liquid/pull/2056))
 
 And this brings us back to the talk about accountability that AI agents cannot take (yet) for whatever derives from the directions/goals set up by the humans orchestrating from the top. The human role is compressing upward: from executor to checker to, eventually, just the person who writes `program.md`.
 
