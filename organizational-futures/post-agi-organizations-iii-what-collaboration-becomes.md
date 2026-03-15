@@ -35,7 +35,7 @@ Extrapolating from the three forms (augmented individuals, symbiotic partnership
 
 Anthropic has shared [how their teams use Claude Code](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf) to augment/automate in areas like marketing, legal, product development, and engineering. In the open-source world, people have been experimenting with variants of [Andrej Karpathy's new autoresearch system](https://github.com/karpathy/autoresearch). The idea is devastatingly simple: the procedural part of technical work (e.g., hyperparameter tuning, optimizer selection) can be reduced to an agent loop running overnight.
 
-- **Karpathy's loop:** modify model code → train 5 min → check val_bpb → keep/discard → repeat
+- **Karpathy's loop:** modify model code → train 5 min → check val_bpb → keep/discard → repeat[^quant]
 
 The whole system is tiny: `prepare.py` (data prep, frozen), `train.py` (the agent's playground), and `program.md` (the human's lever).
 
@@ -45,7 +45,7 @@ And this brings us back to the talk about accountability that AI agents cannot t
 
 Some of these responsibilities, though, are being automated as we speak (e.g., [Code Review by Claude](https://code.claude.com/docs/en/code-review)).[^phd]
 
-What can we say about the forms of organizations for a post-AGI world? Would it be something like [redesigning the factory floors in the 1920s](https://x.com/gsivulka/status/2031797989908627849) for a new technology? Or whether "factory" is even the right category anymore?[^quant]
+What can we say about the forms of organizations for a post-AGI world? Would it be something like [redesigning the factory floors in the 1920s](https://x.com/gsivulka/status/2031797989908627849) for a new technology? Or whether "factory" is even the right category anymore?
 
 [^quant]: If we map it structurally and think about what can be done with quantitative research in social science — **Quant version:** modify strategy/model code → run backtest → check Sharpe/metric → keep/discard → repeat. The core pieces: `prepare.py` (downloads and cleans market data, defines the backtest engine and evaluation metrics — frozen, not touched by the agent), `strategy.py` (the agent's playground — signal generation, factor construction, portfolio weighting, risk constraints, execution logic), and `program.md` (your research directives: "Explore momentum variants." "Try combining value and quality factors." "Minimize drawdown." This is where the human steers).
 

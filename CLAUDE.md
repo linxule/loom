@@ -182,7 +182,7 @@ Key concepts: convergence bubble (shared training data as local maximum), the mi
 
 Writing principles: 60% quotes / 40% interpretation, present-then-interpret, gallery sections, no neat resolutions, one narrator personal moment per post.
 
-**Working files:** Before writing any post, load `drafts/post-agi-org-ii/q{1-6}-reference.md` for verbatim quotes — don't write from per-model summaries when verbatims exist.
+**Working files:** Before writing any post, load `drafts/post-agi-org-ii/data/reference/q{1-6}-reference.md` for verbatim quotes — don't write from per-model summaries when verbatims exist.
 
 **Q attribution gotcha:** Several models' distinctive voices arrive in Q2 not Q1 (DeepSeek V3.2 gradient fields, Opus 4 phenomenology, Qwen3 slime molds, ERNIE evolutionary biology, Claude 3 Opus autonomy claim). Always verify against raw transcript before attributing a quote to a question. July 2025 batch (Claude 3 Opus, GPT-4 Turbo, ERNIE, Qwen3, Grok 4) had meta-reflective inserted as Q6 — calculator question is Q7 in those transcripts.
 
