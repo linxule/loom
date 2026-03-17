@@ -23,6 +23,8 @@ date: 2026-03-17
 
 # LOOM XVII: The Polanyi Inversion
 
+![Cover image: Translucent roof panels suspended over figures in a watercolor architectural space — what holds up the roof when the friction dissolves](images/loom_post_17_cover.png)
+
 ## What Happens When We Can Tell More Than We Know
 
 There are two kinds of coding.

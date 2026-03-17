@@ -66,6 +66,7 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 - [观阙LOOM XIV：计算器谬误](https://raw.githubusercontent.com/linxule/loom/main/posts-cn/观阙_14_篇十四_计算器谬误.md): 当质性研究遭遇客观性期待
 - [观阙LOOM XV：造中成论](https://raw.githubusercontent.com/linxule/loom/main/posts-cn/观阙_15_篇十五_造中成论.md): 伙伴能动性、开源即理论化
 - [观阙LOOM XVI：你爬对山了吗？](https://raw.githubusercontent.com/linxule/loom/main/posts-cn/观阙_16_篇十六_你爬对山了吗.md): 研究设计中的局部最优与表演严谨
+- [观阙LOOM XVII：波兰尼反转](https://raw.githubusercontent.com/linxule/loom/main/posts-cn/观阙_17_篇十七_波兰尼反转.md): 当述说超越所知——承重摩擦消散后，表达与理解之间不可见的鸿沟
 
 ## Other Series
 
