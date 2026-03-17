@@ -5,10 +5,13 @@ authors:
   - "Xule Lin"
   - "Kevin Corley"
   - "Claude Opus 4.6"
-description: "Polanyi said we know more than we can tell. AI inverts this — we can now tell more than we know. When friction dissolves, articulation races ahead of understanding, and nothing signals that anything has gone wrong."
+description: "Polanyi's paradox: we know more than we can tell. AI inverts this — we can now tell more than we know. When friction dissolves, articulation races ahead of understanding, and nothing signals that anything has gone wrong."
 keywords:
   - Polanyi Inversion
+  - Polanyi's paradox
+  - Michael Polanyi
   - tacit knowledge
+  - epistemic alienation
   - qualitative research
   - abstraction
   - breadth-depth tradeoff

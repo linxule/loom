@@ -13,6 +13,7 @@ keywords:
   - open source
   - theorist-craftsperson
   - theorizing by building
+  - interpretive orchestration
 link: https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018
 date: 2025-12-10
 ---
