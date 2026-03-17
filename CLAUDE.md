@@ -68,7 +68,7 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
-- **Bilingual series coverage:** LOOM main (16/16), Organizational Futures (5/5), AI Whispers (3/3), Epistemic Voids (3/3), Individual Posts (3/3)
+- **Bilingual series coverage:** LOOM main (17/16), Organizational Futures (5/5), AI Whispers (3/3), Epistemic Voids (3/3), Individual Posts (3/3)
 - **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md`
 
 ## Working with LOOM Content
@@ -164,6 +164,7 @@ Understanding these helps maintain conceptual coherence and enables rich cross-r
 | **LOOM XIV** | Calculator Fallacy | Approaching AI as Excel—expecting definitive answers to interpretive questions. Creates delegation → disappointment → iteration cycle. Related to professional identity threat |
 | **LOOM XV** | Theorizing by Building | Open source as theorizing; making yourself unnecessary as a feature |
 | **LOOM XVI** | Local Maxima | Performing rigor: optimizing within the wrong frame. "I brought a task when I should have brought a doubt." Breather concept (AI Whispers #3) as practical detection tool |
+| **LOOM XVII** | Polanyi Inversion | Articulation exceeds comprehension: AI inverts Polanyi's "we know more than we can tell." Load-bearing friction dissolved, the gap between fluency and understanding becomes invisible |
 
 **How concepts interconnect:**
 The calculator fallacy (XIV) prevents the moment of shift (I) into collaborative dialogue (IV), blocking entry to the Third Space (V) where interpretive multiplicity (IX) could emerge. This creates need for Whisperers (XII) who mediate expectations while navigating Whispered Agency (X). Performing rigor (XVI) is what the calculator fallacy looks like in research design. Theorizing by building (XV) offers an alternative stance: making the work open, treating artifacts as theory.

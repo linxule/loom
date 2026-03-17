@@ -85,7 +85,7 @@ The primary purpose of this repository is to:
 The articles are stored in the following directory structure:
 
 **Main LOOM Series:**
-- `posts/` - English LOOM articles (16 posts)
+- `posts/` - English LOOM articles (17 posts)
 - `posts-cn/` - Chinese 观阙LOOM articles (16 posts)
 
 **Other Series (English):**
