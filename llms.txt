@@ -90,6 +90,7 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 ### Research with AI
 How to build AI thinking partners for knowledge work — practical workflows for researchers, analysts, and anyone who needs to think at scale.
 - [Research with AI #1: The Foreclosure Problem](https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_01_the_foreclosure_problem.md): AI makes you faster at finding what you already know to look for — and how to build a thinking partner that broadens instead
+- [Research with AI #2: Agents, Honestly](https://www.threadcounts.org/p/research-with-ai-2-agents-honestly) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_02_agents_honestly.md): Every AI agent type trades something away — a framework (Safe, Accessible, Open, Sovereign) for choosing yours
 
 ### AI Whispers
 Practical conversational techniques for AI interaction — the craft side of the Whisperer concept (LOOM XII).
