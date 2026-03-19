@@ -15,7 +15,7 @@ keywords:
   - Raspberry Pi
   - Bloom
 link: https://www.threadcounts.org/p/research-with-ai-2-agents-honestly
-date: 2026-03-XX
+date: 2026-03-19
 ---
 
 ![Cover image: a person at a small warm laptop, a tidal wave of documents and screens cascading from the right](images/rwa_02_cover.png)
