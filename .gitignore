@@ -23,6 +23,7 @@ yarn-error.log
 *~
 .specstory/
 .claude/
+.obsidian/
 drafts/
 .cursor/
 
