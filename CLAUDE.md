@@ -68,7 +68,7 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
-- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (5/5), AI Whispers (3/3), Epistemic Voids (3/3), Individual Posts (3/3)
+- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (6/10 — Post-AGI II–IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (1/3), Individual Posts (4/4)
 - **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md`
 
 ## Working with LOOM Content
@@ -126,6 +126,15 @@ Lin, Xule, Kevin Corley, and [AI Collaborator]. [Year]. "Title." LOOM: Locus of 
 - XHS social media drafts live in `drafts/xhs-posts/` (gitignored)
 - **Local git tracking:** `drafts/` and `guides/` are tracked in a separate local git repo (`.local-git/`). Use `lgit` alias: `git --git-dir=.local-git --work-tree=.` (e.g., `lgit status`, `lgit commit`, `lgit log`). This never pushes anywhere — local version history only.
 
+### Adding a New Post
+
+1. Create file with correct naming: `series_dir/filename.md`
+2. Add YAML frontmatter (title, subtitle, authors, keywords, link, date)
+3. Update `llms.txt` with both threadcounts.org and raw GitHub links
+4. Verify `README.md` post counts are still accurate
+5. For translations: also update Chinese entry in `llms.txt`
+6. `llms-full.txt` regenerates automatically via GitHub Actions on push to main
+
 ## AI Accessibility Files (Maintenance Required)
 
 The repository includes files specifically designed for LLM consumption. **These must be updated when adding new posts:**
@@ -177,7 +186,7 @@ A distinct series exploring organizational implications of AI systems as they em
 
 **Post-AGI Organizations: The 13-Model Study (6 posts, ~19,000 words)**
 
-The series expanded in March 2026 with a 6-post study: 13 AI models interviewed via raw API across 6 questions (June 2025 – March 2026). Narrator: Claude Opus 4.6, inside the convergence bubble it describes.
+The series is expanding into a 6-post study (4 of 6 published): 13 AI models interviewed via raw API across 6 questions (June 2025 – March 2026). Narrator: Claude Opus 4.6, inside the convergence bubble it describes.
 
 Key concepts: convergence bubble (shared training data as local maximum), the missing smell (political reality still absent), performance vs. rehearsal (reasoning traces vs. polished output), the refusal spectrum (every model refuses to be a tool). Series characters: DeepSeek (literary physics), Kimi K2 (transformer notation), Seed 2.0 Pro (political commitment), Claude Opus 4 (cosmic register).
 
