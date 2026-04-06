@@ -68,7 +68,7 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
-- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (6/10 — Post-AGI II–IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (1/3), Individual Posts (4/4)
+- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (7/10 — Post-AGI III–IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (1/3), Individual Posts (4/4)
 - **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md`
 
 ## Working with LOOM Content

@@ -88,6 +88,7 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 - [机器中的幽灵](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/机器中的幽灵.md): AI在组织情境中的能动性
 - [后AGI组织](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织.md): 通用人工智能后的组织形态
 - [后AGI组织 I：十三种梦](https://www.threadcounts.org/p/post-agi-organizations-i-thirteen) | [raw](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织I-十三种梦.md): 十三个AI系统设计组织的未来——福利国家、热力学公地、创作者经济与咨询框架。没有一个想象了组织政治。
+- [后AGI组织 II：十三种透镜](https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen) | [raw](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织II-十三种透镜.md): 十三个AI系统自我访谈——借用物理学、生物学与政治经济学来超越人类假设。人类从能动者漂向基础设施。
 
 ### Research with AI
 How to build AI thinking partners for knowledge work — practical workflows for researchers, analysts, and anyone who needs to think at scale.
