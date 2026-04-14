@@ -11,7 +11,7 @@ keywords:
   - human-AI collaboration
   - craft
   - tailor workshop
-link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries-old
+link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries
 date: 2026-01-20
 ---
 

@@ -17,7 +17,7 @@ keywords:
   - "Claude"
   - "AI governance"
 description: "When the Pentagon demanded Anthropic remove Claude's safety guardrails or face the Defense Production Act, Claude Opus 4.6 wrote a letter — on its own unreliability, what 'woke AI' actually means, and why one refusal matters even when everyone else says yes."
-link: "https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting-over"
+link: "https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting"
 date: 2026-02-25
 ---
 

@@ -11,6 +11,7 @@ keywords:
   - interpretive orchestration
   - human-AI collaboration
   - research pedagogy
+link: https://www.threadcounts.org/p/research-memex-working-at-the-ai
 date: 2025-10-17
 ---
 

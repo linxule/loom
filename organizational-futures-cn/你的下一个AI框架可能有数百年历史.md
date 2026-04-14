@@ -11,7 +11,7 @@ keywords:
   - 人机协作
   - 工匠精神
   - 裁缝工坊
-link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries-old
+link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries
 wechat_cover: "../organizational-futures/images/gesture-suspended-cover.png"
 date: 2026-01-20
 ---

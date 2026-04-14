@@ -13,7 +13,7 @@ keywords:
   - cybernetic teams
   - micro-organizations
   - knowledge co-creation
-link: https://www.threadcounts.org/p/loom-viii-beyond-teammates
+link: https://www.threadcounts.org/p/loom-viii-beyond-teammates-the-third
 date: 2025-03-28
 ---
 
