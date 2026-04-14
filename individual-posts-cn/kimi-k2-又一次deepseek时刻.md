@@ -10,7 +10,7 @@ keywords:
   - "中国 AI"
   - "语言模型"
   - "AI 研究"
-link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
+link: "https://mp.weixin.qq.com/s/MA_6ma1YYR2eiPEEsDJsHQ"
 date: 2025-07-13
 ---
 

@@ -20,7 +20,7 @@ date: 2025-11-08
 
 如果你跟我认识的大多数社科研究者一样,大概试过 ChatGPT,可能也用过 Claude,然后开始疑惑:**"我到底该用哪个 AI 来做研究?"** 答案,说实话(可能让人失望,也可能让人松一口气?):**"看情况。"**
 
-![img](https://substackcdn.com/image/fetch/$s_!uQB6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96cb07ed-27e5-4c3d-9f27-6a60481144ef_2912x1632.png)
+![img](images/ai-tool-hero.webp)
 
 说实话:AI 领域充斥着各种模型名称和炒作。你不关心跑分——你只想顺利开展文献综述、编码或分析工作,而不是淹没在 token 限制中,或在不同聊天窗口之间复制粘贴上下文。
 

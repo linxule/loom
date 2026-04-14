@@ -18,6 +18,7 @@ keywords:
   - 人工智能
   - 管理研究
 date: 2025-06-15    
+link: "https://mp.weixin.qq.com/s/2TYSH6MnJN8B7-L-vN47IQ"
 ---
 
 # 后AGI组织：AI的盲点与我们的盲点
