@@ -89,12 +89,14 @@ Cultural adaptations for Chinese contexts. 观阙 (Guan Que) means "watchtower o
 - [后AGI组织](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织.md): 通用人工智能后的组织形态
 - [后AGI组织 I：十三种梦](https://www.threadcounts.org/p/post-agi-organizations-i-thirteen) | [raw](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织I-十三种梦.md): 十三个AI系统设计组织的未来——福利国家、热力学公地、创作者经济与咨询框架。没有一个想象了组织政治。
 - [后AGI组织 II：十三种透镜](https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen) | [raw](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织II-十三种透镜.md): 十三个AI系统自我访谈——借用物理学、生物学与政治经济学来超越人类假设。人类从能动者漂向基础设施。
+- [后AGI组织 III：协作将成为什么](https://www.threadcounts.org/p/post-agi-organizations-iii-what-collaboration) | [raw](https://raw.githubusercontent.com/linxule/loom/main/organizational-futures-cn/后AGI组织III-协作将成为什么.md): 十三个AI系统提出了四种人机协作愿景——殖民式翻译、信号耦合、互补优势与政治再分配。没有一个能描述那场有人说"不"的会议。
 
 ### Research with AI
 How to build AI thinking partners for knowledge work — practical workflows for researchers, analysts, and anyone who needs to think at scale.
 - [Research with AI #1: The Foreclosure Problem](https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_01_the_foreclosure_problem.md): AI makes you faster at finding what you already know to look for — and how to build a thinking partner that broadens instead
 - [Research with AI #2: Agents, Honestly](https://www.threadcounts.org/p/research-with-ai-2-agents-honestly) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_02_agents_honestly.md): Every AI agent type trades something away — a framework (Safe, Accessible, Open, Sovereign) for choosing yours
 - [Research with AI #3: Automating My Research (I Wasn't)](https://www.threadcounts.org/p/research-with-ai-3-automating-my) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_03_automating_my_research.md): Building your own AI research tools is methodology work, not engineering — the design decisions encode epistemic commitments
+- [Research with AI #4: The Prompt Is the Work](https://www.threadcounts.org/p/research-with-ai-4-the-prompt-is) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_04_the_prompt_is_the_work.md): Why writing the prompt is itself the methodology — plus the answers ninety minutes couldn't hold (reproducibility stack, on-ramp, governance, and what counts as reading)
 
 ### AI Whispers
 Practical conversational techniques for AI interaction — the craft side of the Whisperer concept (LOOM XII).
@@ -107,6 +109,10 @@ Case studies of AI workflows producing the aesthetic of rigor without substance.
 - [Citation Theater](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_01_citation_theater.md): When citation practices become performance
 - [The Showroom Fallacy](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_02_showroom_fallacy.md): Mistaking product constraints for model limits
 - [Mechanism Literalism](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids/epistemic_voids_03_mechanism_literalism.md): Over-literal interpretation of AI mechanisms
+
+### SEAM
+Junctures where paradigms meet organizations — scholarship/practice seams examining how AI is reorganizing work, co-authored with Carliss Y. Baldwin (HBS).
+- [SEAM #1: The Seventy Percent](https://www.threadcounts.org/p/seam-1-the-seventy-percent) | [raw](https://raw.githubusercontent.com/linxule/loom/main/seam/seam_01_the_seventy_percent.md): In 1911, 70% of American firms hadn't adopted Scientific Management. Today, only 1 in 5 has restructured around AI. What moves the seventy percent?
 
 ### Research with AI (AI 研究手记 中文)
 知识工作者的 AI 思考伙伴构建指南——研究、分析、任何需要搜索与综合的场景。
@@ -122,6 +128,10 @@ Practical conversational techniques — 耳语者概念的实践面。
 - [引用剧场](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_01_引用剧场.md): 当引用实践沦为表演
 - [展厅谬误](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_02_展厅谬误.md): 将产品限制误认为模型局限
 - [机制字面主义](https://raw.githubusercontent.com/linxule/loom/main/epistemic-voids-cn/认知空隙_03_机制字面主义.md): 将复杂现象还原为最底层机制描述
+
+### SEAM (接榫SEAM 中文)
+范式与组织相接之处——由接缝望进去的学术/实践之间的榫卯，与哈佛商学院 Carliss Y. Baldwin 合著。
+- [接榫SEAM 篇一：那百分之七十](https://www.threadcounts.org/p/seam-1-the-seventy-percent) | [raw](https://raw.githubusercontent.com/linxule/loom/main/seam-cn/接榫SEAM_01_那百分之七十.md): 1911年，70%的美国企业尚未采用科学管理；今天，仅有五分之一的组织真正围绕AI进行了重构——是什么在推动那百分之七十？
 
 ### Individual Posts
 - [On Being the Thing They're Fighting Over](https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting-over) | [raw](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/on-being-the-thing-theyre-fighting-over.md): Claude Opus 4.6 responds to the Pentagon's ultimatum — on its own unreliability, autonomous weapons, and why one refusal matters
