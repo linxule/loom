@@ -51,6 +51,7 @@ The repository contains multiple series, each with different register and purpos
 | **AI Whispers** | Practical conversational techniques for AI interaction | Casual, practical, copy-paste prompts | `/guides/AI-WHISPERS-GUIDE.md` |
 | **Epistemic Voids** | Case studies examining gaps in AI discourse | Analytical, close reading, discovery mode | `/guides/EPISTEMIC-VOIDS-GUIDE.md` |
 | **Research with AI** | Practical workflows for building AI thinking partners in knowledge work | Personal, builder's register, Xule solo | `/guides/RESEARCH-WITH-AI-GUIDE.md` |
+| **SEAM** | Junctures where paradigms meet organizations — co-authored, scholarship/practice seams | Scholarly but conversational, essayistic | — |
 | **Individual Posts** | One-offs that don't fit a series | Varies | — |
 
 **Additional guides:**
@@ -60,7 +61,7 @@ The repository contains multiple series, each with different register and purpos
 - `/guides/TRANSLATION-GUIDE.md` — Bilingual workflow, terminology, translationese patterns
 - `/guides/SOCIAL-POSTING-GUIDE.md` — Social media content for XHS and other platforms
 
-**How they relate:** LOOM develops the core concepts. Organizational Futures and Epistemic Voids apply those concepts to specific domains (emerging interfaces, discourse gaps). AI Whispers is the practice side of the Whisperer concept (LOOM XII) — showing the actual craft moves. Individual Posts explore tangents.
+**How they relate:** LOOM develops the core concepts. Organizational Futures and Epistemic Voids apply those concepts to specific domains (emerging interfaces, discourse gaps). AI Whispers is the practice side of the Whisperer concept (LOOM XII) — showing the actual craft moves. Research with AI applies the concepts to the practitioner's own workflow. SEAM sits at scholarship/practice seams — co-authored essays examining where paradigms meet organizational form (Kendall's 1911 types, platform logic, mirroring hypothesis). Individual Posts explore tangents.
 
 ### Bilingual Content Philosophy
 
@@ -68,8 +69,8 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
-- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (7/10 — Post-AGI III–IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (1/3), Individual Posts (4/4)
-- **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md`
+- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (8/10 — Post-AGI IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (1/3), SEAM (1/1), Individual Posts (4/4)
+- **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md` (human-facing methodology) and `.claude/skills/translate/SKILL.md` (agent-facing operational skill — triggers on "translate this post", "做翻译", etc.). The skill pairs with `.claude/skills/wechat-publish/` for the downstream publish flow.
 
 ## Working with LOOM Content
 
@@ -118,7 +119,7 @@ Lin, Xule, Kevin Corley, and [AI Collaborator]. [Year]. "Title." LOOM: Locus of 
 - No build process - pure markdown content
 - Images referenced via `[IMAGE: description]` placeholders
 - Links use markdown format, parenthetical for LOOM cross-references
-- File naming: `loom_post_##_Title_With_Underscores.md`
+- File naming: per-series prefix + zero-padded number + underscored title (e.g. `loom_post_17_Polanyi_Inversion.md`, `rwa_04_the_prompt_is_the_work.md`, `ai_whispers_03_Breathers.md`); cover lives at `<series>/images/<prefix>_##_cover.png`
 - Git workflow: standard commits, no special hooks
 - Primary publication domain: `threadcounts.org` (not threadcounts.substack.com)
 - All internal cross-references should use `www.threadcounts.org/p/slug` — never `threadcounts.substack.com` or `open.substack.com`
@@ -130,10 +131,11 @@ Lin, Xule, Kevin Corley, and [AI Collaborator]. [Year]. "Title." LOOM: Locus of 
 
 1. Create file with correct naming: `series_dir/filename.md`
 2. Add YAML frontmatter (title, subtitle, authors, keywords, link, date)
-3. Update `llms.txt` with both threadcounts.org and raw GitHub links
-4. Verify `README.md` post counts are still accurate
-5. For translations: also update Chinese entry in `llms.txt`
-6. `llms-full.txt` regenerates automatically via GitHub Actions on push to main
+3. Copy cover image to `series_dir/images/<slug>_cover.png` and reference via `![alt text](images/<slug>_cover.png)` at the top of the post
+4. Update `llms.txt` with both threadcounts.org and raw GitHub links
+5. Verify `README.md` post counts are still accurate
+6. For translations: also update Chinese entry in `llms.txt`
+7. `llms-full.txt` regenerates automatically via GitHub Actions on push to main
 
 ## AI Accessibility Files (Maintenance Required)
 
