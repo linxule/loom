@@ -93,6 +93,7 @@ The articles are stored in the following directory structure:
 - `ai-whispers/` - Practical conversational techniques for AI interaction
 - `epistemic-voids/` - Case studies of AI workflows producing form without substance
 - `research-with-ai/` - Practical workflows for building AI thinking partners
+- `seam/` - Junctures where paradigms meet organizations (co-authored with Carliss Y. Baldwin)
 - `individual-posts/` - Standalone articles and announcements
 
 **Other Series (中文):**
@@ -100,6 +101,7 @@ The articles are stored in the following directory structure:
 - `ai-whispers-cn/` - AI耳语系列中文版
 - `epistemic-voids-cn/` - 认知空隙系列中文版
 - `research-with-ai-cn/` - AI研究手记系列中文版
+- `seam-cn/` - 接榫SEAM系列中文版
 - `individual-posts-cn/` - 独立文章中文版
 
 ## License
