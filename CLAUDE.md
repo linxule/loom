@@ -69,7 +69,7 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
-- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (8/9 — Post-AGI IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (1/4 — only #1 translated; #2–4 pending), SEAM (1/1), Individual Posts (4/4)
+- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (8/9 — Post-AGI IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (2/4 — #1 and #4 translated; #2–3 pending), SEAM (1/1), Individual Posts (4/4)
 - **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md` (human-facing methodology) and `.claude/skills/translate/SKILL.md` (agent-facing operational skill — triggers on "translate this post", "做翻译", etc.). The skill pairs with `.claude/skills/wechat-publish/` for the downstream publish flow.
 
 ## Working with LOOM Content

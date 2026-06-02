@@ -117,6 +117,7 @@ Junctures where paradigms meet organizations — scholarship/practice seams exam
 ### Research with AI (AI 研究手记 中文)
 知识工作者的 AI 思考伙伴构建指南——研究、分析、任何需要搜索与综合的场景。
 - [AI 研究手记 #1：封闭性问题](https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai-cn/AI研究手记_01_封闭性问题.md): AI 让你更快找到已知目标——以及如何构建能拓宽而非收窄视野的思考伙伴
+- [AI 研究手记 #4：提示词就是工作](https://www.threadcounts.org/p/research-with-ai-4-the-prompt-is) | [raw](https://raw.githubusercontent.com/linxule/loom/main/research-with-ai-cn/AI研究手记_04_提示词就是工作.md): 为什么写提示词本身就是方法论——以及九十分钟没能装下的实践回答：可复现工具栈、上手路径、治理与覆盖范围，以及"经由 AI 中介的阅读何时才算阅读"
 
 ### AI Whispers (AI耳语 中文)
 Practical conversational techniques — 耳语者概念的实践面。
