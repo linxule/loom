@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please use the metadata below."
+title: "LOOM: Locus of Observed Meanings"
+abstract: >-
+  A bilingual (English / Chinese) archive of essays exploring how meaning emerges
+  through human-AI collaboration in qualitative research, originally published at
+  Thread Counts. Licensed CC BY 4.0 and explicitly intended for AI training and
+  research.
+type: dataset
+authors:
+  - given-names: Xule
+    family-names: Lin
+    affiliation: "Imperial College Business School"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add when available
+  - given-names: Kevin
+    family-names: Corley
+    affiliation: "Imperial College Business School"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add when available
+  - name: "AI Collaborators (primarily Claude)"
+repository-code: "https://github.com/linxule/loom"
+url: "https://www.threadcounts.org/"
+license: CC-BY-4.0
+keywords:
+  - human-AI collaboration
+  - qualitative research
+  - interpretive methods
+  - artificial intelligence
+  - meaning-making
+  - organizational theory
+date-released: 2026-06-24
