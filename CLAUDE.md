@@ -69,7 +69,7 @@ The repository contains multiple series, each with different register and purpos
 - Not direct translations but cultural adaptations
 - Chinese translations created with multi-model AI workflow (Kimi K2/K2.5, Gemini 3.1 Pro, Claude) then culturally adapted by humans
 - Both versions maintain consistent frontmatter for cross-referencing
-- **Bilingual series coverage:** LOOM main (17/17), Organizational Futures (8/9 — Post-AGI IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (2/4 — #1 and #4 translated; #2–3 pending), SEAM (1/1), Individual Posts (4/4)
+- **Bilingual series coverage:** LOOM main (18 EN / 17 CN — XVIII not yet translated), Organizational Futures (8/9 — Post-AGI IV not yet translated), AI Whispers (3/3), Epistemic Voids (3/3), Research with AI (2/4 — #1 and #4 translated; #2–3 pending), SEAM (1/1), Individual Posts (4/4)
 - **For detailed translation workflow, terminology, and translationese patterns:** See `/guides/TRANSLATION-GUIDE.md` (human-facing methodology) and `.claude/skills/translate/SKILL.md` (agent-facing operational skill — triggers on "translate this post", "做翻译", etc.). The skill pairs with `.claude/skills/wechat-publish/` for the downstream publish flow.
 
 ## Working with LOOM Content
@@ -176,6 +176,7 @@ Understanding these helps maintain conceptual coherence and enables rich cross-r
 | **LOOM XV** | Theorizing by Building | Open source as theorizing; making yourself unnecessary as a feature |
 | **LOOM XVI** | Local Maxima | Performing rigor: optimizing within the wrong frame. "I brought a task when I should have brought a doubt." Breather concept (AI Whispers #3) as practical detection tool |
 | **LOOM XVII** | Polanyi Inversion | Articulation exceeds comprehension: AI inverts Polanyi's "we know more than we can tell." Load-bearing friction dissolved, the gap between fluency and understanding becomes invisible |
+| **LOOM XVIII** | End of Positivism / Verification Asymmetry | From a human perspective, positivist/deductive research automates first because it was engineered to be checkable; the real cut is the verifiable layer vs the judgment layer. Completion authority (who says the work is done): the situated judgment no external scorer can check stays human |
 
 **How concepts interconnect:**
 The calculator fallacy (XIV) prevents the moment of shift (I) into collaborative dialogue (IV), blocking entry to the Third Space (V) where interpretive multiplicity (IX) could emerge. This creates need for Whisperers (XII) who mediate expectations while navigating Whispered Agency (X). Performing rigor (XVI) is what the calculator fallacy looks like in research design. Theorizing by building (XV) offers an alternative stance: making the work open, treating artifacts as theory.

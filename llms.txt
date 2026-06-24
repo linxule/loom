@@ -45,6 +45,7 @@ LOOM investigates what becomes possible when different forms of intelligence eng
 - [LOOM XV: Theorizing by Building](https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_15_Theorizing_by_Building.md): Partnership agency, open source as theorizing, the theorist-craftsperson
 - [LOOM XVI: Are You Climbing the Right Hill?](https://www.threadcounts.org/p/loom-xvi-are-you-climbing-the-right) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_16_Are_You_Climbing_the_Right_Hill.md): Local maxima in research design, performing rigor, bringing doubt instead of tasks
 - [LOOM XVII: The Polanyi Inversion](https://www.threadcounts.org/p/loom-xvii-the-polanyi-inversion) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_17_The_Polanyi_Inversion.md): When articulation exceeds comprehension — load-bearing friction, dissolved tradeoffs, and the invisible gap between fluency and understanding
+- [LOOM XVIII: It's the End of Positivism as We Know It (and I Feel Fine)](https://www.threadcounts.org/p/its-the-end-of-positivism-as-we-know) | [raw](https://raw.githubusercontent.com/linxule/loom/main/posts/loom_post_18_The_End_of_Positivism.md): Why AI automates the most rigorous, quantitative methods first — verification asymmetry, the verifiable layer versus the judgment layer, completion authority, and the judgment that stays human
 
 ## Chinese Articles (观阙LOOM)
 
