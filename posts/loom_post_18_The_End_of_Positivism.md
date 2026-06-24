@@ -5,19 +5,22 @@ authors:
   - "Xule Lin"
   - "Kevin Corley"
   - "Claude Opus 4.8"
-description: "Everyone expected AI to come for qualitative research first. The reverse is happening — the rigorous, quantitative methods automate first, because what a century of method made checkable a machine can learn to do, while the judgment no external scorer can check is the part that stays human."
+description: "Everyone expected AI to come for qualitative research first. The reverse is happening: rigorous quantitative methods automate first, and judgment is what stays human."
 keywords:
   - positivism
+  - completion authority
   - qualitative research
   - verification asymmetry
   - automation frontier
   - interpretivism
-  - completion authority
   - epistemic responsibility
   - research methods
+  - replication crisis
+  - reflexive quantitative research
   - human-AI collaboration
   - interpretive research
   - AI and social science
+  - AI qualitative coding
 link: https://www.threadcounts.org/p/its-the-end-of-positivism-as-we-know
 date: 2026-06-24
 ---
