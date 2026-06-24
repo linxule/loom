@@ -14,6 +14,8 @@ keywords:
   - human-AI collaboration
 link: https://www.threadcounts.org/p/post-agi-organizations-ais-blind
 date: 2025-06-15
+lang: en
+translation: organizational-futures-cn/后AGI组织.md
 ---
 
 # Post-AGI Organizations: AI’s Blind Spot and Ours

@@ -19,6 +19,8 @@ keywords:
   - epistemic provenance
 link: https://www.threadcounts.org/p/research-with-ai-4-the-prompt-is
 date: 2026-05-08
+lang: en
+translation: research-with-ai-cn/AI研究手记_04_提示词就是工作.md
 ---
 
 ![Cover image: a translucent figure seated in contemplation, looking down at something held in their hands — abstract overlapping planes of cool blue and warm ochre wash across the painted canvas, the figure neither solid nor erased](images/rwa_04_cover.png)

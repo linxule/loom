@@ -17,6 +17,8 @@ keywords:
   - 大模型行为
 link: https://www.threadcounts.org/p/post-agi-organizations-i-thirteen
 date: 2026-03-06
+lang: zh
+translation: organizational-futures/post-agi-organizations-i-thirteen-dreams.md
 ---
 
 ![十三种不同的建筑愿景——网状、有机、结晶、金色——从共同的米色表面升起，小型人影穿行其间](../organizational-futures/images/post-agi-organizations-i-thirteen-dreams.png)

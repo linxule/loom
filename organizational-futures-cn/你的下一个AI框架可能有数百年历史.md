@@ -14,6 +14,8 @@ keywords:
 link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries
 wechat_cover: "../organizational-futures/images/gesture-suspended-cover.png"
 date: 2026-01-20
+lang: zh
+translation: organizational-futures/your-next-ai-framework-might-be-centuries-old.md
 ---
 
 去年，我走进伦敦一家小裁缝铺。我带着一个问题：当机器可以做得更快更便宜时，手工艺如何存活？我不是想听那些关于奢侈品牌的故事，我想理解他们实际上是怎么运作的。协调、工艺、与工厂竞争的日常现实。

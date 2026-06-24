@@ -15,6 +15,8 @@ keywords:
   - knowledge co-creation
 link: https://www.threadcounts.org/p/loom-viii-beyond-teammates-the-third
 date: 2025-03-28
+lang: en
+translation: posts-cn/观阙_08_篇八_超越队友.md
 ---
 
 # LOOM VIII: Beyond Teammates - The Third Space of Human-AI Collaboration

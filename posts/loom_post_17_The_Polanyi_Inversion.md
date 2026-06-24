@@ -22,6 +22,8 @@ keywords:
   - research craft
 link: https://www.threadcounts.org/p/loom-xvii-the-polanyi-inversion
 date: 2026-03-17
+lang: en
+translation: posts-cn/观阙_17_篇十七_波兰尼反转.md
 ---
 
 # LOOM XVII: The Polanyi Inversion

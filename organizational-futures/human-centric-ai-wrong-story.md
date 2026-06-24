@@ -15,6 +15,8 @@ keywords:
   - posture
 link: https://www.threadcounts.org/p/human-centric-ai-is-the-wrong-story
 date: 2026-01-22
+lang: en
+translation: organizational-futures-cn/以人为本的AI是错误的故事.md
 ---
 
 # "Human-Centric AI" Is the Wrong Story

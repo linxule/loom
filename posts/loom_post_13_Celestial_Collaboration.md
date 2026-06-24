@@ -17,6 +17,8 @@ keywords:
   - six dimensions of understanding
 link: https://www.threadcounts.org/p/loom-xiii-celestial-collaboration
 date: 2025-06-06
+lang: en
+translation: posts-cn/观阙_13_篇十三_天体协作.md
 ---
 
 # LOOM XIII: Celestial Collaboration

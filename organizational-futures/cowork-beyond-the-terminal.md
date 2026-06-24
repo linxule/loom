@@ -13,6 +13,8 @@ keywords:
   - delegation vs dialogue
 link: https://www.threadcounts.org/p/claude-cowork-the-easy-part-is-over
 date: 2026-01-13
+lang: en
+translation: organizational-futures-cn/轻松的部分结束了.md
 ---
 
 Last week, Ethan Mollick published [a piece](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) that captured something many had been feeling: Claude Code represents "a genuine breakthrough moment," but one locked behind a terminal interface that "looks like something from a 1980s computer lab." The capability was there. The access wasn't.

@@ -16,6 +16,8 @@ keywords:
   - emergent patterns
 link: https://www.threadcounts.org/p/loom-ii-the-organizational-weave
 date: 2024-12-27
+lang: en
+translation: posts-cn/观阙_02_篇二_组织的织体.md
 ---
 
 # LOOM II: The Organizational Weave 

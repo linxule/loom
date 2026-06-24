@@ -12,6 +12,8 @@ keywords:
   - qualitative research
 link: https://www.threadcounts.org/p/epistemic-voids-1-citation-theater
 date: 2025-11-30
+lang: en
+translation: epistemic-voids-cn/认知空隙_01_引用剧场.md
 ---
 
 # Epistemic Voids #1: Citation Theater

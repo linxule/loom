@@ -18,6 +18,8 @@ keywords:
   - anthropocentrism
 link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen
 date: 2026-03-08
+lang: en
+translation: organizational-futures-cn/后AGI组织II-十三种透镜.md
 ---
 
 ![Gossamer wireframe organisms glowing from within against a deep twilight sky, a solitary figure studying the luminous lattice above](images/post-agi-organizations-ii-thirteen-lenses.png)

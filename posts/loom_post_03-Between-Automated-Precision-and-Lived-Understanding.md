@@ -16,6 +16,8 @@ keywords:
   - intellectual craftsmanship
 link: https://www.threadcounts.org/p/loom-iii-between-automated-precision
 date: 2025-01-12
+lang: en
+translation: posts-cn/观阙_03_篇三_在自动化精准与生命经验之间.md
 ---
 
 # LOOM III: Between Automated Precision and Lived Understanding

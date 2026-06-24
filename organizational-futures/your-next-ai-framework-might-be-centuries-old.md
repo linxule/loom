@@ -13,6 +13,8 @@ keywords:
   - tailor workshop
 link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries
 date: 2026-01-20
+lang: en
+translation: organizational-futures-cn/你的下一个AI框架可能有数百年历史.md
 ---
 
 Last year I walked into a small tailor shop in London. I was following a question: how does handwork survive when machines can do it faster and cheaper? Not for the prestige story, I wanted to understand how they actually make it work. The coordination, the craft, the daily reality of competing with factories.

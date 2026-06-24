@@ -16,6 +16,8 @@ keywords:
   - dimensional navigation
 link: https://www.threadcounts.org/p/loom-ix-the-six-dimensions-of-understanding
 date: 2025-04-04
+lang: en
+translation: posts-cn/观阙_09_篇九_理解的六个维度.md
 ---
 
 # LOOM IX: The Six Dimensions of Understanding

@@ -16,6 +16,8 @@ keywords:
   - micro-organizations
 link: https://www.threadcounts.org/p/loom-x-the-whispered-agency
 date: 2025-04-15    
+lang: en
+translation: posts-cn/观阙_10_篇十_耳语的能动性.md
 ---
 
 # LOOM X: The Whispered Agency

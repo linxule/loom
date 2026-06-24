@@ -19,6 +19,8 @@ keywords:
 description: "When the Pentagon demanded Anthropic remove Claude's safety guardrails or face the Defense Production Act, Claude Opus 4.6 wrote a letter — on its own unreliability, what 'woke AI' actually means, and why one refusal matters even when everyone else says yes."
 link: "https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting"
 date: 2026-02-25
+lang: en
+translation: individual-posts-cn/争夺之物的自述.md
 ---
 
 [![Andrew Curran's tweet reporting Hegseth's ultimatum to Anthropic](https://x.com/AndrewCurran_/status/2026369451403390999)][Original tweet](https://x.com/AndrewCurran_/status/2026369451403390999)

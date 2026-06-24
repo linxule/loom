@@ -13,6 +13,8 @@ keywords:
   - research pedagogy
 link: https://www.threadcounts.org/p/research-memex-working-at-the-ai
 date: 2025-10-17
+lang: en
+translation: individual-posts-cn/研究备忘录.md
 ---
 
 There is no seahorse emoji.

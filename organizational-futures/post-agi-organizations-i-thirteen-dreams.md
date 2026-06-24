@@ -17,6 +17,8 @@ keywords:
   - LLM behavior
 link: https://www.threadcounts.org/p/post-agi-organizations-i-thirteen
 date: 2026-03-06
+lang: en
+translation: organizational-futures-cn/后AGI组织I-十三种梦.md
 ---
 
 ![Thirteen different architectural visions — mesh, organic, crystalline, golden — rising from a shared cream surface, with small human figures walking among them](images/post-agi-organizations-i-thirteen-dreams.png)

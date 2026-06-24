@@ -22,6 +22,8 @@ keywords:
   - Tuck conference
 link: https://www.threadcounts.org/p/seam-1-the-seventy-percent
 date: 2026-04-17
+lang: en
+translation: seam-cn/接榫SEAM_01_那百分之七十.md
 ---
 
 # SEAM #1: The Seventy Percent

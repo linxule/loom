@@ -13,6 +13,8 @@ keywords:
   - agentic research
 link: https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure
 date: 2026-03-05
+lang: en
+translation: research-with-ai-cn/AI研究手记_01_封闭性问题.md
 ---
 
 Most AI tools for research (or any knowledge production work) seem to optimize for the same thing: helping us become faster at finding what we already know to look for. Arguably this unlocks a lot of productivity and frees up more time (to do what exactly?).

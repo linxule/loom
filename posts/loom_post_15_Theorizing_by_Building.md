@@ -16,6 +16,8 @@ keywords:
   - interpretive orchestration
 link: https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018
 date: 2025-12-10
+lang: en
+translation: posts-cn/观阙_15_篇十五_造中成论.md
 ---
 
 # LOOM XV: Theorizing by Building

@@ -18,6 +18,8 @@ keywords:
   - 人类中心主义
 link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen
 date: 2026-03-08
+lang: zh
+translation: organizational-futures/post-agi-organizations-ii-thirteen-lenses.md
 ---
 
 ![深邃的暮色天穹下，纤丝般的线框生物体从内部散发微光，一个孤独的人影仰望着上方发光的网格](../organizational-futures/images/post-agi-organizations-ii-thirteen-lenses.png)

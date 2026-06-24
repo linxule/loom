@@ -16,6 +16,8 @@ keywords:
   - productive friction
 link: https://www.threadcounts.org/p/loom-v-the-third-space
 date: 2025-02-02
+lang: en
+translation: posts-cn/观阙_05_篇五_第三空间.md
 ---
 
 # LOOM V: The Third Space

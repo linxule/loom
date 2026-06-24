@@ -18,6 +18,8 @@ keywords:
   - 组织架构
 link: https://www.threadcounts.org/p/post-agi-organizations-iii-what-collaboration
 date: 2026-03-09
+lang: zh
+translation: organizational-futures/post-agi-organizations-iii-what-collaboration-becomes.md
 ---
 
 ![悬浮在蓝色暮光中大小不一、颜色各异的线框晶格形态，微小的人影站立其间，在巨大的尺度前显得微不足道](../organizational-futures/images/post-agi-organizations-iii-what-collaboration-becomes.png)

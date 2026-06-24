@@ -13,6 +13,8 @@ keywords:
   - 备忘录方法
 link: https://mp.weixin.qq.com/s/mok4DgU7uMyN3OawreNWQg
 date: 2025-11-08
+lang: zh
+translation: individual-posts/which-ai-tool-should-i-use.md
 ---
 
 # 到底用哪款 AI？给社科研究者的直球指南

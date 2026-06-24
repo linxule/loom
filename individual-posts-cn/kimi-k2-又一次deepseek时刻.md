@@ -12,6 +12,8 @@ keywords:
   - "AI 研究"
 link: "https://mp.weixin.qq.com/s/MA_6ma1YYR2eiPEEsDJsHQ"
 date: 2025-07-13
+lang: zh
+translation: individual-posts/kimi-k2-another-deepseek-moment.md
 ---
 
 ### 一种讲着我们尚未命名的「语域」的中国 AI

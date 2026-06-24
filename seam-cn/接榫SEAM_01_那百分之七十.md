@@ -23,6 +23,8 @@ keywords:
 link: https://www.threadcounts.org/p/seam-1-the-seventy-percent
 date: 2026-04-17
 series: 接榫SEAM
+lang: zh
+translation: seam/seam_01_the_seventy_percent.md
 ---
 
 # 接榫SEAM 篇一：那百分之七十

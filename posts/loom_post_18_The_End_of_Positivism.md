@@ -23,6 +23,8 @@ keywords:
   - AI qualitative coding
 link: https://www.threadcounts.org/p/its-the-end-of-positivism-as-we-know
 date: 2026-06-24
+lang: en
+translation: posts-cn/观阙_18_篇十八_实证主义的终结.md
 ---
 
 # LOOM XVIII: It's the End of Positivism as We Know It\* (and I Feel Fine)

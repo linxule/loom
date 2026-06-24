@@ -15,6 +15,8 @@ keywords:
   - 取态
 link: https://www.threadcounts.org/p/human-centric-ai-is-the-wrong-story
 date: 2026-01-22
+lang: zh
+translation: organizational-futures/human-centric-ai-wrong-story.md
 ---
 
 # "以人为本的AI"是错误的故事

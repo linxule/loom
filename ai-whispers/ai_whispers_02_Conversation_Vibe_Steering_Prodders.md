@@ -12,6 +12,8 @@ keywords:
   - dialogue techniques
 link: https://www.threadcounts.org/p/conversationvibe-steering-prodders
 date: 2025-07-05
+lang: en
+translation: ai-whispers-cn/AI耳语_02_对话氛围导航.md
 ---
 
 ### Keepin' the AI Engaged and Entertained

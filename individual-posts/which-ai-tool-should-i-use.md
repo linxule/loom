@@ -13,6 +13,8 @@ keywords:
   - memo method
 link: https://www.threadcounts.org/p/which-ai-tool-should-i-actually-use
 date: 2025-11-08
+lang: en
+translation: individual-posts-cn/哪款AI工具才对路.md
 ---
 
 # Which AI Tool Should I Actually Use? A No-BS Guide for Social Science Researchers

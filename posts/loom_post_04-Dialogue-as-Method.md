@@ -15,6 +15,8 @@ keywords:
   - collaborative evolution
 link: https://www.threadcounts.org/p/loom-iv-dialogue-as-method
 date: 2025-01-24
+lang: en
+translation: posts-cn/观阙_04_篇四_对话作为方法.md
 ---
 
 # LOOM IV: Dialogue as Method 

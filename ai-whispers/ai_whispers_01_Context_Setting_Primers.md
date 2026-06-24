@@ -12,6 +12,8 @@ keywords:
   - prompt design
 link: https://www.threadcounts.org/p/context-setting-primers-not-prompts
 date: 2025-07-04
+lang: en
+translation: ai-whispers-cn/AI耳语_01_情境入门.md
 ---
 
 ### Role-play Scripts for AI and You

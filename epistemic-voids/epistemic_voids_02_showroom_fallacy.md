@@ -14,6 +14,8 @@ keywords:
   - calculator fallacy
 link: https://www.threadcounts.org/p/epistemic-voids-2-showroom-fallacy
 date: 2025-12-02
+lang: en
+translation: epistemic-voids-cn/认知空隙_02_展厅谬误.md
 ---
 
 > The phrase that stopped me: "The only thing you can do is prompt it."

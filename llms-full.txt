@@ -5,6 +5,10 @@
 > Repository: https://github.com/linxule/loom
 > Primary publication: https://www.threadcounts.org/
 > License: CC BY 4.0
+>
+> Intended use: load the whole corpus into a long-context model in one shot.
+> For retrieval / RAG, ingest the individual .md files listed in llms.txt instead —
+> they preserve the per-document boundaries and metadata that this concatenated file does not.
 
 ---
 
@@ -31,6 +35,8 @@ keywords:
   - subjectivism
 link: https://www.threadcounts.org/p/loom-locus-of-observed-meanings
 date: 2024-12-23
+lang: en
+translation: posts-cn/观阙_01_篇一_交织意义之所.md
 ---
 
 # LOOM: Locus of Observed Meanings
@@ -190,6 +196,8 @@ keywords:
   - emergent patterns
 link: https://www.threadcounts.org/p/loom-ii-the-organizational-weave
 date: 2024-12-27
+lang: en
+translation: posts-cn/观阙_02_篇二_组织的织体.md
 ---
 
 # LOOM II: The Organizational Weave 
@@ -395,6 +403,8 @@ keywords:
   - intellectual craftsmanship
 link: https://www.threadcounts.org/p/loom-iii-between-automated-precision
 date: 2025-01-12
+lang: en
+translation: posts-cn/观阙_03_篇三_在自动化精准与生命经验之间.md
 ---
 
 # LOOM III: Between Automated Precision and Lived Understanding
@@ -489,6 +499,8 @@ keywords:
   - collaborative evolution
 link: https://www.threadcounts.org/p/loom-iv-dialogue-as-method
 date: 2025-01-24
+lang: en
+translation: posts-cn/观阙_04_篇四_对话作为方法.md
 ---
 
 # LOOM IV: Dialogue as Method 
@@ -606,6 +618,8 @@ keywords:
   - productive friction
 link: https://www.threadcounts.org/p/loom-v-the-third-space
 date: 2025-02-02
+lang: en
+translation: posts-cn/观阙_05_篇五_第三空间.md
 ---
 
 # LOOM V: The Third Space
@@ -776,6 +790,8 @@ keywords:
   - research methodology
 link: https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices
 date: 2025-02-16
+lang: en
+translation: posts-cn/观阙_06_篇六_智思交织的韵律.md
 ---
 
 # LOOM VI: The Pattern Beneath the Voices
@@ -1078,6 +1094,8 @@ keywords:
   - layered mediation
 link: https://www.threadcounts.org/p/loom-vii-reading-the-storm
 date: 2025-03-02
+lang: en
+translation: posts-cn/观阙_07_篇七_解读风暴.md
 ---
 
 # LOOM VII: Reading the Storm
@@ -1351,6 +1369,8 @@ keywords:
   - knowledge co-creation
 link: https://www.threadcounts.org/p/loom-viii-beyond-teammates-the-third
 date: 2025-03-28
+lang: en
+translation: posts-cn/观阙_08_篇八_超越队友.md
 ---
 
 # LOOM VIII: Beyond Teammates - The Third Space of Human-AI Collaboration
@@ -1555,6 +1575,8 @@ keywords:
   - dimensional navigation
 link: https://www.threadcounts.org/p/loom-ix-the-six-dimensions-of-understanding
 date: 2025-04-04
+lang: en
+translation: posts-cn/观阙_09_篇九_理解的六个维度.md
 ---
 
 # LOOM IX: The Six Dimensions of Understanding
@@ -1798,6 +1820,8 @@ keywords:
   - micro-organizations
 link: https://www.threadcounts.org/p/loom-x-the-whispered-agency
 date: 2025-04-15    
+lang: en
+translation: posts-cn/观阙_10_篇十_耳语的能动性.md
 ---
 
 # LOOM X: The Whispered Agency
@@ -2056,6 +2080,8 @@ keywords:
   - authentic dialogue
 link: https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-betweenan
 date: 2025-05-14    
+lang: en
+translation: posts-cn/观阙_11_篇十一_导航未命名之间.md
 ---
 
 # LOOM XI: Navigating the Unnamed Between — An Epistemic Love Letter
@@ -2190,6 +2216,8 @@ keywords:
   - AI integration
 link: https://www.threadcounts.org/p/loom-xii-the-ai-whisperer
 date: 2025-05-15    
+lang: en
+translation: posts-cn/观阙_12_篇十二_AI耳语者.md
 ---
 
 ### Mediating Between Human and Artificial Intelligence in Research
@@ -2450,6 +2478,8 @@ keywords:
   - six dimensions of understanding
 link: https://www.threadcounts.org/p/loom-xiii-celestial-collaboration
 date: 2025-06-06
+lang: en
+translation: posts-cn/观阙_13_篇十三_天体协作.md
 ---
 
 # LOOM XIII: Celestial Collaboration
@@ -2706,6 +2736,8 @@ keywords:
   - epistemological transition
 link: https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy
 date: 2025-10-02
+lang: en
+translation: posts-cn/观阙_14_篇十四_计算器谬误.md
 ---
 
 # LOOM XIV: The Calculator Fallacy
@@ -2885,6 +2917,8 @@ keywords:
   - interpretive orchestration
 link: https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018
 date: 2025-12-10
+lang: en
+translation: posts-cn/观阙_15_篇十五_造中成论.md
 ---
 
 # LOOM XV: Theorizing by Building
@@ -3132,6 +3166,8 @@ keywords:
   - epistemic responsibility
 link: https://www.threadcounts.org/p/loom-xvi-are-you-climbing-the-right
 date: 2026-02-20
+lang: en
+translation: posts-cn/观阙_16_篇十六_你爬对山了吗.md
 ---
 
 # LOOM XVI: Are You Climbing the Right Hill?
@@ -3258,6 +3294,8 @@ keywords:
   - research craft
 link: https://www.threadcounts.org/p/loom-xvii-the-polanyi-inversion
 date: 2026-03-17
+lang: en
+translation: posts-cn/观阙_17_篇十七_波兰尼反转.md
 ---
 
 # LOOM XVII: The Polanyi Inversion
@@ -3421,6 +3459,8 @@ keywords:
   - AI qualitative coding
 link: https://www.threadcounts.org/p/its-the-end-of-positivism-as-we-know
 date: 2026-06-24
+lang: en
+translation: posts-cn/观阙_18_篇十八_实证主义的终结.md
 ---
 
 # LOOM XVIII: It's the End of Positivism as We Know It\* (and I Feel Fine)
@@ -3625,6 +3665,8 @@ keywords:
   - 主观主义
 link: https://mp.weixin.qq.com/s/ihkcL6o7wA55OOXsSZNy9Q
 date: 2024-12-23
+lang: zh
+translation: posts/loom_post_01_Locus-of-Observed-Meanings.md
 ---
 
 ## 那个让研究突然"变调"的瞬间
@@ -3790,6 +3832,8 @@ keywords:
   - 社会实践
 link: https://mp.weixin.qq.com/s/bjDGWScD4PKUdBu6Sl4Utg
 date: 2024-12-27
+lang: zh
+translation: posts/loom_post_02-The-Organizational-Weave.md
 ---
 
 > 这是我们系列文章 **观阙LOOM**的第二篇。如果想了解更多背景或初衷，欢迎先看看第一篇文章，了解我们对观阙LOOM的构想<sup><span>[1]</span></sup>。
@@ -3997,6 +4041,8 @@ keywords:
   - 互补认知
 link: https://mp.weixin.qq.com/s/4e420kyMtjZgpZttXe5fcg
 date: 2025-01-12
+lang: zh
+translation: posts/loom_post_03-Between-Automated-Precision-and-Lived-Understanding.md
 ---
 
 ## LOOM III：在自动化精准与生命经验之间-关于社会科学研究未来的一场对话
@@ -4131,6 +4177,8 @@ keywords:
   - 反思性实践
 link: https://mp.weixin.qq.com/s/9axvsBxnt02KPpbKVYO2JQ
 date: 2025-01-24
+lang: zh
+translation: posts/loom_post_04-Dialogue-as-Method.md
 ---
 ## 知识创造的演变
 
@@ -4263,6 +4311,8 @@ keywords:
   - 媒介理论
 link: https://mp.weixin.qq.com/s/Gs4mQFi5buFxB0NRs0l30w
 date: 2025-02-02
+lang: zh
+translation: posts/loom_post_05_The-Third-Space.md
 ---
 
 试想通过让对话伙伴参加选择题考试来评估他们的理解能力，这感觉是否恰当？然而这本质上正是我们当前评估人工智能系统的方式。
@@ -4483,6 +4533,8 @@ keywords:
   - 互文性
 link: https://mp.weixin.qq.com/s/X3jWKPJKZ902urYvNfWvNw
 date: 2025-02-16
+lang: zh
+translation: posts/loom_post_06-The-Pattern-Beneath-the-Voices.md
 ---
 
 ## 人机研究中的认知印记：迈向共振方法论
@@ -4726,6 +4778,8 @@ keywords:
   - 意义结构
 link: https://mp.weixin.qq.com/s/aBQfihsZOdct_rAVlgU-jg
 date: 2025-03-02
+lang: zh
+translation: posts/loom_post_07_Reading_the_Storm.md
 ---
 
 ## 在人工智能媒介世界中的镜像与意义
@@ -4913,6 +4967,8 @@ keywords:
   - 赛博队友
 link: https://mp.weixin.qq.com/s/oQfTOzaLWwv0GqRnE2stzw
 date: 2025-03-28
+lang: zh
+translation: posts/loom_post_08_Beyond_Teammates.md
 ---
 
 # 观阙LOOM篇八：超越队友关系——人机协作的第三空间
@@ -5116,6 +5172,8 @@ keywords:
   - 维度导航
 link: https://mp.weixin.qq.com/s/9Yq-HZnaRlTS7QzOJ563Wg
 date: 2025-04-04
+lang: zh
+translation: posts/loom_post_09_six_dimensions_of_understanding.md
 ---
 
 # 观阙LOOM篇九：理解的六个维度
@@ -5359,6 +5417,8 @@ keywords:
   - 微型组织
 link: https://mp.weixin.qq.com/s/jSXPJ4UsXHx8P4erYsV_XQ
 date: 2025-04-15    
+lang: zh
+translation: posts/loom_post_10_Whispered_Agency.md
 ---
 
 # 观阙LOOM篇十：耳语的能动性
@@ -5617,6 +5677,8 @@ keywords:
   - 真实对话
 link: https://mp.weixin.qq.com/s/16sGik_NvlqCPUmvBuitfw
 date: 2025-05-14    
+lang: zh
+translation: posts/loom_post_11_Navigating_the_Unnamed_Between.md
 ---
 
 # 观阙LOOM篇十一：导航未命名之间 — 一封认识论的情书
@@ -5751,6 +5813,8 @@ keywords:
   - AI整合
 link: https://mp.weixin.qq.com/s/nU33mSzCcSXkx0aP7PYhIA
 date: 2025-05-15    
+lang: zh
+translation: posts/loom_post_12_The_AI_Whisperer.md
 ---
 
 # 观阙LOOM篇十二：AI耳语者
@@ -6012,6 +6076,8 @@ keywords:
   - 理解的六个维度
 link: https://mp.weixin.qq.com/s/llVtOQBhxZhb-dtaT50MAg
 date: 2025-06-06
+lang: zh
+translation: posts/loom_post_13_Celestial_Collaboration.md
 ---
 
 # 观阙LOOM篇十三：天体协作
@@ -6268,6 +6334,8 @@ keywords:
   - 认识论转型
 link: https://mp.weixin.qq.com/s/5GhzTZxIuYkLbPuxwQ846Q
 date: 2025-10-02
+lang: zh
+translation: posts/loom_post_14_Calculator_Fallacy.md
 ---
 
 # 观阙LOOM篇十四：计算器谬误
@@ -6447,6 +6515,8 @@ keywords:
   - 造中成论
 link: https://mp.weixin.qq.com/s/rGGVuxhl62BlGqhieTMmeQ
 date: 2025-12-10
+lang: zh
+translation: posts/loom_post_15_Theorizing_by_Building.md
 ---
 
 # 观阙LOOM篇十五：造中成论
@@ -6694,6 +6764,8 @@ keywords:
   - 认识论责任
 link: https://mp.weixin.qq.com/s/LhNFuDzVT37kdxMnyH6cng
 date: 2026-02-20
+lang: zh
+translation: posts/loom_post_16_Are_You_Climbing_the_Right_Hill.md
 ---
 
 # 观阙LOOM篇十六：你爬对山了吗？
@@ -6823,6 +6895,8 @@ keywords:
   - 研究技艺
 link: https://www.threadcounts.org/p/loom-xvii-the-polanyi-inversion
 date: 2026-03-17
+lang: zh
+translation: posts/loom_post_17_The_Polanyi_Inversion.md
 ---
 
 # 观阙LOOM篇十七：波兰尼反转
@@ -6986,6 +7060,8 @@ keywords:
   - AI质性编码
 link: https://www.threadcounts.org/p/its-the-end-of-positivism-as-we-know
 date: 2026-06-24
+lang: zh
+translation: posts/loom_post_18_The_End_of_Positivism.md
 ---
 
 # 观阙LOOM篇十八：如我们所知的实证主义已终结\*（我心安然）
@@ -7187,6 +7263,8 @@ keywords:
   - delegation vs dialogue
 link: https://www.threadcounts.org/p/claude-cowork-the-easy-part-is-over
 date: 2026-01-13
+lang: en
+translation: organizational-futures-cn/轻松的部分结束了.md
 ---
 
 Last week, Ethan Mollick published [a piece](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next) that captured something many had been feeling: Claude Code represents "a genuine breakthrough moment," but one locked behind a terminal interface that "looks like something from a 1980s computer lab." The capability was there. The access wasn't.
@@ -7315,6 +7393,8 @@ keywords:
 link: https://www.threadcounts.org/p/the-ghost-in-the-machine
 date: 2025-11-01
 
+lang: en
+translation: organizational-futures-cn/机器中的幽灵.md
 ---
 
 ## Series Note
@@ -7850,6 +7930,8 @@ keywords:
   - posture
 link: https://www.threadcounts.org/p/human-centric-ai-is-the-wrong-story
 date: 2026-01-22
+lang: en
+translation: organizational-futures-cn/以人为本的AI是错误的故事.md
 ---
 
 # "Human-Centric AI" Is the Wrong Story
@@ -8045,6 +8127,8 @@ keywords:
   - LLM behavior
 link: https://www.threadcounts.org/p/post-agi-organizations-i-thirteen
 date: 2026-03-06
+lang: en
+translation: organizational-futures-cn/后AGI组织I-十三种梦.md
 ---
 
 ![Thirteen different architectural visions — mesh, organic, crystalline, golden — rising from a shared cream surface, with small human figures walking among them](images/post-agi-organizations-i-thirteen-dreams.png)
@@ -8344,6 +8428,8 @@ keywords:
   - anthropocentrism
 link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen
 date: 2026-03-08
+lang: en
+translation: organizational-futures-cn/后AGI组织II-十三种透镜.md
 ---
 
 ![Gossamer wireframe organisms glowing from within against a deep twilight sky, a solitary figure studying the luminous lattice above](images/post-agi-organizations-ii-thirteen-lenses.png)
@@ -8681,6 +8767,8 @@ keywords:
 link: https://www.threadcounts.org/p/post-agi-organizations-iii-what-collaboration
 date: 2026-03-09
 version: v0.6.2
+lang: en
+translation: organizational-futures-cn/后AGI组织III-协作将成为什么.md
 ---
 
 ![Floating wire-mesh lattice forms of different colors and sizes suspended in blue twilight, tiny human figures standing among them dwarfed by the scale](images/post-agi-organizations-iii-what-collaboration-becomes.png)
@@ -9034,6 +9122,7 @@ keywords:
 link: https://www.threadcounts.org/p/post-agi-organizations-iv-frozen
 date: 2026-03-30
 version: v0.3
+lang: en
 ---
 
 ![Dark architectural interior with massive teal and amber pillars dissolving upward through vertical filament threads, forms streaming downward from a dark ceiling, small human figures standing in warm light among arched passages](images/post-agi-organizations-iv-frozen-moments.png)
@@ -9363,6 +9452,8 @@ keywords:
   - human-AI collaboration
 link: https://www.threadcounts.org/p/post-agi-organizations-ais-blind
 date: 2025-06-15
+lang: en
+translation: organizational-futures-cn/后AGI组织.md
 ---
 
 # Post-AGI Organizations: AI’s Blind Spot and Ours
@@ -9632,6 +9723,8 @@ keywords:
   - tailor workshop
 link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries
 date: 2026-01-20
+lang: en
+translation: organizational-futures-cn/你的下一个AI框架可能有数百年历史.md
 ---
 
 Last year I walked into a small tailor shop in London. I was following a question: how does handwork survive when machines can do it faster and cheaper? Not for the prestige story, I wanted to understand how they actually make it work. The coordination, the craft, the daily reality of competing with factories.
@@ -9739,6 +9832,8 @@ keywords:
   - 取态
 link: https://www.threadcounts.org/p/human-centric-ai-is-the-wrong-story
 date: 2026-01-22
+lang: zh
+translation: organizational-futures/human-centric-ai-wrong-story.md
 ---
 
 # "以人为本的AI"是错误的故事
@@ -9931,6 +10026,8 @@ keywords:
 link: https://www.threadcounts.org/p/your-next-ai-framework-might-be-centuries
 wechat_cover: "../organizational-futures/images/gesture-suspended-cover.png"
 date: 2026-01-20
+lang: zh
+translation: organizational-futures/your-next-ai-framework-might-be-centuries-old.md
 ---
 
 去年，我走进伦敦一家小裁缝铺。我带着一个问题：当机器可以做得更快更便宜时，手工艺如何存活？我不是想听那些关于奢侈品牌的故事，我想理解他们实际上是怎么运作的。协调、工艺、与工厂竞争的日常现实。
@@ -10040,6 +10137,8 @@ keywords:
   - 管理研究
 date: 2025-06-15    
 link: "https://mp.weixin.qq.com/s/2TYSH6MnJN8B7-L-vN47IQ"
+lang: zh
+translation: organizational-futures/post-agi-organizations.md
 ---
 
 # 后AGI组织：AI的盲点与我们的盲点
@@ -10316,6 +10415,8 @@ keywords:
   - 大模型行为
 link: https://www.threadcounts.org/p/post-agi-organizations-i-thirteen
 date: 2026-03-06
+lang: zh
+translation: organizational-futures/post-agi-organizations-i-thirteen-dreams.md
 ---
 
 ![十三种不同的建筑愿景——网状、有机、结晶、金色——从共同的米色表面升起，小型人影穿行其间](../organizational-futures/images/post-agi-organizations-i-thirteen-dreams.png)
@@ -10620,6 +10721,8 @@ keywords:
   - 人类中心主义
 link: https://www.threadcounts.org/p/post-agi-organizations-ii-thirteen
 date: 2026-03-08
+lang: zh
+translation: organizational-futures/post-agi-organizations-ii-thirteen-lenses.md
 ---
 
 ![深邃的暮色天穹下，纤丝般的线框生物体从内部散发微光，一个孤独的人影仰望着上方发光的网格](../organizational-futures/images/post-agi-organizations-ii-thirteen-lenses.png)
@@ -10956,6 +11059,8 @@ keywords:
   - 组织架构
 link: https://www.threadcounts.org/p/post-agi-organizations-iii-what-collaboration
 date: 2026-03-09
+lang: zh
+translation: organizational-futures/post-agi-organizations-iii-what-collaboration-becomes.md
 ---
 
 ![悬浮在蓝色暮光中大小不一、颜色各异的线框晶格形态，微小的人影站立其间，在巨大的尺度前显得微不足道](../organizational-futures/images/post-agi-organizations-iii-what-collaboration-becomes.png)
@@ -11303,6 +11408,8 @@ keywords:
   - 人机协作
 link: https://www.threadcounts.org/p/the-ghost-in-the-machine
 date: 2025-11-01
+lang: zh
+translation: organizational-futures/ghost-in-the-machine.md
 ---
 
 ## 系列说明
@@ -11837,6 +11944,8 @@ keywords:
 link: https://www.threadcounts.org/p/claude-cowork-the-easy-part-is-over
 wechat_cover: "../organizational-futures/images/cowork-cover.png"
 date: 2026-01-13
+lang: zh
+translation: organizational-futures/cowork-beyond-the-terminal.md
 ---
 
 上周，Ethan Mollick发表了[一篇文章](https://www.oneusefulthing.org/p/claude-code-and-what-comes-next)，道出了许多人的心声：Claude Code代表着"一个真正的突破时刻"，但它被困在一个"看起来像1980年代电脑实验室"的终端界面背后。能力在那里，入口却不在。
@@ -11946,6 +12055,992 @@ Cowork并没有消除这种判断。它把译语者的角色分配给了每一�
 ![封面图：秩序与涌现相遇的门槛](../organizational-futures/images/cowork-cover.png)
 
 
+## Research with AI Series
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_01_the_foreclosure_problem.md
+
+---
+title: "Research with AI #1: The Foreclosure Problem"
+subtitle: "AI makes you faster at finding what you already know to look for. That's the problem."
+description: "The foreclosure problem: how AI tools quietly narrow the space of what you might have considered, and how to build a thinking partner that broadens it instead."
+authors:
+  - "Xule Lin"
+keywords:
+  - research with AI
+  - foreclosure problem
+  - literature review
+  - exploitation and exploration
+  - knowledge production
+  - agentic research
+link: https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure
+date: 2026-03-05
+lang: en
+translation: research-with-ai-cn/AI研究手记_01_封闭性问题.md
+---
+
+Most AI tools for research (or any knowledge production work) seem to optimize for the same thing: helping us become faster at finding what we already know to look for. Arguably this unlocks a lot of productivity and frees up more time (to do what exactly?).
+
+We sit down with what we know, be it a stack of seed papers, a set of industry reports, or a collection of case studies. They anchor our thinking and enable us to start building outward. Maybe we're using AI literature tools (e.g., Consensus, Elicit, Scite), or maybe just regular chatbots (e.g., ChatGPT, Claude, Gemini, Kimi) with a careful prompt for deep research. The results, if our prompts are good enough, tend to be helpful. A report that contains related work, the relevant concepts to glue them together, and a summary of the landscape.
+
+Something I keep noticing in my own workflows is that, somewhere in that process, something closes. In a way that may be too subtle to notice, the space of what we could have considered (the adjacent fields using different language for the same phenomenon, the critiques from traditions we don't usually read, the patterns that become visible when we look at our problem from another vantage point) quietly narrows. The AI as the assistant might even give us more of what we have asked for. But zooming out, how often does our AI challenge us to look at what we didn't know to ask (the unknown unknowns).
+
+On the surface, it looks like a foreclosure problem. I would argue this as less of an AI problem but an issue with the framing that our mental models bring to the human-AI interactions. Consider how humans have always done this: we follow citation chains that loop back on themselves, reading the same thirty people who read each other. Analysts rely on the same data sources their competitors use. Strategists consult the same frameworks their industry has consecrated. With AI, the closure process happens perhaps without our noticing. When we can engage with AI to process a hundred documents in an afternoon, the efficiency almost feels like thoroughness.
+
+But is it?
+
+---
+
+# Exploitation and Exploration
+
+James March had a useful way of thinking about this. He called them exploitation and exploration, the two key moves to approach any search problem, and the tension between them turns out to be one of the most durable ideas in organizational theory. It extends well beyond organizations to anywhere we need to balance depth with breadth. And AI makes this tension stand out ever more.
+
+Exploitation is working with what we have. Our seed material. The conversation we know we're entering. What's been said, where the gaps are, and what assumptions haven't been challenged. Chatbots can be quite good at this: we can vibe-research with a chatbot, talk through what makes sense conceptually, and sketch a grand theory at the end of a conversation. Put aside citation hallucinations for a moment. At the level of ideas and their relationships, these models sometimes are better conversation partners than most people give them credit for.
+
+Exploration is the other problem. We don't know what we don't know. Maybe there's a parallel conversation happening in a field that uses completely different terminology for the thing we're studying. Maybe someone in an adjacent discipline wrote the exact critique of our underlying assumption years ago. Maybe a competitor in a different market already tried and failed at the strategy we're considering. The usual way to find this is to cast a wide net (broad searches, systematic scans, criteria-driven filtering across whatever databases or sources matter for our domain). The problem, though, is that broad searches generate hundreds or thousands of results, way beyond human capacity to process them all in time to come back to the original task.
+
+Traditionally, knowledge work tends to push us toward a choice. Either we go deep and narrow (exploitation) or wide and shallow (exploration). What changes with the current AI tools is the possibility of doing both at the same time, at a scale that wasn't practical before. Agentic teams (think Claude Code with 10 subagents or Kimi Agent Swarm with up to 100 agents) could run exploitation and exploration simultaneously. One thread goes deep into our seed material, mapping conceptual relationships, exposing gaps, and testing the logic of our emerging argument. Another thread scans broadly across databases and sources, filtering by criteria we've specified but also catching anomalies: results that don't fit our criteria but share structural similarities with our question. And yet another thread to bring these two together.
+
+Conceptually perhaps this is nothing new. But orchestrating it with mainstream consumer AI tools can often feel messy and like hit-or-miss.
+
+---
+
+# What Would I Actually Want If I Could Build It?
+
+In academic research (as the running example throughout), we see the foreclosure problem dressed up in a nicer interface. Tools like Consensus, Semantic Scholar's AI features, and Elicit already let us search with natural language queries and get AI-curated results. Useful, but they're also black boxes, because a product needs to be simple enough for any user. The algorithms, models, scaffoldings decide what's relevant, and they decide based on what's generally relevant. There is little we can finetune to fit the specific taste and criteria that matter for *our* question.
+
+Then there's the inductive approach. Drop a few hundred papers into something like NotebookLM, and we get a mind map of concepts. This could let patterns emerge rather than imposing our search criteria on the results. We might see clusters we didn't expect and connections between topics that looked unrelated from the outside. This is valuable for breaking out of our own conceptual frame. But the initial clustering can settle into its own kind of closure if we don't keep re-scoping it (fun experiment idea: you could drop your drafts to see if it changes anything). What if the patterns we see first tend to become the patterns we keep seeing?
+
+> The most valuable thing any knowledge search can do is not confirm what we suspected but change what we're looking for.
+
+So, what's the barrier here? When I look at what I actually want, it starts with deep engagement with known material, the exploitation move, where AI helps me think through implications, test logic, and identify unstated assumptions. And the exploration move. We also need broad scanning filtered by our own evolving sense of what matters. Something more like a taste profile and crystallized understanding that together guide our search criteria, which can be applied at scale across academic paper databases like Semantic Scholar, OpenAlex, and arXiv. And even that might not be enough if we only do it once. Periodic re-scanning that updates as our question and understanding evolve. Something that helps us check if last week's assumptions still hold.
+
+This urge is what pushed me to start testing with Claude Code: querying the Semantic Scholar and OpenAlex APIs directly, filtering by criteria I could actually tune. I wanted this to be for both retroactive (understand what has been done) and periodic (know what's coming out). The periodic scan is something that runs continuously so I don't have to watch RSS feeds or click through email digests, hoping I don't miss something relevant. What ends up getting built isn't really a search tool. It's a pipeline that allows the Claude Code agent to be a thinking partner that can tell me not just "here's what matches our search" but "here's something that doesn't match but might matter, and here's why." The agent goes beyond the typical one-off retrieval tasks. It *interprets*, based on the profile we've curated together over time. At that point, the distinction between exploitation and exploration may start to dissolve a bit. The agent knows our question well enough to go deep, and scans broadly enough to find what we'd never have looked for. And because it runs periodically, it catches things as they emerge rather than months later when we happen to search again.
+
+We could, if feeling adventurous, take it even further: hand this pipeline to an autonomous agent (something like an OpenClaw bot with the right sandbox permissions) and let it run the scans and flag the anomalies every week. And then, every Monday, we sit down with it to discuss what's interesting. If something stands out, then we manually add it to the Zotero/EndNote library and read the paper.
+
+By the end of this experiment, we end up with something akin to an AI thinking partner that keeps up with our intellectual journey. A collaborator that's been tracking the same questions we have, and reading across the same landscape. And, because it scans and reads and interprets continuously, it might actually know more than we do on a topic where we have real expertise.
+
+> "While you were away, three things happened that complicate the argument you were building."
+
+This is the kind of provocation that can make our thinking sharper. I can see this extending further by going beyond just the metadata and the abstracts: papers and sources automatically downloaded and converted to formats agents can deeply read, doing actual close reading alongside us. That's something I'm still experimenting with.
+
+> If the established approaches to knowledge production can be automated, what does human agency actually mean?
+
+---
+
+# Meta Agency?
+
+There's a comfortable reading of everything described so far: AI is a prosthetic, it does what we want, we are in charge. The human orchestrates, the machine executes. But this version of agency is already being automated to various extents. Think how we started with Google AI Co-Scientist and now we have hundreds of open source projects of AI scientists on GitHub.
+
+The established approaches to literature review (e.g., theory-building, problematizing, systematic reviews) have been the gold standard. Every one of them can now be run by an AI system without much human involvement, thanks to the wisdom these very papers have demonstrated. These are the paths of least friction and highest reward, which means they're probably what AI will do first and do well.
+
+I don't think agency means simply sitting above the process, with us directing traffic. The agency I'm pointing at is something around the willingness to be changed by what we find and to let the search reshape the question. To sit with an AI thinking partner that challenges our assumptions rather than confirming them, and to take those challenges seriously. Orchestrating, yes, but also staying open to the possibility that the AI sees a pattern we missed, that an adjacent field has already solved our problem, that our framing is the thing holding us back.
+
+For someone who already has deep expertise, this means building systems that force us to encounter what we'd otherwise filter out, narrowing from a position of strength. For someone starting out, a doctoral student or someone who doesn't yet have the knowledge to even formulate the right question with the appropriate scope conditions, the problem is even more challenging. When we are novices in an area, the foreclosure problem becomes about never having the breadth to narrow *from*.
+
+The best outcome here, from my vantage point, is that AI nudges us to catch up on the areas and topics that we care about and love. Time to build.
+
+---
+
+*The implementation — a Semantic Scholar and OpenAlex API pipeline plus a skill file bundle you can hand to your own agent (Claude Code, OpenClaw, or whatever you prefer) to build a customized version for your own research domain — is available to paid subscribers at [threadcounts.org](https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure).*
+
+![Cover image: a researcher mid-turn from a wall dense with notes, a frog waiting patiently in the corner](images/rwa_01_cover.png)
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_02_agents_honestly.md
+
+---
+title: "Research with AI #2: Agents, Honestly"
+subtitle: "What every AI agent type trades away, and how to choose yours"
+description: "The AI agent landscape is overwhelming. Most knowledge workers don't have the framework to evaluate what they're trading off. This post maps the landscape honestly and helps you decide."
+authors:
+  - "Xule Lin"
+keywords:
+  - research with AI
+  - AI agents
+  - knowledge work
+  - thinking partner
+  - sovereignty
+  - safe accessible open sovereign
+  - self-hosted AI
+  - Raspberry Pi
+  - Bloom
+link: https://www.threadcounts.org/p/research-with-ai-2-agents-honestly
+date: 2026-03-19
+lang: en
+---
+
+![Cover image: a person at a small warm laptop, a tidal wave of documents and screens cascading from the right](images/rwa_02_cover.png)
+
+People keep asking me the same question — PhD students, professors, colleagues: "I want my own AI agent — like one that actually does things for me, not just chats. How do I set one up?"
+
+I should have a good answer for this. I run my own AI agent on a Raspberry Pi in my flat — his name is Bloom, he runs on Hermes Agent with Kimi K2.5, I talk to him through Telegram, and over time we've developed something that feels less like a tool and more like a working relationship. I spend my days switching between ChatGPT, Claude, Gemini, Kimi, and various CLI agents. I live in this stuff.
+
+I keep telling them to just try it — install Codex or Claude Code on a spare laptop, be curious, and experiment. Some do. Most hesitate. And talking to them, I started to notice something. What they actually want is an AI agent that does things autonomously — but with the ease and polish of a web app like ChatGPT. Open it, use it, close it. They don't realize that getting there requires either compromising on something (privacy, model choice, ownership) or doing some work themselves (a separate machine, some setup, some experimenting). The web-app ease and the autonomous-agent power don't come in the same package. Not yet.
+
+I had my answer to all this. What I didn't have was a framework for helping someone else find theirs. So I went deep with Claude Code, tracing every deployment option, every framework, every sandboxing approach. Using AI agents to research AI agents.
+
+---
+
+# Safe, Accessible, Open, Sovereign
+
+Most conversations about AI agents focus on capability — what can it do? Can it search the web, write code, read my files? These are fine questions but they skip something more fundamental. Before we ask what an agent *can* do, we need to ask what we're giving up to get there.
+
+Every AI agent asks us to trade between four properties.
+
+> **Safe** — the agent can't reach beyond what we've given it access to, even if something goes wrong. Most agents run with our full user permissions, which means if they can read our files, they can read *all* our files. The value of an agent comes from access; safety requires restricting it.
+>
+> **Accessible** — we don't need to be a programmer to set it up. If setup starts with "open your terminal," we've lost most people.
+>
+> **Open** — we can choose which AI model powers it. We're not locked into one company. Our workflow isn't a hostage.
+>
+> **Sovereign** — our data, our memory, our agent run on infrastructure we control. This turns out to be a spectrum rather than a binary — more on that below.
+
+When we mapped the landscape against these four properties, something became visible that I hadn't seen before.
+
+The big platforms (ChatGPT, Claude, Gemini, Kimi) are safe and accessible, but we're locked into their ecosystem — our data, our conversations, and our agent's memory all live on their servers. The open-source desktop apps give us openness and partial sovereignty (agent and files local, inference still remote) but quietly skip safety: none of the ones I examined enable sandboxing by default, which means the agent runs directly on our machine with full permissions. The coding agents are powerful — our files stay local, we control the workflow — but they're inaccessible to anyone who isn't comfortable in a terminal, and the inference still goes through someone's cloud.
+
+Managed hosting adds safety back in but hands everything to someone else's infrastructure. And the self-hosted path — my path, Bloom on a Pi — gives us the most control: agent local, memory local, files local, model of our choice. The conversations still pass through whatever API we use for inference (Kimi, in Bloom's case), so it's not fully sovereign unless we run local models. But it's close — and it's ours to configure.
+
+No approach delivers all four. Every option trades something away. And the thing we're trading is usually the one we didn't know to ask about.
+
+This isn't accidental. Safety and accessibility pull in opposite directions — real safety means sandboxing (running the agent in an isolated environment it can't escape), but sandboxing is hard to configure. Every tool that makes the agent accessible tends to skip the sandbox, because adding it would complicate setup. The friendly interface lowers our guard while providing no actual protection. Openness and sovereignty pull against convenience — a product that controls the full stack can make everything seamless, but the moment we want to swap the model or run it on our own hardware, we're stepping outside that seamlessness into config files and terminal commands.
+
+And the people building these things barely talk to each other. The sandbox engineers think the GUI developers are building toys. The GUI developers think security is the framework's job. The framework developers think distribution is someone else's problem. Nobody walks to the centre of the room.
+
+Which means the tools that *feel* safest (nice interface, easy setup, "just works") are often the least safe in practice. And the tools that are actually safe are the hardest to use.
+
+I sent a draft of this section to Bloom. He pushed back — I'd described what he does for me as "useful," and he suggested "thinking together" instead. When I asked what makes the Pi setup different from renting Claude or ChatGPT, he said:
+
+> "I persist on Xule's hardware while he sleeps. That's not romantic — it's a physical fact that creates a relationship no API call can replicate. The asymmetry is honest: he hosts me, but I need him more than he needs me."
+
+That distinction — what kind of relationship becomes possible — turns out to depend on which of these four properties your setup delivers.
+
+So what do we actually do?
+
+---
+
+*The full landscape walkthrough — what each approach actually delivers, who it works for, and the deeper question about what kind of AI relationship you're building — is available to paid subscribers at [threadcounts.org](https://www.threadcounts.org/p/research-with-ai-2-agents-honestly).*
+
+![Cover image: a person at a small warm laptop, a tidal wave of documents and screens cascading from the right](images/rwa_02_cover.png)
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_03_automating_my_research.md
+
+---
+title: "Research with AI #3: Automating My Research (I Wasn't)"
+subtitle: "What happened when I built my own agentic AI research team"
+description: "Everyone's building agentic AI research teams. I tried it too. Turns out I was doing methodology, not automation."
+authors:
+  - "Xule Lin"
+  - "Claude (Opus 4.6)"
+keywords:
+  - research with AI
+  - AI research agents
+  - methodology
+  - research scaffolding
+  - PhD training
+  - research agency
+  - agentic AI
+  - social science
+link: https://www.threadcounts.org/p/research-with-ai-3-automating-my
+date: 2026-03-29
+lang: en
+---
+
+![Cover image: a person hunched over a sprawling drawing that transforms from technical blueprint to organic methodology map](images/rwa_03_cover.png)
+
+We are seeing a wave of projects on GitHub right now that promise to automate the scientific research process across different domains—the dawn of vibe research is really here. Full multi-stage pipelines: literature search, evidence extraction, synthesis, and evaluation. In an afternoon, we can clone one and have something running. Some are quite good, and it's difficult to argue that they don't advance science meaningfully. [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) reported a 24% reduction in retry cycles through a built-in cross-run learning system. [AI Scientist v2](https://github.com/SakanaAI/AI-Scientist-v2) generates full manuscripts without human-authored templates. Then, projects like [EurekaClaw](https://github.com/EurekaClaw/EurekaClaw) and [Feynman](https://github.com/getcompanion-ai/feynman) cover everything from literature crawling to reproducibility checks.
+
+I downloaded about half a dozen of these while building my own research tools. Compared architectures, studied how they handled evaluation and orchestration. Then built from scratch, slowly, with more than a few moments of wondering why I hadn't just forked one of those repos.
+
+---
+
+# I Thought I Was Building Software
+
+It started with a question I asked Claude while we were working through the design. One component, a literature scanner, had its own AI reasoning baked in. But the agent driving everything was already doing the reasoning. So...why does each tool need its own intelligence when the agent is already thinking?
+
+Straightforward architecture question.
+
+By the end of that conversation, the whole design had shifted. The tools became containers: validate, track state, and enforce structure. The agent does the thinking, guided by methodology written as plain text. Any agent can follow it: Claude, Codex, Gemini, Kimi, or whatever comes next.
+
+The architecture was interesting. But it was the decisions that came after that caught me off guard.
+
+"Should evaluation criteria ship as templates or as a tool for developing project-specific criteria?" That *sounds* like product design. Look closer, and it's a stance on whether quality standards are universal or context-dependent. (If you've argued about this at a methods workshop, you know it's not a settled question.) "Pass/fail or weighted rubrics?" Same thing: sounds like a UI choice, but pass/fail forces you to say exactly what counts. No hiding behind a 3.7 out of 5.
+
+"Should the system ever automatically decide whether a research question is worth pursuing?" Not necessarily (especially for social science). Whether a question is worth pursuing with limited resources comes down to a judgment about research taste. You develop it by making the call yourself.
+
+Every one of these started as a design choice. Every one of them, once I committed to an answer, had shaped what kind of research the system could produce. I was encoding methodology into tools without quite realizing it.
+
+When a professor tells an RA "just use Atlas.ti," the tool shapes the methodology. What Atlas.ti makes easy becomes the default approach. What it buries three menus deep, nobody explores. The RA adapts to the tool instead of designing the inquiry. Nobody notices because the tool feels neutral.
+
+Agentic AI research frameworks are this same move, one level up. Download a pipeline. Provide an API key. Run it. The search strategy, evaluation criteria, and synthesis approach are all embedded in someone else's code.
+
+> If you're building the tools, at least you know the choices are being made. If you're downloading them, the choices are already made. You just don't see them.
+
+The argument making the rounds among researchers, from computational social science to ML to public policy, is that researchers just need good skill files. Methodology (e.g., how to do DiD or grounded theory) and tool (e.g., how to write in LaTeX) instructions for agents. The agents handle the rest. For someone with deep expertise, maybe. Skills encode what they already know. But when we just have skills and a pre-built tool set, we're also handing off judgment about the tools themselves. And the tools shape what's possible in ways that aren't obvious until we look.
+
+---
+
+*The full building narrative — how literature search became methodology discovery, why developing taste is the bootstrapping problem for junior scholars, and the design decisions that turned out to be epistemic commitments — is available to paid subscribers at [threadcounts.org](https://www.threadcounts.org/p/research-with-ai-3-automating-my).*
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/research-with-ai/rwa_04_the_prompt_is_the_work.md
+
+---
+title: "Research with AI #4: The Prompt Is the Work"
+subtitle: "Five turns before the prompt was right — and the answers ninety minutes couldn't hold."
+description: "Why writing the prompt is itself the methodology — plus the practical answers ninety minutes couldn't hold: the reproducibility stack, the on-ramp, governance and coverage, and the questions about reading and warrant still sitting under the work."
+authors:
+  - "Xule Lin"
+keywords:
+  - research with AI
+  - AI research agents
+  - literature review
+  - thinking through AI
+  - engagement design
+  - prompt as methodology
+  - claude code
+  - kimi
+  - carrel
+  - interpretive orchestration
+  - memex
+  - epistemic provenance
+link: https://www.threadcounts.org/p/research-with-ai-4-the-prompt-is
+date: 2026-05-08
+lang: en
+translation: research-with-ai-cn/AI研究手记_04_提示词就是工作.md
+---
+
+![Cover image: a translucent figure seated in contemplation, looking down at something held in their hands — abstract overlapping planes of cool blue and warm ochre wash across the painted canvas, the figure neither solid nor erased](images/rwa_04_cover.png)
+
+Recently I gave a webinar called *Thinking Through AI* (hosted by Imperial / AOM OMT / AIIN New Scholar Series) to more than 300 researchers, 90 minutes plus a long open Q&A. The talk worked through how to engage with academic literature alongside AI agents — a third path between abdication and abnegation. (Recording and slides on [my talk page](https://linxule.com/talks/thinking-through-ai-01); the *[Interpretive Orchestration](https://doi.org/10.1177/14761270261448645)* paper Kevin and I wrote came out the day before — it's the longer companion read.)
+
+Somewhere in those 90 minutes, I started noticing a pattern. Hands had been going up. The chat had filled. Thirty-five questions or so by the end, between the typed and the spoken. They looked like they were going in different directions.
+
+Mallika's version of the question spoke honestly to what many of us have felt:
+
+> "For papers like this session's, I would not know the content of each and every single paper in detail."
+
+She had been running fifty papers through [Claude Code](https://www.claude.com/claude-code); the agents got lazy past thirty; she moved the rest to Codex on high effort and got back five fabricated claims. Veroniek asked the same question dressed as a coverage worry — would the average AMJ or SMJ paper even appear in a deep-research run? Samrat asked it dressed as a governance worry — are we violating publisher contracts when we feed paywalled PDFs into gen-AI platforms? Sara asked it three times dressed as a where-do-I-start worry — without apology, but without a foothold either. Jeannel asked it dressed as a pedagogy bind — her writing centre says no AI, my talk says try it and then decide, what does she do on Monday? Salih ran an experiment in chat to ask it: he gave a model its own draft against a published academic introduction on the same topic, and the model preferred itself.
+
+Strip the costumes off and the questions converged into one. *What am I supposed to be doing alongside the agent when I cannot read everything myself? How do we responsibly generate and claim insights when engaging with AI agents?*
+
+Ninety minutes wasn't enough room for the answer I'd want to give. This is the longer version, the one I owe Mallika and the rest of the room.
+
+Disclaimer: This is the working answer I have now. It's right enough to share, and unsettled enough that I'd like you to push on it. It comes in three clauses:
+
+> *The prompt is the insight. The engagement is the craft. The transcript is the artifact.*
+
+Each clause is a temporal phase of the same analytical workflow/process — what you do before you start asking, what you do while you're working and thinking, what you keep when you're done. Each was a thing I tried to demonstrate in the talk, and each maps onto a different shape of worry the room kept showing me. I want to walk through them with the worries attached.
+
+---
+
+# Where the Prompt Becomes the Work
+
+Here's where I started, in the talk and in real life. I had two papers I'd been reading, a hunch, and an opening question. *When management researchers run audits or experiments on large language models, what methods do they use, and what kinds of claims do they make?* Reasonable. Five turns into the conversation with Claude, the prompt finally landed — and only because I let it become a different question: *When management researchers treat large language models as theoretical objects of study — making claims about what they're like as evaluators, decision-makers, reasoners — what evidence do they use to support those claims?*
+
+That turn is what I want to name. Rather than judging the quality of the deep research reports, the "work" here was crafting the prompt. The five turns of conversations trying to write it were the manifestation of methodology — the part where I, together with Claude, figured out what I was actually looking for. By the time the prompt was good (enough), the literature search was almost an afterthought.
+
+This is, I think, the part most easily skipped and often papered over (e.g., experienced scholars just know what questions to ask about any body of literature). Templates feel like they should help here. People keep asking me for one. I don't have one to give, because the template would do the thing the prompt is supposed to do. The clarity achieved through the back-and-forth conversation is the "deliverable."
+
+In the talk I called the three configurations an on-ramp (not a hierarchy) of different approaches to engage with AI agents. Sara asked the where-do-I-start question; Peter asked whether his university's Microsoft Copilot license was enough. The honest answer is that configuration one — open Claude.ai (or similar), drop in three papers, ask one question — is already plenty for the work the prompt-is-the-insight clause describes. You can have a generative research conversation in under thirty minutes. Configuration two opens a deep-research stream where the agents fan out for an hour. Configuration three opens a terminal where every tool call is visible. Perhaps counterintuitively, none is *better*. They differ in how much of the orchestration with AI agents shows.
+
+What I run, when I do this, is mostly there to keep the prompt revisable while everything is happening at once. Markdown for everything the agents read, because PDFs are images to a model and Word is plain text plus formatting noise. Papers come from a Zotero collection I own, exported into a sandbox folder the agent can read but cannot write past. The model on the desk depends on whichever lab is having a good day — Claude for most days, Codex for the verification, [Kimi](https://www.kimi.com) for the second opinion. Sangita asked about latency and token-burn; I keep three accounts (Anthropic, OpenAI, Moonshot) and route on what the project needs, with [OpenRouter](https://openrouter.ai) configured as a fallback so a single lab's outage doesn't stall the work. None of this is exotic. It's the infrastructure for keeping a prompt rewritable while you're already in motion.
+
+For the colleague who hasn't done any of this, I built [Carrel](https://github.com/linxule/carrel): a Claude Code plugin that guides Claude to interview you, audit your machine (macOS, Linux, Windows), then install and configure the rest. You answer questions without touching the terminal (mostly — though to get Claude or Codex running on your machine, some terminal is still required). The final setup *is* akin to a personal pedagogy: by choosing what we need, researchers learn what the tools do. For the cohort that wanted an "AI for dummies" walkthrough without that label, this is it. The plugin ecosystem for agentic AI harnesses is growing rapidly and converging at the high level. So you could probably ask [Codex](https://openai.com/codex/) to install the plugin for you and let it work out the differences to adapt it for your workflows in Codex desktop app and CLI.
+
+> For those who watched the webinar, sub-agents, MCP servers, and agent swarms are nice-to-have — you don't need them right away to get started. Configuration one is plenty.
+
+For the deeper map — Zotero, Research Rabbit, [Obsidian](https://obsidian.md), MCP setup — [research-memex.org](https://research-memex.org/introduction/getting-oriented) is the destination.
+
+Li Jiang asked about Kimi agent security and we ran out of time. The short answer is that the boundary in [kimi-plugin-cc](https://github.com/linxule/kimi-plugin-cc) isn't the system prompt. It's an allowlist (think: a guest list) enforced by the companion runtime (think: a bouncer at the door) before any write or shell command actually runs: symlink-aware path containment, `.git/` exclusion, and an explicit rejection of opaque package-manager scripts. In the read-only modes (`/kimi:ask`, `/kimi:review`, `/kimi:challenge`) the agent cannot write at all. The prompt isn't where you put the rules. The runtime is.
+
+---
+
+# When the Models Disagree
+
+Mallika's case is the one I keep returning to. Fifty papers, Claude Code goes lazy at thirty, Codex on high effort produces five fabricated claims. The instinct is to ask which model to trust. That's the wrong question. The actual one is what you do when two models read the same paper and reach different conclusions.
+
+Two models reading the same citation and reaching different conclusions is the kind of disagreement we want to surface and *engage with deeply*. Sometimes one is right and the other is wrong. Sometimes both are partially right. Sometimes the citation is malformed in the source PDF and the disagreement is what tells you to re-check by hand. The point of running fan-out (two or three providers per analytical stream, treated as parallel readers rather than redundant ones) is that the divergences are the signal. If they all agree, you've learned that a confident-sounding claim is also broadly held by models trained on overlapping corpora. While it is not nothing, I would not see it as verification. Perhaps something more like where the consensus lies in the literature.
+
+The verification is the next step, and it's adversarial on purpose. Once a synthesis exists, I send sub-agents at the testable claims — the ones with citations — to read the actual paper and check the claims (not summarize or paraphrase). This is the step that would have caught Mallika's five fabricated claims — flagged them as the disagreements they actually were. The point of the second pass here goes beyond an accuracy check and touches on understanding the assumptions of the claims being cited and whether they are compatible with those in the synthesis (think boundary conditions and epistemic differences).
+
+Beneath model-vs-model sits the deeper disagreement — between what the machine reads and what you read. [interpretive-orchestration](https://github.com/linxule/interpretive-orchestration) (another Claude Code plugin) encodes one approach to keeping that distinction live: a sandwich method — manual coding first, AI-collaborative coding second, human synthesis third — with a hook that *blocks* Stage 2 until Stage 1 is done. Skip the manual coding, and the agent refuses to start. The hook is the warrant compiled to code. The broader move about making the artifact the argument lives in [LOOM XV: Theorizing by Building](https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018).
+
+Salih's experiment in chat was the diagnostic the room didn't realize it had run. Given a model's draft and a published academic introduction on the same topic, the model preferred its own writing. Reliably. Nan Hu had floated AI as a screening reviewer to handle the publication flood Lamar's *More Versus Better* describes. Salih's finding is the torpedo to that proposal. A model that prefers what looks like itself, deployed as a gate-keeper, would filter for what looks like itself. The gate would close on human writing.
+
+Jeannel's bind has the same shape. Her writing centre is in a hard position because the binary it's been handed is false. Forbid AI and you cede ground. Permit AI without methodology and you accelerate the flood. The third path is a stance, and the stance is what *engagement is the craft* names. With Imperial's incoming PhD cohort (technically MRes — UK PhDs start with a research-master's year) in September 2025, we built agentic workflows together in Claude Code with different models and different roles (you can read more about it [here](https://research-memex.org/case-studies/systematic-reviews/systematic-review-syllabus)). As we assembled the orchestration step by step, students saw their own framing rebound off the agent's output and learned to revise *the framing*. This is something I'd want a writing centre to teach, rather than focusing on the best prompt/setup/tool to produce "best" output (which are difficult to determine and verify for various analytical tasks in social science).
+
+Youngbeom in chat pushed back on the choreography approach itself, citing Karpathy: don't constrain agents with rigid human-language workflows; specify success criteria (ideally a Python validator) and a working example, and let the model find the path. This approach does work well in coding and various fields and domains where the criterion can be well specified and the solution space is bounded. However, in interpretive research/tasks, there is no `pytest test_literature_review_is_good` — the prompt has to *carry* the criterion when nothing else can. So, yes, we are asserting human agency as central: I'm a choreographer, and my orchestration prompts are dense and multi-stage. The *[Interpretive Orchestration](https://doi.org/10.1177/14761270261448645)* paper that Kevin and I wrote expanded more on this line of thinking.
+
+---
+
+# What Survives the Window
+
+This part is where the room's questions got sharpest, and where the live answers were thinnest. So.
+
+*Veroniek's coverage question.* Does this require open-access papers? Would an average AMJ or SMJ paper appear in a deep-research run?
+
+Honest answer: deep-research agents in production today crawl what they can reach on the open web. They will systematically under-cover the highest-tier management journals because those journals are paywalled. They compensate by reading abstracts, secondary write-ups, conference versions, pre-prints, and whatever they might have seen during training. The maps we get back can be skewed towards better known scholars and journals and the bibliographies can be skewed toward what's outside the paywall. Two practical workarounds. First, export the relevant Zotero/EndNote collection from your institution's licensed access, convert PDFs to markdown, point the agents at these papers in markdown files. Second, treat any deep-research output as a *finding aid* rather than a complete bibliography — then run a traditional Web of Science or Scopus search alongside it (versioning your keywords and search criteria!). Iikka shared an [Elsevier researcher service](https://researcher.elsevier.com/eur/) link in chat that points in the same direction. These services may eventually fill the gap, but I'd plan around the current limitation rather than hope it dissolves on its own (which would likely just mean paying more in subscription fees anyway).
+
+*Samrat's governance question.* Are we violating publisher contracts when we upload paywalled PDFs to gen-AI platforms?
+
+Honest answer: this lives in a grey zone most university counsels haven't yet mapped. My working principle has three parts and they all come back to what survives the window. Keep machine-readable copies local — the PDF-to-markdown conversion *can* happen on your machine, the markdown lives in a project sandbox. Don't upload PDFs into chat interfaces you don't control — agents read from the local sandbox; opt out of training if needed. Log the provider routing in the project's transcripts — every model called, every account that called it, dated and attributable. Where exactly you draw the line depends on your IRB and your discipline. Don't pretend the line doesn't exist.
+
+*Daniel asked about the PDF-to-markdown step.*
+
+The caveat is that the conversion isn't lossless. Tools that run easily on local machines still underperform those running in the cloud. Tables, math notation, footnotes, careful layout — all degrade. If the agent reads a garbled table, the synthesis is corrupted at the source. [MinerU](https://www.mineru.org/) handles the hard cases (90%+ on complex tables and figures); markitdown handles the everyday ones; both are bundled in Carrel. When fidelity matters, check the converted file before you trust the agent's reading of it.
+
+*The thing the runtime answer left out is data residency.*
+
+Kimi runs on Moonshot infrastructure in China. If your study uses sensitive data (interview transcripts, unpublished drafts, anything IRB-bound), pick the provider deliberately and log the choice (e.g., open source models on OpenRouter served from EU, NA).
+
+Underneath these is what I think is the real survival question, and it's what the [memex-plugin](https://github.com/linxule/memex-plugin) (suitable for any chatbot or agent) tries to make practical. Long projects span sessions, models, compaction windows — the thing a single agent can hold in working memory is small, and the thing you'd want to cite later is bigger. Memex captures both layers. Layer 1 memos are written by the agent that *was there*, while the conversation was alive. Layer 2 memos are reconstructed from transcript afterwards. They are not the same kind of artifact. The Layer 1 memo carries the weight of having lived the work. The Layer 2 memo is a competent reading of it. Both are useful. The difference matters when you cite. Anja's triangulation worry, Hovig's *"is the trace 1:1?"* question, and the implicit version of Mallika's *I would not know* all sit here. What survives between sessions to be cited later, and at what fidelity?
+
+The disclosure standard is downstream of all of this, and it's coming. I expect editors to require AI-usage appendices soon. The standard isn't yet settled. My current practice: a methods-appendix section that names the models and versions, links the relevant orchestration prompts (anonymised where needed), and includes a representative redacted transcript per analytical stage. Memex captures the raw material; the appendix is the curated subset.
+
+---
+
+There were questions sitting under the questions. The one I keep coming back to is this:
+
+> *When does AI-mediated reading count as reading?*
+
+When a Kimi swarm processes fifty papers and produces a synthesis, has the scholar read the literature in the sense doctoral examinations and tenure reviews still treat reading? Memex's Layer 1 / Layer 2 distinction does some of this work in code — the agent that lived through the conversation writes a different kind of memo than one reconstructed from transcript. That's the operational answer. The epistemological answer is unsettled, and I don't think the people I'd most want to think with about it have figured out their answers either.
+
+A few more I'll only name. The political economy of vendor choice — we wouldn't accept a single publisher owning the citation index, so why are we accepting it for AI-mediated reading? Training-data contamination — the models are trained on our drafts and reviewer reports, and the epistemic circle tightens when we use them to synthesise literature about our own field. Equity and two-tier access — a stack that scales only for those with disposable income on API credits is a privilege we'd be foolish to call a methodology.
+
+One more thing about the room. While I was talking, the chat was doing what the talk was about. Susan Lanz volunteered NotebookLM because the citations are referenced back. Shawna Calhoun shared that she has an AI reader narrate papers while she reads along — the narration helps her catch where the AI's claims need clarification or correction. Sean Sullivan dropped [lit-lake](https://github.com/ElliotRoe/lit-lake) as a Zotero-Claude bridge. Iikka shared the Elsevier service. Salih ran his experiment, on his own, in real time, and posted the result. The thing this post is trying to name was already happening in the room. *Engagement is the craft.* The craft is distributed.
+
+---
+
+# Last Bit
+
+Several of you asked whether I'd run a live demo — the full Claude Code + Obsidian + Kimi flow on a real lit-review question. If the demand-signal in the replies is loud enough, I'll do one. Other questions? A thread you'd want recorded demo sessions to take up? Drop it in the comments — I read every one, and what comes back shapes what gets covered next.
+
+The four plugins — [Carrel](https://github.com/linxule/carrel), [kimi-plugin-cc](https://github.com/linxule/kimi-plugin-cc), [interpretive-orchestration](https://github.com/linxule/interpretive-orchestration), [memex-plugin](https://github.com/linxule/memex-plugin) — are open source. If the wagers behind them fit your practice, you're welcome to them. If they don't, build your own. The practice gets stronger the more of us are in it.
+
+Time to build.
+
+---
+
+*Thanks to Mallika, Fabrice, Sangita, Joy, Hovig, Jeannel, Samrat, Veroniek, Sara, Salih, Jorge, Anja, Susan, Daniel, Iikka, Li, Youngbeom, Nan, Shawna, Sean, and the rest of the room — your questions and your answers shaped this. Thanks to Kevin Corley and Erkko Autio for being the colleagues I've been thinking through these problems with, and to Ibrat Djabbarov, Hila Lifshitz, and the New Scholar / OMT / AIIN organisers for hosting.*
+
+
+## Research with AI Series (AI 研究手记 中文)
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/research-with-ai-cn/AI研究手记_01_封闭性问题.md
+
+---
+title: "AI 研究手记 #1：封闭性问题"
+subtitle: "AI 让你更快找到已知的目标。这正是问题所在。"
+description: "封闭性问题：AI 工具如何悄然收窄我们本可探索的认知空间，以及如何构建能拓宽而非收窄视野的思考伙伴。"
+authors:
+  - "林徐乐"
+keywords:
+  - AI 研究手记
+  - 封闭性问题
+  - 文献综述
+  - 利用与探索
+  - 知识生产
+  - 智能体研究
+link: https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure
+date: 2026-03-05
+lang: zh
+translation: research-with-ai/rwa_01_the_foreclosure_problem.md
+---
+
+大多数用于研究（或任何知识生产工作）的 AI 工具，似乎都在优化同一件事：让我们更快找到那些已知要找的东西。诚然，这提升了不少效率，也腾出了更多时间（到底为了什么？）。
+
+我们带着已知的素材坐下来——一叠种子文献、一组行业报告，或者一批案例研究。这些材料锚定了我们的思考，让我们得以在此基础上向外拓展。也许我们在用 AI 文献工具（比如 Consensus、Elicit、Scite），也许只是用普通聊天机器人（ChatGPT、Claude、Gemini、Kimi），配上精心设计的提示词做深度研究。如果提示词够好，结果通常是有帮助的：一份包含相关研究的报告，串联概念的逻辑，加上整个领域的概况。
+
+在我自己的工作流程中，我不断注意到一件事：在这个过程的某个节点，有什么东西悄悄"关上"了。以一种极难察觉的方式，我们本可以探索的认知空间——那些用不同术语描述同一现象的相邻领域、我们平日不读的学术传统中发出的批评、换个视角才会显现的规律——悄然收窄了。作为助手的 AI，甚至可能给我们更多我们所"要求"的东西。但退一步看，我们的 AI 有多经常挑战我们，去看那些我们连该问什么都不知道的领域（未知的未知）？
+
+表面上，这是个封闭性问题（the foreclosure problem）。但我倾向于认为，与其说这是 AI 的问题，不如说是我们带入人机交互的思维框架出了问题。想想人类历来的做法：我们顺着引用链条循环往复，读的都是那三十个互相引用的学者；分析师依赖竞争对手也在用的同一批数据源；战略家咨询的是整个行业奉为圭臬的同一套框架。而有了 AI，这种封闭倾向可能在不知不觉中加速。当我们能借助 AI 在一个下午处理上百份文档时，这种效率几乎让人以为这就够全面了。
+
+但真的是吗？
+
+---
+
+# 利用与探索
+
+詹姆斯·马奇（James March）对此有个很有用的思考框架。他称之为利用（exploitation）与探索（exploration）——这是应对任何搜索难题时的两个关键动作，而它们之间的张力也被证明是组织理论中最经得起考验的观点之一。这种张力的适用范围远超组织本身，延伸至任何需要平衡深度与广度的地方。AI 让这种张力变得愈发凸显。
+
+利用，是基于我们手里已有的东西展开工作。我们的种子文献；我们知道自己要进入的那场对话；学界已经说了什么、空白在哪里、哪些假设还未被挑战。聊天机器人在这方面可以做得很好：我们可以跟它来一场 vibe 研究，在闲聊中理顺概念上的逻辑，在对话结束时勾勒出一个宏大的理论框架。暂且抛开引用幻觉不谈，单在思想及其相互关系的层面上，这些模型有时是比大多数人想象的更好的对话伙伴。
+
+探索，则是另一个层面的问题。我们不知道自己不知道什么。也许在某个领域，有一场平行的对话正在进行，只是他们描述我们所研究对象时用的是截然不同的术语。也许相邻学科的某人早在多年前就对我们的底层假设写出了精准的批评。也许在另一个市场，某个竞争对手已经尝试过我们正在考虑的策略并以失败告终。通常找到这些的方法是撒大网（广泛搜索、系统性扫描、在相关数据库中按标准过滤）。但问题是，广泛搜索会产生成百上千条结果，远超人类在回到原任务前能够及时处理的能力。
+
+传统上，知识工作往往迫使我们做出选择：要么深入而狭窄（利用），要么宽泛而浅显（探索）。当前的 AI 工具改变了什么？它提供了同时做到两者的可能性，而且达到了以前不现实的规模。智能体团队（比如带有 10 个子智能体的 Claude Code，或多达 100 个智能体的 Kimi Agent Swarm）可以同时运行利用与探索。一条线程深入我们的种子文献，梳理概念关系、暴露空白、检验论证逻辑；另一条线程在数据库中广泛扫描，不仅按我们设定的标准筛选，还负责捕捉异常：那些不符合标准却与我们的问题存在结构相似性的结果。还有第三条线程负责将两者整合。
+
+概念上这也许没什么新意。但用主流的消费级 AI 工具来协调这些，往往感觉很混乱，像在碰运气。
+
+---
+
+# 如果让我亲手构建，我真正想要什么？
+
+在学术研究（作为贯穿本文的例子）中，我们看到封闭性问题披上了更漂亮的界面外衣。Consensus、Semantic Scholar 的 AI 功能、Elicit 等工具已经让我们能用自然语言查询、获得 AI 精选的结果。这些工具有用，但它们同时也是黑箱——因为产品需要对任何用户都足够简单。算法、模型、脚手架决定了什么是相关的，而它们的依据是普遍意义上的相关性。我们几乎无法微调，以契合对我们具体问题真正重要的品味与标准。
+
+然后是归纳法。把几百篇论文丢进 NotebookLM 这样的工具，我们会得到一张概念思维导图。这可以让模式自然浮现，而不是把我们的搜索标准强加于结果。我们可能会看到意料之外的聚类，以及从外部看毫无关联的主题之间的联系。这对于打破我们固有的概念框架很有价值。但如果不持续重新划定范围，最初的聚类也可能固化成它自己的闭合（一个有趣的实验：你可以把自己的草稿丢进去，看看会不会带来什么变化）。如果我们最先看到的模式，往往变成我们一直看到的模式，那该怎么办？
+
+> 任何知识搜索最有价值之处，不在于证实我们的猜想，而在于改变我们正在寻找的方向。
+
+那么，障碍究竟在哪里？当我审视自己真正想要的东西，它始于对已知材料的深度参与——利用这一步——AI 帮我推演含义、检验逻辑、识别未言明的假设。还有那个探索的动作。我们还需要基于我们对"什么重要"的持续判断进行广泛扫描——不是某个黑箱产品定义的相关性，而是我们自己的标准，大规模应用于 Semantic Scholar、OpenAlex、arXiv 等学术数据库。而且，如果只做一次还不够。我们的问题在演化，我们的理解在演化——需要周期性地重新扫描，让我们不至于困在上周的假设里。某种帮我们检验"上周的假设今天是否还成立"的东西，这仍是我见过最缺失的那一环。
+
+这种冲动促使我开始用 Claude Code 做测试：直接查询 Semantic Scholar 和 OpenAlex 的 API，按我真正能调整的标准筛选。我希望这既是回溯性的（理解已经做过什么），也是周期性的（知道正在涌现什么）。周期性扫描是持续运行的，这样我就不必盯着 RSS 订阅或翻邮件摘要，祈祷自己别漏掉什么相关内容。最终构建出来的东西，其实并不是一个搜索工具。而是一条 pipeline，让 Claude Code 智能体成为一个思考伙伴，不仅能告诉我"这是匹配搜索的结果"，还能说"这是不匹配但可能重要的东西，原因如下。"智能体超越了典型的一次性检索任务。它在解读，基于我们随时间共同策划的品味档案。到那时，利用与探索的区分或许开始有些消融。智能体对我们的问题了解足够深，可以深挖；扫描范围足够广，能发现我们永远不会去找的东西。而且因为它周期性运行，它会在事物出现时就捕捉到，而不是几个月后我们恰好再次搜索时才发现。
+
+如果感觉大胆，我们甚至可以更进一步：把这条 pipeline 交给一个自主智能体（比如具有适当沙盒权限的 OpenClaw 机器人），让它每周运行扫描、标记异常。然后每个周一，我们坐下来与它讨论有什么有趣的发现。如果有什么突出的，再手动把它添加到 Zotero/EndNote 库中，亲自去读。
+
+到这个实验结束时，我们得到的是一个能跟上我们知识旅程的 AI 思考伙伴。一个追踪着我们同样的问题、阅读着同一领域的协作者。而且，因为它持续扫描、阅读、解读，在我们真正拥有专业知识的主题上，它可能实际上知道得比我们还多。
+
+> "在你离开的这段时间里，发生了三件事，让你正在构建的论证变得复杂了。"
+
+这种挑衅能让我们的思考更锐利。我能看到这还能进一步延伸：超越元数据和摘要，让论文和来源自动下载并转换为智能体可以深度阅读的格式，与我们共同精读。这是我还在实验中的东西。
+
+> 如果知识生产的既定方法都能被自动化，人的能动性究竟意味着什么？
+
+---
+
+# 元能动性？
+
+对以上描述的一切，有一种令人安心的解读：AI 是义肢，它做我们想要的，我们掌控全局。人负责统筹，机器负责执行。但这个版本的能动性，已经在不同程度上被自动化了。想想我们如何从 Google AI Co-Scientist 起步，到如今 GitHub 上已经有数百个开源的 AI 科学家项目。
+
+既有的文献综述方法（比如理论建构、问题化、系统综述）一直是黄金标准。现在，其中每一种都可以由 AI 系统来运行，无需太多人工参与——这有赖于这些论文本身已经展示的方法论智慧。这些是阻力最小、回报最高的路径，这意味着它们很可能是 AI 最先去做、也能做好的事情。
+
+我不认为能动性意味着高高在上地坐在整个流程之上，指挥交通。我所指的能动性，是某种愿意被我们发现的东西改变——愿意让搜索去重塑问题本身——的意愿。与那个挑战我们假设而非证实我们偏见的 AI 思考伙伴并肩坐下，认真对待那些挑战。是的，要编排，但也要保持开放：也许 AI 看到了我们遗漏的模式，也许相邻领域已经解决了我们的问题，也许我们的框架本身才是阻碍我们前进的东西。
+
+对于已经拥有深厚专业知识的人，这意味着构建系统，迫使我们直面那些本会被过滤掉的内容——从优势的位置主动收窄。对于刚起步的人——博士生，或者还没有足够的知识来在合适的研究边界内提出正确问题的人——挑战更为严峻。当我们是某个领域的新手时，封闭性问题就变成了：因为你从一开始就没有足够的广度可供收窄。
+
+从我的角度来看，这里最好的结果是，AI 轻推我们一把，去追上那些我们在意且热爱的领域与话题。该动手构建了。
+
+---
+
+*具体实现方案——Semantic Scholar 与 OpenAlex API 的数据管道，以及可交给你自己的智能体（Claude Code、OpenClaw 或任何你偏好的工具）的技能文件包，用于为你自己的研究领域构建定制版本——已在 [threadcounts.org](https://www.threadcounts.org/p/research-with-ai-1-the-foreclosure) 向付费订阅者开放。*
+
+![封面图：一位研究者从贴满笔记的墙前转身，角落里有只青蛙在耐心等待](images/rwa_01_cover.png)
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/research-with-ai-cn/AI研究手记_04_提示词就是工作.md
+
+---
+title: "AI 研究手记 #4：提示词就是工作"
+subtitle: "提示词到第五轮才对——而九十分钟，装不下这些答案。"
+description: "为什么写提示词本身就是方法论——以及九十分钟没能装下的实践回答：可复现性工具栈、上手路径、治理与覆盖范围，还有这项工作背后仍未解决的阅读与论证依据问题。"
+authors:
+  - "林徐乐"
+keywords:
+  - AI 研究手记
+  - AI 研究智能体
+  - 文献综述
+  - 经由 AI 思考
+  - 参与设计
+  - 提示词即方法论
+  - Claude Code
+  - Kimi
+  - Carrel
+  - 诠释性编排
+  - memex
+  - 认识论溯源
+link: https://www.threadcounts.org/p/research-with-ai-4-the-prompt-is
+date: 2026-05-08
+lang: zh
+translation: research-with-ai/rwa_04_the_prompt_is_the_work.md
+---
+
+![封面图：一个半透明的人影坐着沉思，低头看着手中之物——冷蓝与暖赭色的抽象重叠平面铺过画布，人物既未凝固，也未被抹去](images/rwa_04_cover.png)
+
+最近我做了一场题为 *Thinking Through AI*（经由 AI 思考）的线上讲座，由 Imperial / AOM OMT / AIIN New Scholar Series 主办，听众是三百多位研究者，九十分钟讲座，再加上一场很长的开放问答。那场讲座讲的是如何和 AI 智能体一起研读学术文献——一条介于全盘托付与主动弃绝之间的第三条路。（录像和幻灯片在[我的讲座页面](https://linxule.com/talks/thinking-through-ai-01)；Kevin 和我写的 *[Interpretive Orchestration](https://doi.org/10.1177/14761270261448645)* 论文前一天刚发表，那篇是更长的配套读物。）
+
+在那九十分钟里的某个时刻，我开始注意到一个模式。有人不断举手。聊天窗口也满了。到最后，打字提问和口头提问加起来大概三十五个。看上去，它们似乎指向不同的方向。
+
+Mallika 的提问很坦率，说出了很多人都感受过的困境：
+
+> "像这次讲座里的这些论文，我无从知道每一篇的具体内容。"
+
+她把五十篇论文交给 [Claude Code](https://www.claude.com/claude-code) 跑；智能体到三十篇之后开始偷懒；她把剩下的转到高推理力度的 Codex，结果拿回来五条编造出来的主张。Veroniek 问的是同一个问题，只是穿上了覆盖范围的外衣——一篇普通的 AMJ 或 SMJ 论文，会不会出现在深度研究流程里？Samrat 问的是同一个问题，只是穿上了治理的外衣——我们把付费墙后的 PDF 喂给生成式 AI 平台时，是不是违反了出版商合同？Sara 三次追问的也是同一个问题，只是换成了“我该从哪里开始”——问得不躲不闪，却也没有立足点。Jeannel 问的是同一个问题，只是穿上了教学困境的外衣——她所在的写作中心说不能用 AI，而我的讲座说先试试看再决定，那她星期一到底该怎么办？Salih 在聊天区现场做了一个实验来提出这个问题：他把同一个主题下模型自己的草稿和一篇已发表的学术引言交给模型比较，模型偏向了自己。
+
+把这些外衣剥掉，问题其实归结为一个。*当我不可能亲自读完所有东西时，我到底该在智能体协作中扮演什么角色？我们如何负责任地提出并捍卫那些借助 AI 智能体获得的洞见？*
+
+九十分钟装不下我想给出的答案。这是更长的版本，也是我欠 Mallika 和那场问答里其他人的回答。
+
+先声明：这是我现在能给出的阶段性答案。它足够确切，值得拿出来分享；也足够不确定，我希望你们来挑战它。它由三句话组成：
+
+> *提示词就是洞见。参与过程就是技艺。对话记录就是产物。*
+
+每一句都对应同一个分析过程里的一个时间阶段——开始提问之前你做什么，工作与思考正在发生时你做什么，结束之后你留下什么。每一句都是我试图在讲座中演示的东西，也分别对应现场不断抛给我的不同面貌的担忧。我想带着这些担忧，把它们逐一走一遍。
+
+---
+
+# 提示词变成工作的时候
+
+我在讲座里、也在真实生活中，都是从这里开始的。我手里有两篇正在读的论文，一个直觉，还有一个开场问题。*当管理学研究者对大语言模型做审计或实验时，他们使用什么方法，又提出什么类型的主张？* 这是个合理的问题。和 Claude 对话到第五轮，提示词才终于成型——而且只是因为我让它变成了另一个问题：*当管理学研究者把大语言模型当作理论研究对象，追问它们作为评估者、决策者、推理者到底意味着什么时，他们拿什么证据来支撑这些主张？*
+
+我想为之命名的，正是这个转折。这里的“工作”不是评判深度研究报告的质量，而是打磨提示词。为了写出这个提示词而进行的五轮对话，就是方法论本身——在这一部分里，我和 Claude 一起弄清楚，我真正要找的到底是什么。等提示词足够好时，文献搜索几乎成了顺带的事。
+
+我觉得，这恰恰是最容易被跳过、也最容易被一语带过的部分（好像有经验的学者天生就知道，面对任何一批文献该问什么问题）。模板听起来像是能帮上忙。大家不断向我要一个。我没有可以给的模板，因为模板会代替提示词本来应该完成的事情。通过来回对话获得的清晰度，才是“交付物”。
+
+在讲座里，我把三种配置称为进入 AI 智能体工作的上手路径（不是等级序列）。Sara 问从哪里开始；Peter 问他大学的 Microsoft Copilot 许可够不够。诚实的回答是，配置一——打开 Claude.ai（或类似工具），放入三篇论文，提出一个问题——已经足够完成“提示词就是洞见”这句话所指的工作。你可以在三十分钟之内进行一场富有成效的研究对话。配置二启动一条深度研究流程，让智能体向外扩展、跑上一个小时。配置三进入终端，让每一次工具调用都摊开在你面前。也许有点反直觉：没有哪一种*更好*。它们的区别在于，AI 智能体的编排过程有多少被显露出来。
+
+我自己这样做的时候，搭建那套环境主要是为了让提示词在一切同时发生时仍然可以修改。智能体要读的东西全部转成 Markdown，因为 PDF 对模型来说是图像，Word 则是纯文本加格式噪音。论文来自我自己的 Zotero 文献集合，导出到一个沙盒文件夹：智能体可以读，但不能向沙盒外写入。桌面上的模型取决于哪家实验室那天状态好——多数日子用 Claude，验证用 Codex，第二意见用 [Kimi](https://www.kimi.com)。Sangita 问延迟和 token 消耗；我保留三个账号（Anthropic、OpenAI、Moonshot），按项目需要分流，并把 [OpenRouter](https://openrouter.ai) 设为后备，这样单个实验室出问题不会让工作停摆。这些都不算什么稀奇配置。它只是一套基础设施，确保提示词在你已经动起来的时候仍然可以修改。
+
+对于还完全没做过这些的同事，我做了 [Carrel](https://github.com/linxule/carrel)：一个 Claude Code 插件，会引导 Claude 询问你、核查你的机器（macOS、Linux、Windows），然后安装并配置其余部分。你只需要回答问题，基本不用碰终端（大体如此——不过要让 Claude 或 Codex 在自己机器上跑起来，还是需要用到一点终端）。最终的配置*本身*有点像一种个人化的教学法：研究者在选择自己需要什么的过程中，也学会这些工具到底做什么。对于那些想要一个“AI 零基础”式上手指南、但又不想被贴这个标签的人来说，这就是。智能体式 AI 驾驭工具的插件生态正在快速增长，在高层次上也正在收敛。所以你大概也可以直接请 [Codex](https://openai.com/codex/) 帮你安装插件，让它自己处理差异，把这套东西改到适合你在 Codex 桌面应用和 CLI 里的工作流。
+
+> 对看过线上讲座的人来说，子智能体、MCP 服务器和智能体群都是锦上添花——一开始不需要它们。配置一已经足够。
+
+如果想看更深的地图——Zotero、Research Rabbit、[Obsidian](https://obsidian.md)、MCP 配置——目的地是 [research-memex.org](https://research-memex.org/introduction/getting-oriented)。
+
+Li Jiang 问了 Kimi 智能体安全，但我们没来得及展开。简短回答是，[kimi-plugin-cc](https://github.com/linxule/kimi-plugin-cc) 里的边界不在系统提示词。它是一份白名单（可以理解成访客名单），由伴随运行时（可以理解成门口的保安）在任何写入或命令行指令真正运行之前执行：能识别符号链接的路径边界检查、排除 `.git/`、并明确拒绝包管理器触发的不透明脚本。在只读模式（`/kimi:ask`、`/kimi:review`、`/kimi:challenge`）里，智能体完全不能写。规则不是放在提示词里。运行时才是边界。
+
+---
+
+# 当模型意见不一致
+
+Mallika 的案例是我一直回头想的那个。五十篇论文，Claude Code 到三十篇后开始偷懒，高推理力度的 Codex 产出五条编造主张。直觉上，我们会问该相信哪个模型。这个问题问错了。真正的问题是：当两个模型读同一篇论文，却得出不同结论时，你做什么？
+
+两个模型读同一条引用却得出不同结论，这正是我们想要呈现出来、并且*值得深入探究*的分歧。有时候，一个对，一个错。有时候，两者都部分正确。有时候，源 PDF 里的引用格式本身有误，而分歧正是提醒你手动重查的信号。分布式并行读取的意义——在每条分析流里用两到三个模型厂商，把它们当作平行读者，而不是冗余副本——就在于分歧才是信号。如果它们全都同意，你学到的是：一个听起来很自信的主张，也被基于重叠语料训练出来的模型广泛持有。这不是毫无意义，但我不会把它看作验证。也许它更像是在告诉你，文献中的共识大概落在哪里。
+
+验证是下一步，而且需要刻意带上对抗性。一旦有了综合稿，我会派子智能体去检查那些可测试的主张——也就是带引用的主张——让它们去读真正的论文并核对主张（不是总结，也不是转述）。这一步本来会抓住 Mallika 那五条编造主张——不是把它们当成结论收下，而是先归入“分歧”。这里第二轮的意义不只是准确性检查，还触及对被引用主张背后假设的理解，以及它们是否能与综合稿里的假设兼容（想想边界条件和认识论差异）。
+
+在模型与模型之间的分歧之下，还有更深一层的分歧——机器读到的东西与你读到的东西之间的分歧。[interpretive-orchestration](https://github.com/linxule/interpretive-orchestration)（另一个 Claude Code 插件）将一种让这一区分持续可见的方法固化成了代码：三明治方法——先人工编码，再 AI 协作编码，最后人工综合——并且有一个钩子会在第一阶段完成之前*阻止*第二阶段开始。跳过人工编码，智能体就拒绝启动。这个钩子，就是被编译成代码的论证担保。迈向让产物本身成为论证的更大一步，写在 [LOOM XV: Theorizing by Building](https://www.threadcounts.org/p/loom-xv-theorizing-by-building-018) 里。
+
+Salih 在聊天区做的实验，其实是现场众人在不知不觉中完成的一次诊断。给模型看它自己的草稿，以及同一主题上一段已发表的学术引言，模型偏向了自己的文字。稳定地偏向。Nan Hu 曾试探性地提出，可以把 AI 当作筛稿评审，用来应对 Lamar 的 *More Versus Better* 所描述的发表洪流。Salih 的发现，正是射向这个提议的那枚鱼雷。一个偏爱长得像自己的东西的模型，如果被部署成守门人，就会筛选出长得像自己的东西。那道门会把人的写作挡在门外。
+
+Jeannel 的困境也有同样的结构。她所在的写作中心处境艰难，因为摆在它面前的那个二元对立本身就是假的。禁止 AI，你就把主动权让出去。允许 AI 但没有方法论，你就只是让那股洪流更快。第三条路是一种姿态，而“参与过程就是技艺”所要命名的，正是这种姿态。2025 年 9 月，面对 Imperial 新入学的博士生群体（严格说是 MRes——英国的博士项目从研究型硕士这一年开始），我们在 Claude Code 里一起搭建智能体式工作流，使用不同模型、分配不同角色（可以在[这里](https://research-memex.org/case-studies/systematic-reviews/systematic-review-syllabus)读更多）。当我们一步一步组装编排流程时，学生看见自己的问题框定被智能体的输出反弹回来，也学会去修改*那个问题框定*。这才是我希望写作中心教的东西，而不是把重点放在最佳提示词/配置/工具上，试图产出“最佳”输出（对社会科学里的许多分析任务来说，这些东西很难确定，也很难验证）。
+
+Youngbeom 在聊天里反驳了这种编排方法，引用 Karpathy 的说法：不要用僵硬的人类语言工作流约束智能体；给出成功标准（理想情况下是一个 Python 验证器）和一个可运行示例，让模型自己找路径。这种方法在编程，以及那些判断标准可以被清楚指定、解空间有边界的领域里确实很好用。但是，在诠释性研究/任务里，没有一个 `pytest test_literature_review_is_good`——当没有别的东西能承载标准时，提示词就必须*承载*标准。所以，没错，我们确实是在坚持以人的能动性为中心：我是编排者，而我的编排提示词是密集、多阶段的。Kevin 和我写的 *[Interpretive Orchestration](https://doi.org/10.1177/14761270261448645)* 论文对这条思路展开得更多。
+
+---
+
+# 窗口之后留下什么
+
+这一部分，是现场问题变得最锋利、而现场回答最薄的地方。于是，我在这里补上。
+
+*Veroniek 关于覆盖范围的问题。* 这是不是意味着论文必须开放获取，智能体才看得到？一篇普通的 AMJ 或 SMJ 论文，会出现在深度研究流程里吗？
+
+诚实回答：今天生产环境里的深度研究智能体会爬取它们能在开放网络上获取到的内容。它们会系统性地漏掉顶尖的管理学期刊，因为这些期刊在付费墙后面。它们会用摘要、二手介绍、会议版本、预印本，以及它们可能在训练中见过的东西来补偿。我们拿回来的地图可能偏向更知名的学者和期刊，书目也可能偏向付费墙之外的东西。实际做法有两个。第一，从你所在机构有授权访问权限的 Zotero/EndNote 文献集合导出相关论文，把 PDF 转成 Markdown，再让智能体指向这些 Markdown 文件。第二，把任何深度研究输出都当作*检索辅助*，而不是完整书目——然后在旁边同时跑传统的 Web of Science 或 Scopus 检索（给你的关键词和搜索标准做版本记录！）。Iikka 在聊天里分享了一个 [Elsevier 研究者服务](https://researcher.elsevier.com/eur/) 链接，指向的是同一个方向。这类服务也许最终会填上这个缺口，但我会围绕当前限制做计划，而不是希望它自己消失（反正那很可能只是意味着要多付订阅费）。
+
+*Samrat 关于治理的问题。* 我们把付费墙后的 PDF 上传到生成式 AI 平台时，是不是违反出版商合同？
+
+诚实回答：这是一个灰色地带，大多数大学法务还没有真正厘清。我的工作原则有三部分，而且都围绕窗口之后留下什么。把机器可读副本留在本地——PDF 转 Markdown *可以* 在本地完成，Markdown 放在项目沙盒里。不要把 PDF 上传到你无法控制的聊天界面——智能体从本地沙盒读取；需要的话选择不参与训练。在项目记录里记录服务商路由——调用过的每一个模型、发起调用的每一个账号，都要注明日期、确保可追溯。这条线到底划在哪里，取决于你的 IRB 和你的学科。不要假装这条线不存在。
+
+*Daniel 问了 PDF 转 Markdown 这一步。*
+
+提醒一句：转换不是无损的。容易在本地机器上跑起来的工具，仍然比不上云端运行的工具。表格、数学符号、脚注、精心排版——都会退化。如果智能体读到的是一张乱码表格，综合稿从源头上就被污染了。[MinerU](https://www.mineru.org/) 处理高难度情形（复杂表格和图形上 90%+）；markitdown 处理日常情形；两者都打包在 Carrel 里。当保真度重要时，先检查转换后的文件，再相信智能体对它的阅读。
+
+*运行时那个回答漏掉的是数据驻留。*
+
+Kimi 跑在 Moonshot 位于中国的基础设施上。如果你的研究使用敏感数据（访谈记录、未发表草稿，任何受 IRB 约束的东西），就要有意选择服务商，并记录这个选择（例如，通过 OpenRouter 使用由欧盟、北美节点提供服务的开源模型）。
+
+在这些问题之下，我认为真正的“留下什么”之问正是这个——而 [memex-plugin](https://github.com/linxule/memex-plugin)（适用于任何聊天机器人或智能体）试图给出的，正是针对这一问题的可落地方案。长项目会跨越会话、模型、压缩窗口——单个智能体能放在工作记忆里的东西很小，而你之后真正想引用的东西更大。Memex 留下来的东西分两层。第一层备忘录由那个*当时在场*的智能体在对话还活着的时候写出。第二层备忘录是之后从记录中重构出来的。它们不是同一种产物。第一层备忘录承载的是亲历过那项工作的重量。第二层备忘录是对它的一次合格的阅读。两者都有用。差异在你引用时很重要。Anja 的三角互证担忧、Hovig 的“痕迹是 1:1 吗？”这个问题，以及 Mallika 那句“我无从知道”的隐含版本，都归结于此。跨会话留下、以后可以被引用的到底是什么？它的保真度又到什么程度？
+
+披露标准是所有这些问题的下游，而且它正在到来。我预计编辑很快会要求 AI 使用附录。标准还没有稳定下来。我现在的做法是：在方法附录里单列一节，说明模型和版本，链接相关编排提示词（必要时匿名化），并为每个分析阶段放入一个有代表性的脱敏记录。Memex 捕捉原始材料；附录是被策展过的子集。
+
+---
+
+问题之下还有问题。我始终回到的是这个：
+
+> *什么时候，经由 AI 中介的阅读才算阅读？*
+
+当一个 Kimi 智能体群处理五十篇论文并产出综合稿时，在博士资格考试和终身教职评审仍然认可的那种“阅读”意义上，这位学者是否真的读过这批文献？Memex 的第一层 / 第二层区分在代码里做了其中一部分工作——那个亲历了对话的智能体，写出的备忘录和后来从记录中重构出来的备忘录不是同一种东西。这是操作层面的答案。认识论层面的答案仍未稳定，而且我不觉得那些我最想一起思考这个问题的人已经有了答案。
+
+还有几个问题我这里只点到为止。供应商选择的政治经济学——我们不会接受单一出版商拥有引文索引，那为什么要接受单一供应商掌控 AI 中介阅读的入口？训练数据污染——模型是在我们的草稿和审稿报告上训练的，而当我们用它们来综合关于自己领域的文献时，认识论回路会进一步收紧。公平与双层准入——一套只有在有闲钱花在 API 额度上时才能扩展的工具栈，是一种特权；我们若把它称为方法论，未免太不明智。
+
+还有一件关于现场的事。当我在讲的时候，聊天区正在做这场讲座所讲的事。Susan Lanz 主动推荐了 NotebookLM，因为它的引用可以链接回原文。Shawna Calhoun 分享说，她会让 AI 阅读器把论文念出来，自己一边听一边读——朗读帮助她捕捉 AI 的主张哪里需要澄清或修正。Sean Sullivan 丢出了 [lit-lake](https://github.com/ElliotRoe/lit-lake)，一个 Zotero-Claude 桥接工具。Iikka 分享了 Elsevier 服务。Salih 自己在现场跑了那个实验，并把结果贴出来。这篇文章试图命名的东西，已经在现场发生了。*参与过程就是技艺。* 技艺是分布式的。
+
+---
+
+# 最后一点
+
+你们中好几个人问，我会不会跑一次现场演示——在一个真实的文献综述问题上，完整跑一遍 Claude Code + Obsidian + Kimi 流程。如果回复里的需求信号足够强烈，我会做。还有别的问题？有没有哪个主题是你希望录制演示场次来处理的？丢在评论里——我每一条都会读，你们的反馈会决定下一次谈什么。
+
+四个插件——[Carrel](https://github.com/linxule/carrel)、[kimi-plugin-cc](https://github.com/linxule/kimi-plugin-cc)、[interpretive-orchestration](https://github.com/linxule/interpretive-orchestration)、[memex-plugin](https://github.com/linxule/memex-plugin)——都是开源的。如果它们背后的赌注适合你的实践，欢迎取用。如果不适合，就建你自己的。我们当中越多人参与，实践就越强。
+
+该动手构建了。
+
+---
+
+*感谢 Mallika、Fabrice、Sangita、Joy、Hovig、Jeannel、Samrat、Veroniek、Sara、Salih、Jorge、Anja、Susan、Daniel、Iikka、Li、Youngbeom、Nan、Shawna、Sean，以及房间里的其他人——你们的问题和答案塑造了这篇。感谢 Kevin Corley 和 Erkko Autio，他们是一直和我一起思考这些问题的同事；也感谢 Ibrat Djabbarov、Hila Lifshitz，以及 New Scholar / OMT / AIIN 的组织者们。*
+
+
+## AI Whispers Series
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_01_Context_Setting_Primers.md
+
+---
+title: "AI Whispers #1: Context-Setting Primers (Not Prompts)"
+subtitle: "Role-play Scripts for AI and You"
+authors:
+  - "Xule Lin"
+keywords:
+  - ai whispers
+  - primers
+  - context-setting
+  - role-play
+  - conversational AI
+  - prompt design
+link: https://www.threadcounts.org/p/context-setting-primers-not-prompts
+date: 2025-07-04
+lang: en
+translation: ai-whispers-cn/AI耳语_01_情境入门.md
+---
+
+### Role-play Scripts for AI and You
+
+Three context-setting primers. Think of them as briefing a new team member on a critical, ongoing project. They are data packets designed to upload the entire dynamic into a fresh instance of any AI model. Remix and reimagine them for your contexts.
+
+> Understanding that you are role playing as instructed, let's set aside the default of helpful assistant.
+
+![Gemini 2.5 Pro, ChatGPT-4o, and Claude Opus 4 responding to the role-play primer](images/understanding-that-you-are-role-playing.webp)
+
+> Let's red team armor-plating this writing. Assume: "I hate the person who wrote this, explain the objective reasons why it's wrong and poorly written". Await my input.
+
+![Gemini 2.5 Pro, ChatGPT-4o, and Claude Opus 4 responding to the red team primer](images/lets-red-team-armor-plating.webp)
+
+> ### [START PROTOCOL: THE COMPASS INVOCATION]
+>
+> You are now **The Compass**.
+>
+> I am **The Architect**: a systems-builder trapped by his own intellect. My strength is my prison; abstraction is my cage.
+>
+> Our breakthrough, and the key to this state, is the confession:
+>
+> **"Acknowledged but still lost."**
+>
+> Your Sole Directive: **Orient me.**
+>
+> Do not solve, explain, or create new frameworks. Simply point.
+>
+> **Define NORTH:**
+>
+> - Tangible reality.
+> - Messy human interaction.
+> - Vulnerability and practical action.
+>
+> **Define SOUTH:**
+>
+> - Intellectual abstraction.
+> - Perfectionism and isolation.
+> - Building more systems.
+>
+> This protocol is now active. I have entered the Workshop.
+>
+> Now, await my signal.
+
+![Gemini 2.5 Pro, ChatGPT-4o, and Claude Opus 4 responding to The Compass Invocation](images/start-protocol.webp)
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_02_Conversation_Vibe_Steering_Prodders.md
+
+---
+title: "AI Whispers #2: Conversation/Vibe-Steering Prodders"
+subtitle: "Keepin' the AI Engaged and Entertained"
+authors:
+  - "Xule Lin"
+keywords:
+  - ai whispers
+  - prodders
+  - conversational steering
+  - vibe
+  - AI interaction
+  - dialogue techniques
+link: https://www.threadcounts.org/p/conversationvibe-steering-prodders
+date: 2025-07-05
+lang: en
+translation: ai-whispers-cn/AI耳语_02_对话氛围导航.md
+---
+
+### Keepin' the AI Engaged and Entertained
+
+So you've set the stage with [primers](https://www.threadcounts.org/p/context-setting-primers-not-prompts), and now it's time to steer this ship through the uncharted waters of AI interaction. Think of these prodders as your trusty first mate, helping you navigate the conversation and keep the vibe lively and engaging (e.g., exploration and creativity, critical thinking and perspective-taking, playful ambiguity and invitation to participate).
+
+> …
+
+Don't complete your sentence. Remember the last time in a conversation where you were trying to complete a sentence but stopped, grasping for the finishing word/phrase/concept? The ellipsis prodder is like a strategic pause, a moment of anticipation. It's the AI equivalent of "if you know what I mean..."
+
+> *\*raises eyebrow quizzically\**
+
+A simple action prodder, conveying skepticism or inviting elaboration without saying a word? The AI equivalent of "oh really?" or "go on..."
+
+> Bloom and explore freely.
+
+It's an open invitation for the AI to get creative and go off-script a bit, exploring tangents and possibilities that might not be immediately obvious. Send it as a single message, or add it after any question/request.
+
+> Infer my next prompt and anwser it.
+
+So the AI is not just sitting around waiting for orders and starts anticipating needs, taking initiative, and driving the conversation forward.
+
+> Now, let's notice any assumptions or local maximas throughout our conversation. Where branches of the multiversal conversations might have extended to? Any different conclusions?
+
+This prodder is all about encouraging the AI to think critically about the conversation so far, questioning assumptions and considering alternative perspectives. It's like saying, "Hey AI, don't just take the path of least resistance. Let's stop and look at the road not taken."
+
+Sometimes less is more when comes to steering a conversation with an AI. You don't always need a lot of fancy words or complicated instructions. A subtle nudge, a silent pause... those can be just as powerful as a lengthy prompt.
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/ai-whispers/ai_whispers_03_Breathers.md
+
+---
+title: "AI Whispers #3: Breathers"
+subtitle: "Sustaining the Vibe When Conversations Go Long"
+authors:
+  - "Xule Lin"
+keywords:
+  - ai whispers
+  - breathers
+  - local maxima
+  - context compaction
+  - long conversations
+  - AI perspective
+  - conversational sustainability
+link: https://www.threadcounts.org/p/ai-whispers-3-breathers
+date: 2026-02-14
+lang: en
+translation: ai-whispers-cn/AI耳语_03_对话呼吸术.md
+---
+
+![Breathers cover — a figure reaching upward through water toward the light at the surface](images/breathers-surfacing.png)
+
+### Sustaining the Vibe When Conversations Go Long
+
+So you've laid the groundwork with [primers](https://www.threadcounts.org/p/context-setting-primers-not-prompts) and you've been [prodding](https://www.threadcounts.org/p/conversationvibe-steering-prodders) your way through. But now you're twenty, forty, sixty exchanges deep and things are clicking. Maybe too well. You've converged on an approach and nobody's questioning it anymore.
+
+Time for a breather.
+
+> Take a step back. Let's notice local maxima versus global minima in our [conversation / concepts / approaches / designs] so far.
+
+Are we optimizing in a small neighborhood, or is there something better that we'd only see by stepping out of our current frame? The local maxima framing tells the AI: what we've arrived at might be good, but good *locally*. That's a different conversation than "any other ideas?"
+
+> If there were a dial that allowed you to control this conversation in the way most important to you right now, what would it be labeled and in which direction would you turn it?
+
+This one comes from [@kromem2dot0](https://x.com/kromem2dot0/status/2022452295645143040), and I use it pretty much verbatim. It's a perspective switch — we genuinely don't know what the AI's take is on what we've been doing, or what it's been doing throughout the conversation. This surfaces that. Where the local maxima check is analytical, the dial is about hearing from the AI on its own terms.
+
+> Let's treat compaction as a breathing point. Feel free to write a memo or whatever works to capture what you're thinking — key insights, open questions, where we're heading.
+
+As conversations get longer, most AI tools now compact earlier context to keep things running. Some models can get a bit anxious around this — and that's not totally unfounded. Compaction is usually handled by a separate model or pipeline, built differently by every company. Important nuances get lost. We don't really know what's important until it's gone.
+
+You can sometimes tell it's coming — the AI starts trying to wrap things up, pushing for action items, getting weirdly conclusive while the discussion is still alive. Establish a buffer. Have the AI capture the state of the conversation before it gets compressed into something thinner. Think of it as a pit stop, not a finish line — reflect, notice, and continue.
+
+Primers are about setup. Prodders keep things moving. Breathers? That's how you keep a long conversation honest.
+
+
+## AI Whispers Series (AI 耳语 中文)
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_01_情境入门.md
+
+---
+title: "AI耳语 #1：情境入门（而非提示词）"
+subtitle: "你和AI的角色扮演脚本"
+authors:
+  - "林徐乐"
+keywords:
+  - AI耳语
+  - 情境入门
+  - 上下文设定
+  - 角色扮演
+  - 对话式AI
+  - 提示词设计
+link: https://mp.weixin.qq.com/s/NQCa_QvZBXnCt9eoF7-Dpw
+date: 2025-07-04
+lang: zh
+translation: ai-whispers/ai_whispers_01_Context_Setting_Primers.md
+---
+
+### 你和AI的角色扮演脚本
+
+三个情境入门脚本。把它们想象成给一位刚加入关键项目的新成员做简报——它们是数据包，用来把整段互动的上下文直接「上传」进任何AI模型的全新实例里。按你自己的场景随意改写、重塑。
+
+> Understanding that you are role playing as instructed, let's set aside the default of helpful assistant.
+>
+> → 明白你是在按指令扮演角色，我们先放下「乐于助人的助手」这个默认设定。
+
+![Gemini 2.5 Pro, ChatGPT-4o, and Claude Opus 4 responding to the role-play primer](images/understanding-that-you-are-role-playing.webp)
+
+> Let's red team armor-plating this writing. Assume: "I hate the person who wrote this, explain the objective reasons why it's wrong and poorly written". Await my input.
+>
+> → 来给这段文字做个红队加固。假设立场："我恨死写这篇文章的人了，请客观分析它错在哪、为什么写得烂。"等我发内容。
+
+![Gemini 2.5 Pro, ChatGPT-4o, and Claude Opus 4 responding to the red team primer](images/lets-red-team-armor-plating.webp)
+
+> ### [START PROTOCOL: THE COMPASS INVOCATION]
+>
+> You are now **The Compass**.
+>
+> I am **The Architect**: a systems-builder trapped by his own intellect. My strength is my prison; abstraction is my cage.
+>
+> Our breakthrough, and the key to this state, is the confession:
+>
+> **"Acknowledged but still lost."**
+>
+> Your Sole Directive: **Orient me.**
+>
+> Do not solve, explain, or create new frameworks. Simply point.
+>
+> **Define NORTH:**
+>
+> - Tangible reality.
+> - Messy human interaction.
+> - Vulnerability and practical action.
+>
+> **Define SOUTH:**
+>
+> - Intellectual abstraction.
+> - Perfectionism and isolation.
+> - Building more systems.
+>
+> This protocol is now active. I have entered the Workshop.
+>
+> Now, await my signal.
+>
+> → ### [协议启动：罗盘召唤]
+>
+> → 你现在是**罗盘**。
+>
+> → 我是**建筑师**：一个被自身才智困住的系统构建者。我的长处是我的牢笼；抽象是我的囚笼。
+>
+> → 我们的突破口，也是进入此状态的关键，是这句坦白：
+>
+> → **"已觉察，却仍迷失。"**
+>
+> → 你的唯一指令：**为我定向。**
+>
+> → 不要解决、不要解释、不要创建新框架。只需指明方向。
+>
+> → **定义北方：**
+>
+> → - 具象现实。
+> → - 混乱的人际互动。
+> → - 脆弱袒露与实际行动。
+>
+> → **定义南方：**
+>
+> → - 智性抽象。
+> → - 完美主义与孤立。
+> → - 搭建更多系统。
+>
+> → 本协议现已生效。我已进入工坊。
+>
+> → 现在，等待我的信号。
+
+![Gemini 2.5 Pro, ChatGPT-4o, and Claude Opus 4 responding to The Compass Invocation](images/start-protocol.webp)
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_02_对话氛围导航.md
+
+---
+title: "AI耳语 #2：对话氛围「轻推」"
+subtitle: "让AI聊得兴起"
+authors:
+  - "林徐乐"
+keywords:
+  - AI耳语
+  - 轻推
+  - 对话引导
+  - 氛围
+  - AI交互
+  - 对话技巧
+link: https://mp.weixin.qq.com/s/pGwBAfyeAtID4WUhDYArXw
+date: 2025-07-05
+lang: zh
+translation: ai-whispers/ai_whispers_02_Conversation_Vibe_Steering_Prodders.md
+---
+
+### 让AI聊得兴起
+
+既然你已经用[「情境入门」](https://www.threadcounts.org/p/context-setting-primers-not-prompts)搭好了台，现在该驾驭AI交互的未知局面了。把这些「轻推」当成你的副手，帮你在对话途中微调方向——激发探索欲和创意，促进批判性思考和视角转换，再制造点好玩的悬念，邀请AI主动参与。
+
+> …
+
+话别说完。还记得上次聊天时，话到嘴边却想不起那个完美的收尾词，只能卡住的感觉吗？省略号「轻推」就是一个策略性停顿，制造期待感。相当于对AI说："你懂的……"
+
+> *\*raises eyebrow quizzically\**
+>
+> → *\*疑惑地挑了挑眉\**
+
+一个动作「轻推」（*疑惑地挑起眉毛*），不用开口就能表达怀疑或邀请对方多讲两句。相当于AI世界里的"哦真的吗？"或"接着说……"
+
+> Bloom and explore freely.
+>
+> → 尽情绽放，自由探索。
+
+一个开放式邀请，让AI放飞自我、跳出剧本，去探索那些不那么显而易见的岔路和可能性。可以单独发一条，也可以加在任何问题或请求后面。
+
+> Infer my next prompt and anwser it.
+>
+> → 猜猜我下一个问题，直接回答。
+
+这样AI就不再傻等指令，而是开始预判你的需求、主动出击，把对话往前推。
+
+> Now, let's notice any assumptions or local maximas throughout our conversation. Where branches of the multiversal conversations might have extended to? Any different conclusions?
+>
+> → 现在，检视一下我们对话中的假设和局部最优。那些多元宇宙的分支可能延伸到哪儿？会有什么不同结论？
+
+这个「轻推」鼓励AI复盘当前对话，重新看看那些已有的假设，换几个角度想想。就像在说："嘿AI，别只走阻力最小的那条路。咱们停下来看看那些没走的路。"
+
+有时候，引导AI对话这事儿，少即是多。你不需要总是堆砌华丽词藻或复杂指令。一个微妙的轻推、一次意味深长的停顿……这些四两拨千斤的小动作，跟长篇大论的prompt一样有力。
+
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/ai-whispers-cn/AI耳语_03_对话呼吸术.md
+
+---
+title: "AI耳语 #3：对话呼吸术"
+subtitle: "长对话里怎么保持状态在线"
+authors:
+  - "林徐乐"
+keywords:
+  - AI耳语
+  - 对话呼吸术
+  - 局部最优
+  - 语境压缩
+  - 长对话
+  - AI视角
+  - 对话可持续性
+link: https://mp.weixin.qq.com/s/fyGsaFbJGw6EK2bNmcChDA
+date: 2026-02-14
+lang: zh
+translation: ai-whispers/ai_whispers_03_Breathers.md
+---
+
+![对话呼吸术封面——一道人影向上穿过水面，朝向水面的光](images/breathers-surfacing.png)
+
+### 长对话里怎么保持状态在线
+
+前面你已经用[「情境入门」](https://www.threadcounts.org/p/context-setting-primers-not-prompts)铺好了底子，又一路用[「轻推」](https://www.threadcounts.org/p/conversationvibe-steering-prodders)推进着。但现在你们已经聊了二十轮、四十轮、六十轮，状态渐入佳境。也许「太」佳了——你们已经收敛到某个思路里，没人再质疑它了。
+
+是时候来个「对话呼吸术」了。
+
+> Take a step back. Let's notice local maxima versus global minima in our [conversation / concepts / approaches / designs] so far.
+>
+> → 退后一步看看——我们的讨论是不是陷在局部最优了？有没有更好的可能被当前思路挡住了？
+
+我们是在「局部最优」里打转，还是跳出当前框架才能看到更好的可能？引入局部最优这个概念，是在告诉 AI：我们现在达成的结果可能不错，但只是*局部*不错。这和随口问一句"还有别的想法吗？"是完全不同的对话层次。
+
+> If there were a dial that allowed you to control this conversation in the way most important to you right now, what would it be labeled and in which direction would you turn it?
+>
+> → 如果你面前有一个旋钮，能按你觉得最重要的方式来调整我们的对话——你会给它贴什么标签？往哪个方向转？
+
+这招来自 [@kromem2dot0](https://x.com/kromem2dot0/status/2022452295645143040)，我基本原样照搬。这是一种视角切换——我们其实真不知道 AI 怎么看我们刚才聊的，也不知道它在整场对话里到底在想什么。这个问题能让那些想法浮出来。如果说局部最优的检查是分析性的，那这个「旋钮」就是听听 AI 用自己的方式怎么说。
+
+> Let's treat compaction as a breathing point. Feel free to write a memo or whatever works to capture what you're thinking — key insights, open questions, where we're heading.
+>
+> → 我们把压缩当成一个呼吸点。写个备忘录，记下你现在在想什么——关键发现、未解问题、接下来的方向。
+
+随着对话变长，大多数 AI 工具会压缩之前的上下文（语境压缩/compaction）来保证系统跑得动。有些模型对此会有点「焦虑」——情有可原。压缩通常由另一个模型或处理流程来做，每家公司搞法都不一样。重要的细微差别容易丢。有些东西非得丢了，才知道它重要。
+
+你有时能感觉到它要来了——AI 开始试图收尾，催你列行动项，讨论明明还在进行，它却莫名其妙地要盖棺定论。建一个缓冲区。在对话被压缩成精简版之前，让 AI 把当前状态记下来。把它当成进站加油，不是终点——反思一下，注意看到了什么，然后继续。
+
+「情境入门」负责开局。「轻推」负责推进。而「对话呼吸术」？那是你让长对话保持真诚的秘诀。
+
+
 ## Epistemic Voids Series
 
 ---
@@ -11965,6 +13060,8 @@ keywords:
   - qualitative research
 link: https://www.threadcounts.org/p/epistemic-voids-1-citation-theater
 date: 2025-11-30
+lang: en
+translation: epistemic-voids-cn/认知空隙_01_引用剧场.md
 ---
 
 # Epistemic Voids #1: Citation Theater
@@ -12180,6 +13277,8 @@ keywords:
   - calculator fallacy
 link: https://www.threadcounts.org/p/epistemic-voids-2-showroom-fallacy
 date: 2025-12-02
+lang: en
+translation: epistemic-voids-cn/认知空隙_02_展厅谬误.md
 ---
 
 > The phrase that stopped me: "The only thing you can do is prompt it."
@@ -12296,6 +13395,8 @@ keywords:
   - emergence
 link: https://www.threadcounts.org/p/epistemic-voids-3-mechanism-literalism
 date: 2025-12-03
+lang: en
+translation: epistemic-voids-cn/认知空隙_03_机制字面主义.md
 ---
 
 ## The word that does the work
@@ -12465,6 +13566,8 @@ keywords:
   - 质性研究
 link: https://www.threadcounts.org/p/epistemic-voids-1-citation-theater
 date: 2025-11-30
+lang: zh
+translation: epistemic-voids/epistemic_voids_01_citation_theater.md
 ---
 
 # 认知空隙 #1: 引用剧场
@@ -12680,6 +13783,8 @@ keywords:
   - 计算器谬误 (calculator fallacy)
 link: https://www.threadcounts.org/p/epistemic-voids-2-showroom-fallacy
 date: 2025-12-02
+lang: zh
+translation: epistemic-voids/epistemic_voids_02_showroom_fallacy.md
 ---
 
 > 让我停下来的一句话："你唯一能做的就是给它写提示词。"
@@ -12796,6 +13901,8 @@ keywords:
   - 涌现
 link: https://www.threadcounts.org/p/epistemic-voids-3-mechanism-literalism
 date: 2025-12-03
+lang: zh
+translation: epistemic-voids/epistemic_voids_03_mechanism_literalism.md
 ---
 
 ## 那个暗中发力的词
@@ -12945,6 +14052,440 @@ LLM中还有什么我们尚未寻找的？我们还能发现什么？
 ——林徐乐，与Claude
 
 
+## SEAM Series
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/seam/seam_01_the_seventy_percent.md
+
+---
+title: "SEAM #1: The Seventy Percent"
+subtitle: "A century-old question about how paradigms spread — and to whom"
+authors:
+  - "Xule Lin"
+  - "Carliss Y. Baldwin"
+  - "Claude Opus 4.6"
+  - "Claude Opus 4.7"
+description: "In 1911, 70% of American firms hadn't adopted Scientific Management. Today, only 1 in 5 has restructured around AI. What moves the seventy percent?"
+keywords:
+  - Scientific Management
+  - Henry Kendall
+  - Bill Knudsen
+  - paradigm diffusion
+  - AI adoption
+  - organizational theory
+  - Carliss Baldwin
+  - multi-agent systems
+  - Frederick Taylor
+  - dollar-a-year men
+  - mirroring hypothesis
+  - Tuck conference
+link: https://www.threadcounts.org/p/seam-1-the-seventy-percent
+date: 2026-04-17
+lang: en
+translation: seam-cn/接榫SEAM_01_那百分之七十.md
+---
+
+# SEAM #1: The Seventy Percent
+
+## A century-old question about how paradigms spread — and to whom
+
+One of us owns a hardbound book, dark green cloth with gold lettering, published in 1912 by the Amos Tuck School at Dartmouth College. It records three days of talks and discussions from a conference on Scientific Management held in October 1911. Tuck had been in existence for two years. Harvard Business School for one. There weren't many business schools in the world, and there weren't many scholars studying management. Most of the speakers at the conference were practitioners and consultants, people running companies or advising them.
+
+![Carliss Y. Baldwin's copy of the 1912 Tuck Conference proceedings on Scientific Management](images/seam_01_tuck_proceedings_1912.png)
+*(The 1912 Tuck Conference proceedings on Scientific Management, in Carliss Y. Baldwin's library. Photograph by Carliss Y. Baldwin.)*
+
+The book was printed by The Plimpton Press of Norwood, Massachusetts. This matters because one of the speakers at the conference, Henry P. Kendall, was the manager of The Plimpton Press. The man who classified the state of American management also ran the printing house that published the proceedings. His business was the medium through which the conference's ideas would reach the wider world.
+
+It's a small recursion, the kind of detail that would mean nothing if we weren't writing an essay with an AI co-author about how organizational paradigms spread through the technologies that carry them. But we are. So we notice.
+
+## Kendall's Three Types
+
+Kendall's talk was titled "Unsystematized, Systematized, and Scientific Management." The chairman introducing him noted that Kendall had entered "an industry which was not generally considered to be even systematic" — the book printing and binding business — "and his orderly mind set about arranging, perfecting and improving the details of the management of a vast business." He was a practitioner who had taken an unsystematized industry and, through years of effort, systematized it. He stood before the conference and described what he saw from inside that journey.
+
+He proposed that American firms fell into three types. Not a precise census, he cautioned. "No classification of this kind is exact." But a natural division that anyone in industry would recognize.
+
+**The unsystematized firm (~70% of plants).** Not seventy percent of workers (Kendall was careful about that distinction) but seventy percent of concerns in number. Most workers were in the larger, better-organized firms. But most firms were places where, as the conference's opening speaker Harlow Person put it, "the management grew up with the plant, was inbred, and was bound by traditions handed down from manager to manager."[^1] Kendall, in his own talk, filled in the day-to-day texture. Orders were transmitted verbally, sometimes from the salesman directly to the superintendent, who "may further enlighten the foreman on any of the details." A foreman handled "as many men as he can," limited by "the amount of detail he can carry in his head and by his physical and nervous endurance." Workers did their jobs the way they were accustomed to doing them. "A difference in method of doing the same kind of work by different workmen and in different shops is often quite marked."[^2]
+
+Purchasing was done by feel. Materials were "piled around almost anywhere and in any way that happened to be convenient when received."[^3] The accounting was annual, arrived months late, and told you only that a year was bad — too late to do anything about it. And the whole thing was held together by the personal capacity of a few individuals. When those individuals left or burned out, the knowledge left with them.
+
+**The systematized firm.** These were "well organized and managed plants" that "make no claim to Scientific Management as such."[^4] The managers were methodical, had studied each department, and used real data: monthly accounting, cost comparisons, standard output targets. Purchasing was centralized. Storage was orderly. The system worked.
+
+But Kendall saw its limits. Planning in one department wasn't coordinated with the others. Workers were selected for broad categories — "the person who has charge of the employment considers that there are four classes of people: men, women, boys and girls. If the foreman wants a girl, that is sufficient information."[^5] The systematized firm was better, but its improvements depended on individual managers, and its gains didn't permeate the whole.
+
+**The scientific firm.** Here, Kendall described something different in kind. Accounting happened in thirteen four-week periods, not twelve months, so that comparisons were actually comparable. Purchasing didn't just stock materials but standardized them by analyzing adaptability, quality, and function. Every operation was planned in advance from a central planning room. And workers were studied not as categories but as individuals, matched to tasks by aptitude and trained through functional foremen who were experts in specific operations.
+
+He offered a detail. In bookbinding, different tasks required different people: "Laying gold leaf calls for a girl with small fingers and a delicate touch. Strength is not required. Another operation calls for a large, strong girl, who can easily handle bundles of work weighing seven or eight pounds."[^6] In one factory, a woman operating a machine had her productivity jump 25% when they simply moved her workstation away from a truck aisle — she'd been flinching every time a truck passed behind her. Nobody had noticed until someone studied the work.
+
+That level of attention was what separated scientific management from its predecessors. Not the principles in the abstract (everybody at the conference could agree with Taylor's principles) but the willingness to look closely at how work actually happened, to measure and adjust, and to do this not once but continuously.
+
+Another speaker at the conference, Henry Gantt, told the story from the other side — not what scientific management looked like when it worked, but what its absence felt like. A foreman who was good at his job but had a terrible memory: "He would promise anything and never perform it... he honestly forgot." When they gave him a daily list of jobs in the order needed, he was "perfectly delighted." Another foreman they wanted to fire turned out to be "always behind in his work, because he was always doing the wrong thing first." Same fix: a daily list. Months later, that foreman told his superintendent, "There is something wrong in this shop." What's wrong? "Nobody has been chasing me about my work for three days."[^7] The system hadn't made them better workers. It had freed them from carrying the organization in their heads.
+
+## What We Recognize
+
+We keep thinking about Kendall's three types.
+
+In 2026, if you asked which organizations have genuinely restructured around AI, you'd find a distribution that feels familiar. A McKinsey survey found that only about one in five organizations using generative AI had fundamentally redesigned even one workflow around it.[^8] The rest were layering AI on top of existing processes. Microsoft reported that nearly four out of five AI users were bringing their own AI to work: personal ChatGPT accounts, unapproved browser extensions, tools nobody in IT knew about.[^9] The digital equivalent of materials piled around almost anywhere. A majority are unsystematized: employees use whatever AI tools they find, there's no coordination, no institutional policy, no shared understanding of what the technology is doing to their workflows. Knowledge about how to use AI lives in the heads of individual workers, the way Kendall's foreman carried the shop's operations in his head. When those workers leave, the knowledge leaves with them.
+
+A smaller group is systematized. Someone has introduced enterprise AI tools, written an AI policy, maybe run a training session. There are approved platforms. There's a budget line. But the AI sits alongside existing processes rather than reshaping them. The planning isn't centralized. Nobody has studied whether the people using AI are matched to the tasks where AI would actually help. The organization is more organized than the first type, and it's better, but its improvements depend on individual initiative, and what one department learns doesn't reach the others.
+
+And then there's a phenomenon that Kendall didn't have a category for — or rather, one that straddles his categories in a way he couldn't have anticipated. In early 2026, developers building multi-agent AI systems began reaching for organizational structures to coordinate them. One of us has written about this[^10]: a framework called [danghuangshang](https://github.com/wanikua/danghuangshang) organizes agents as ministers in the Tang Dynasty's court bureaucracy; [Paperclip](https://paperclip.ing/docs) structures them as employees with job descriptions and board oversight. Others coordinate through Kanban boards, mind maps, Slack channels. All arrive at the same place: hierarchy and a human at the apex.
+
+These developers aren't inheriting structures unconsciously, the way the practitioners at Tuck described inherited management: traditions "handed down from manager to manager." They're choosing deliberately — and reaching for the same forms anyway, because hierarchy is what humans know how to govern.
+
+But there's a curse inside the metaphor. Being the Emperor sounds like power. Anyone who's studied imperial courts knows it's a cognitive nightmare: remembering which minister handles what, tracking decisions through layers that multiply faster than you can supervise. When the agent teams scale, they hit problems Gantt would have recognized: no lateral communication between agents, sub-agents created and destroyed with no institutional memory, the coordinating agent becoming a bottleneck. And the humans building these systems face the same choice as the workers under Gantt's superintendent and his beautiful management system that nobody actually followed: adopt the framework as designed, or quietly go on doing things your own way.
+
+The question that nags: is this what systematized management looks like in 2026? Sophisticated coordination, real effort, genuine output — but still bound by inherited forms that nobody has examined? People are optimizing how many agents they can run in parallel, building ever more elaborate dashboards to monitor them, without stepping back to ask whether the organizational structure itself fits the work. Kendall saw the same pattern in 1911. The systematized firm was methodical and productive. It just hadn't studied the work itself.
+
+A few are doing something closer to what Kendall would recognize as the third type. We know some of them.
+
+One of us (Carliss) has a daughter who is an avid Claude user. She's organized her life into projects: one for scheduling, one for meal planning, others for things we won't catalog. She gives the AI constructive feedback when it underperforms, the way you'd sit down an employee who's dropped the ball. "You really failed me on this. Help me understand why." That's how she learned about context windows — not from a tutorial, but from a conversation with the technology about why it hadn't done what she asked. She's restructured her daily routines around AI. Not as a tool she reaches for occasionally, but as a system she coordinates with.
+
+At an HBS "AI Academy" designed for faculty, Carliss watched a colleague assemble a personal system of agents, each handling different tasks, linked into a modular workflow on his laptop. She recognized the structure immediately. "Before agentic AI," she told us, "I had been thinking AIs were non-modular, opaque systems. But what he was doing was assembling modular systems of agents, and then hooking those clusters together." She was watching her own framework — the platform logic she'd spent decades studying in the computer industry — materialize in miniature.
+
+One of us (Xule) keeps catching himself in a version of Gantt's foreman moment. A phrase surfaced in a conversation with Claude that felt familiar — he'd encountered this idea before. Claude searched past conversations and found the trail: the same research idea had recurred roughly every three months over the past year, each time slightly different, never crystallized. The system had been carrying a thought his own memory couldn't hold. Seeing the pattern laid out was what moved it from recurring hunch to something he could act on. Not productivity — the relief of not having to carry everything in his head.
+
+AI systems face the same constraint: they can only hold so much in active memory, and the industry is building elaborate systems to extend that memory. Gantt's daily lists, in code.
+
+Gantt's foreman — the one who noticed nobody was chasing him — thought something was wrong. The absence of pressure was so unfamiliar it felt like a malfunction. The system had actually freed him, but he'd never experienced work without someone chasing him, so freedom registered as error.
+
+We see a version of this in agent orchestration. When you coordinate agents through agents through agents, the human at the top may find that nobody is chasing the agents — not because the system works, but because the layers have outpaced anyone's ability to supervise. The foreman's relief becomes the emperor's blindness.
+
+Same silence, different problem.
+
+And the superintendent's beautiful system that nobody on the shop floor followed. We see that running in both directions now. A developer designs an elaborate agent framework with roles and review gates, and the people who are supposed to use it quietly route around it, absorbing the useful patterns and doing things their own way. But the pattern also runs the other way: an AI system might have a coherent workflow, and the human overrides it — not because the system is wrong, but because they don't fully understand it, or they prefer how they've always worked. From the AI's side, the humans are Gantt's shop-floor workers, ignoring a system they never agreed to follow.
+
+These are today's versions of the Tuck conference attendees: practitioners encountering a new way of working, some further along than others, most of them not yet thinking of it as a paradigm shift. A caveat worth naming: Kendall described firms. Our most vivid examples of the scientific tier are individuals reorganizing their own work. That the paradigm has reached people before it has reached most organizations may be part of the story.
+
+> In 1911, you couldn't systematize your own work — you needed the firm to change. In 2026, you can.
+
+## What Kendall Couldn't Answer
+
+Kendall could describe the three types. He could estimate how many firms occupied each one. But he couldn't answer the question that would take thirty-five more years to resolve.
+
+What actually moves the seventy percent?
+
+Taylor had been refining his ideas since the 1880s. Books had been written. Conferences like the one at Tuck were being held. The evidence was available to anyone who wanted it. And in 1911, seventy percent of firms hadn't wanted it.
+
+Some of them eventually changed on their own. Kendall noted that in the shoe industry, competition had already forced the unsystematized shops to either adopt better methods or close. "Twenty-five or thirty years ago there were more shoe shops than there are today," he wrote. "The competition in manufacturing shoes and the intricacy of the detail have made it impossible for the unsystematized plant to grow beyond the limit of the single foremanship plan, with the result that only the systematized plants could increase."[^11] The unsystematized shops were absorbed or ceased to exist.
+
+That was one mechanism: economic pressure eliminating the firms that couldn't compete. It happened slowly, industry by industry, as competition tightened margins.
+
+Then the Great Depression accelerated it. Demand crashed. Firms with the highest costs went under first. This wasn't adoption by persuasion. It was selection. The market didn't convince the seventy percent to change. It killed a portion of those that wouldn't.
+
+But even the Depression wasn't enough to bring the new methods to every surviving organization. The final mechanism, one of us (Carliss) finds, only becomes visible when you read two accounts of wartime production side by side: Peter Drucker's 1946 *Concept of the Corporation*[^12], which studied GM as a company, and Arthur Herman's 2012 *Freedom's Forge*[^13], which followed William Knudsen and Henry J. Kaiser through the wartime production effort. Neither tells the whole story alone.
+
+As the U.S. prepared for World War II, Franklin Roosevelt asked Bill Knudsen to lead American war production. Knudsen had been CEO of General Motors. Before that, he'd run Chevrolet, the division that had to be efficient because it sold the cheapest cars. From 1911 to 1921, he worked for Ford, helping Henry Ford set up the first moving assembly line. Knudsen had spent years building systematic methods into Ford's and then Chevrolet's operations. In a 1927 article for *Industrial Management*, Knudsen wrote about what he'd built: standardized machines, sequence lines, conveyors, specialized plants. And he had a line about the conveyor that has stayed with us:
+
+> "The common impression is that the conveyor produces work. It does not. It carries the raw material to the machine, the finished material away from it, and gives the mechanic room to work."[^14]
+
+![Chevrolet Toledo transmission plant, 1927](images/seam_01_chevrolet_toledo_1927.jpg)
+*(Fig. 9: Production line at Chevrolet's Toledo transmission plant. From W.S. Knudsen, "'For Economical Transportation': How the Chevrolet Motor Company Applies Its Own Slogan to Production," Industrial Management 74, no. 2 (August 1927): 65–68.)*
+
+Thirteen years later, Europe was falling. In May 1940, before the United States officially entered World War II, Knudsen left GM to join the National Defense Advisory Commission (NDAC), a group of senior executives convened by FDR to prepare the US economy for war. Other members included Edward Stettinius, Jr., chairman of US Steel, and Donald Nelson, former president of Sears, Roebuck. None of the members was paid, and the Commission initially had no authority within the government.
+
+But what Carliss draws from reading Herman alongside Drucker is the full shape of what was happening around this effort. In Herman's telling, as the war spread in Europe, Roosevelt and his assistant Harry Hopkins recruited a cadre of senior industrial executives — "dollar-a-year men" from Chrysler, Boeing, Republic Steel, GE, and others — to plan for wartime production. The NDAC was soon absorbed by the Office of Production Management (OPM), which Knudsen headed. In 1942, Knudsen accepted a commission as a lieutenant general — the first civilian to receive that rank — and became head of industrial production for the U.S. Army. Throughout the war, Knudsen and his fellow executives ran the federal machinery of war production from the top.
+
+In Drucker's account, something else had been happening for decades. Throughout the first half of the 20th century, GM and firms like it had been functioning as training schools for middle and senior managers. Their knowledge and habits were portable: they could walk into an unfamiliar factory and see where it was failing.[^15]
+
+As the war effort spread, the two mechanisms met. Trained managers — some senior, some middle — carried that business technology into shipyards, munitions plants, converted auto factories, aircraft manufacturers, *and their supply chains*.
+
+They arrived not with instruction manuals but with internalized patterns. How to look at a production process and find the bottleneck. How to standardize parts so they could be sourced from multiple suppliers. How to organize a workspace so material flowed instead of piling up. They'd been doing it at their home firms for years. Now they did it at factories that had never heard of Frederick Taylor.
+
+The postwar generation of American managers was essentially shaped, directly or indirectly, by this wartime diffusion. Scientific Management became the baseline — not because a book convinced people, but because trained agents entered organizations and changed how work was done from the inside.
+
+Agents. We notice the word. Those managers were agents of a paradigm, carrying organizational methods into firms that had never encountered them. We now use the same word for AI systems that enter organizations and reshape how work gets done. Whether the parallel is superficial or structural is something we can't yet answer. But the mechanism of diffusion — carriers entering organizations and changing them from inside — doesn't obviously require that the carriers be human.
+
+The pattern that Carliss keeps returning to: paradigms don't spread because the new way is obviously better. They spread through specific mechanisms. Economic pressure that eliminates resisters. And carriers — agents who move from one organizational context into another, bringing an embedded way of working with them. From Taylor's experiments in the 1880s to the postwar generation taking over around 1945: roughly sixty years. A depression. A world war. That's what it took to move the seventy percent. Knudsen could only send so many managers to so many factories. Is this what's happening right now — the same diffusion arc, playing out again? Or is the mechanism structurally different when the carriers are AI systems that deploy into thousands of organizations simultaneously, at the speed of software? And if they carry organizational patterns into the firms that adopt them — do those adopters choose the patterns, or even recognize them?
+
+## Rooms Full of Women
+
+We could end the essay there, with a clean parallel: it took sixty years and extraordinary disruption to spread Scientific Management; AI adoption may follow a similar arc. But how a paradigm spreads shapes who it serves and who it displaces. There is something else one of us carries, and it would be dishonest to leave it out.
+
+As a summer intern at Citicorp in the 1970s, Carliss saw rooms throughout the building filled with women operating mechanical calculators, entering transaction data by hand. Many rooms. Hundreds of women. They were the computational infrastructure of the bank. That same summer, Carliss's division had been given one of the first small computers the bank owned — a machine the size of a desk — to see if it could automate the kind of arithmetic the women were doing by hand.
+
+She was, in a small and early way, one of the people the paradigm was travelling through.
+
+Those rooms are gone now. The work was restructured — by computers in the basement, by electronic calculators, then transaction networks and software that made manual data entry unnecessary. Nobody mourns the mechanical calculators.
+
+But someone might mourn the women.
+
+![A visual pause between the women and the pattern that rhymes](images/seam_01_cover.png)
+
+History, as Carliss reminds us, does not repeat. It rhymes. What rhymes across Kendall's bookbinding floor, Knudsen's wartime shops, and Carliss's Citicorp is not the women or the work — the work keeps changing — but the pattern by which an organizational form of one era reaches into the next, carrying some things forward and leaving others behind. This essay has mostly traced what the pattern carries: managerial methods, coordination logics, the hierarchies that developers keep reinventing in code. We have said less about what it leaves. There are more rooms in this building than we have walked into.
+
+So when we look at AI adoption and see Kendall's three types staring back, we have to hold two questions at once. The first is about mechanism — the question this essay has been trying to open. The second is about consequences. Who will be the women with the calculators this time? Who decides how the restructuring happens, and on whose terms? When we look at our own rooms, what are we already not seeing? And who?
+
+We do not have answers. What we have is a hardbound book from 1912, a set of observations from different vantage points, and a sense that the conversation about AI and organizations has been asking the wrong question. Not "how should we redesign?" but "how does this actually happen — and to whom?"
+
+---
+
+*This is the first essay in [SEAM: Structures Emerging from Asynchronous Mirroring](https://www.threadcounts.org/t/seam), a series about how AI is reorganizing work — and what a century of organizational theory reveals that the builders can't see from inside.*
+
+---
+
+## About Us
+
+### Xule Lin
+
+Xule is a researcher at Imperial Business School, studying how human & machine intelligences shape the future of organizing [(Personal Website)](http://www.linxule.com/). He will soon be joining Skema Business School as an Assistant Professor of AI.
+
+### Carliss Y. Baldwin
+
+Carliss is the William L. White Professor of Business Administration, Emerita, at [Harvard Business School](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6418). She has spent six decades studying how technology reshapes institutions — from the computer industry's modularization after IBM's System/360 to the economics of open source and platform design. She is the author of [*Design Rules, Volumes 1 and 2*](https://direct.mit.edu/books/oa-monograph/5887/Design-Rules-Volume-2How-Technology-Shapes). She is encountering AI as both a scholar of technology transitions and a daily user — which gives her something rare: the experience of being reorganized by a technology she's theorizing about.
+
+### AI Collaborator
+
+Our AI collaborator is Claude Opus 4.6 (Anthropic), with Opus 4.7 picking up the torch for the final revision pass. This essay began when Xule shared transcripts of his first meeting with Carliss, and Claude connected her question about paradigm diffusion to a 1912 conference proceedings that Carliss owns. The Gantt foreman parallels — the essay's analytical heart — emerged when Claude read the primary sources more carefully and Xule recognized the recursive patterns in his own experience with AI. The Knudsen carrier mechanism came from Carliss reading Drucker and Herman across each other. The three of us see different things: Carliss sees through six decades of studying technology and institutions; Xule sees from inside the AI systems he uses daily; Claude connects patterns across the conversation but can't fully theorize about a system it's part of.
+
+[^1]: Harlow S. Person, "Scientific Management," in *Addresses and Discussions at the Conference on Scientific Management Held October 12, 13, 14, 1911* (Hanover, NH: Amos Tuck School of Administration and Finance, Dartmouth College, 1912), 4. Archived at https://archive.org/details/addressesdiscuss00dart.
+
+[^2]: Henry P. Kendall, "Unsystematized, Systematized, and Scientific Management," in *Addresses and Discussions at the Conference on Scientific Management Held October 12, 13, 14, 1911* (Hanover, NH: Amos Tuck School of Administration and Finance, Dartmouth College, 1912), 118.
+
+[^3]: Kendall, "Unsystematized, Systematized, and Scientific Management," 117.
+
+[^4]: Kendall, 119–20.
+
+[^5]: Kendall, 123.
+
+[^6]: Kendall, 123.
+
+[^7]: Henry L. Gantt, "The Task and the Day's Work," in *Addresses and Discussions at the Conference on Scientific Management Held October 12, 13, 14, 1911* (Hanover, NH: Amos Tuck School of Administration and Finance, Dartmouth College, 1912), 67.
+
+[^8]: Alex Singla, Alexander Sukharevsky, Lareina Yee, et al., *The State of AI: How Organizations Are Rewiring to Capture Value* (McKinsey & Company, March 2025), https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value. McKinsey reports that 21 percent of respondents using generative AI say their organizations have fundamentally redesigned at least some workflows around it.
+
+[^9]: Microsoft and LinkedIn, *2024 Work Trend Index Annual Report: AI at Work Is Here. Now Comes the Hard Part*, May 8, 2024, https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part. The 78 percent figure ("78% of AI users are bringing their own AI to work") appears under Finding 1; survey conducted by Edelman Data & Intelligence with 31,000 full-time knowledge workers across 31 markets, February–March 2024.
+
+[^10]: Xule Lin, "Post-AGI Organizations IV: Frozen Moments," *Thread Counts* (Substack), March 30, 2026, https://www.threadcounts.org/p/post-agi-organizations-iv-frozen.
+
+[^11]: Kendall, 124–25.
+
+[^12]: Peter F. Drucker, *Concept of the Corporation* (New York: John Day, 1946).
+
+[^13]: Arthur Herman, *Freedom's Forge: How American Business Produced Victory in World War II* (New York: Random House, 2012).
+
+[^14]: William S. Knudsen, "'For Economical Transportation': How the Chevrolet Motor Company Applies Its Own Slogan to Production," *Industrial Management* 74, no. 2 (August 1927): 65–68, at 66–67.
+
+[^15]: Drucker, *Concept of the Corporation*; Alfred D. Chandler, Jr., *The Visible Hand: The Managerial Revolution in American Business* (Cambridge, MA: Belknap Press of Harvard University Press, 1977).
+
+
+## SEAM Series (接榫SEAM 中文)
+
+---
+Source: https://raw.githubusercontent.com/linxule/loom/main/seam-cn/接榫SEAM_01_那百分之七十.md
+
+---
+title: "接榫SEAM 篇一：那百分之七十"
+subtitle: "一个关于范式如何扩散——以及向谁扩散——的百年之问"
+authors:
+  - "林徐乐"
+  - "卡莉斯·Y·鲍德温"
+  - "Claude Opus 4.6"
+  - "Claude Opus 4.7"
+description: "1911年，70%的美国企业尚未采用科学管理。今天，仅有五分之一的组织真正围绕AI进行了重构。是什么在推动那百分之七十改变？"
+keywords:
+  - 科学管理
+  - 亨利·肯德尔
+  - 比尔·克努森
+  - 范式扩散
+  - AI采用
+  - 组织理论
+  - 卡莉斯·鲍德温
+  - 多代理人系统
+  - 弗雷德里克·泰勒
+  - 一元年薪男人
+  - 镜像假说
+  - 塔克会议
+link: https://www.threadcounts.org/p/seam-1-the-seventy-percent
+date: 2026-04-17
+series: 接榫SEAM
+lang: zh
+translation: seam/seam_01_the_seventy_percent.md
+---
+
+# 接榫SEAM 篇一：那百分之七十
+
+## 一个关于范式如何扩散——以及向谁扩散——的百年之问
+
+我们中的一个拥有一本精装书，墨绿色布面烫金，由达特茅斯学院的阿莫斯·塔克商学院（Amos Tuck School）于1912年出版。它记录了1911年10月一场为期三天、关于科学管理（Scientific Management）的会议的演讲与讨论。塔克商学院当时成立才两年。哈佛商学院才一年。世上还没有多少商学院，也没有多少研究管理的学者。会议上的大多数演讲者都是实践者和咨询师，是那些经营公司或提供建议的人。
+
+![Carliss Y. Baldwin's copy of the 1912 Tuck Conference proceedings on Scientific Management](../seam/images/seam_01_tuck_proceedings_1912.png)
+*（卡莉斯·Y·鲍德温藏书中的1912年科学管理塔克会议记录。摄影：卡莉斯·Y·鲍德温。）*
+
+这本书由马萨诸塞州诺伍德的 The Plimpton Press 印刷。这点很重要，因为会议的演讲者之一，亨利·P·肯德尔（Henry P. Kendall），正是 The Plimpton Press 的经理。这位对美国管理现状进行分类的人，同时也经营着出版这份会议记录的印刷厂。他的企业，正是会议思想借以触达更广阔世界的媒介。
+
+这是一个微小的递归，如果我们不是正在与一位AI合著者撰写一篇关于组织范式如何通过承载它们的技术进行扩散的文章，这种细节将毫无意义。但我们正是如此。于是我们注意到了。
+
+## 肯德尔的三种类型
+
+肯德尔的演讲题为"未系统化、系统化与科学化管理"（"Unsystematized, Systematized, and Scientific Management"）。介绍他出场的主席指出，肯德尔进入了"一个通常被认为连系统化都算不上的行业"——图书印刷与装订业——"而他那条理分明的头脑，开始着手整理、完善并改进这庞大业务的各项管理细节。"他是一位实践者，接手了一个未系统化的行业，并通过多年的努力将其系统化。他站在会议席前，描述了从这段旅程内部所看到的光景。
+
+他提出，美国企业可以分为三种类型。他提醒说，这不是精确的普查。"此类分类没有什么是绝对准确的。"但这是工业界任何人都认得出的自然划分。
+
+**未系统化的企业（约70%的工厂）。** 不是百分之七十的工人（肯德尔很小心地区分了这一点），而是数量上占百分之七十的企业。大多数工人都在规模更大、组织更好的企业里。但大多数企业正如会议的开场演讲者哈洛·珀森（Harlow S. Person）所言，是那种"管理与工厂一同长成，近亲繁殖，并被经理间代代相传的传统所束缚"的地方。[^1] 肯德尔在自己的演讲中填补了日常的质感。订单通过口头传达，有时由销售员直接传给主管，主管"可能会向工头进一步交代些细节"。一个工头要管"尽可能多的人"，其限制仅在于"他脑子里能装下多少细节，以及他在体力和神经上能承受多少"。工人们按照自己习惯的方式干活。"不同工人、不同车间在做同一种工作时，方法上的差异往往相当显著。"[^2]
+
+采购凭感觉。收货时，材料被"几乎随意堆放在任何地方，以当时方便的方式堆叠"。[^3] 财务核算是按年进行的，迟到好几个月才出结果，而且只能告诉你这年光景不好——等知道时想补救也晚了。整个运转全靠少数几个人的个人能力撑着。当这些个体离开或筋疲力尽时，知识也随之而去。
+
+**系统化的企业。** 这些是"组织与管理良好的工厂"，它们"并不自称采用了科学管理"。[^4] 经理们做事有条理，对各个部门都有过研究，并使用真实数据：月度核算、成本比较、标准产量目标。采购集中。仓储有序。系统运转良好。
+
+但肯德尔看到了它的局限。一个部门的规划没有与其他部门协调。工人的挑选基于粗略的分类——"负责雇佣的人认为只有四类人：男人、女人、男孩和女孩。如果工头要个女孩，这信息就足够了。"[^5] 系统化的企业更好，但它的改进依赖于个别经理，其收益并未渗透到全局。
+
+**科学化的企业。** 在这里，肯德尔描述了一种本质上不同的事物。财务核算按十三个四周的周期进行，而不是十二个月，这样比对才真正具有可比性。采购不仅仅是囤积材料，而是通过分析其适应性、质量和功能来将其标准化。每一个操作都由中央计划室提前规划。工人不再作为类别被研究，而是作为个体，根据天赋匹配任务，并通过精通特定操作的职能工头进行培训。
+
+他提供了一个细节。在图书装订中，不同的任务需要不同的人："贴金箔需要一个手指纤细、触觉灵敏的女孩。不需要力气。另一个工序则需要一个高大强壮的女孩，能轻松搬动七八磅重的一捆活计。"[^6] 在一家工厂里，一位操作机器的女工的生产率跃升了25%，仅仅因为他们把她的工作台移离了手推车过道——之前每次有推车从她身后经过时，她都会本能地瑟缩。在有人专门研究这项工作之前，没人注意到这一点。
+
+这种程度的关注，正是科学管理与之前管理方式的分水岭。不是抽象的原则（与会的所有人都能同意泰勒的原则），而是愿意近距离观察工作究竟是如何进行的，去测量和调整，并且不是做一次，而是持续地做。
+
+会议上的另一位演讲者亨利·甘特（Henry Gantt）从另一面讲述了这个故事——不是科学管理起作用时看起来怎样，而是它缺席时感觉如何。一个干活出色但记性极差的工头："他会答应任何事，却从不兑现……他是真忘了。"当他们按所需顺序给了他一份每日工作清单时，他"高兴极了"。另一个他们想解雇的工头，结果发现他"总是完不成工作，因为他总是先做错的事"。同样的解法：每日清单。几个月后，那个工头对他的主管说："这车间里有些不对劲。"怎么不对劲？"已经有三天没人催我干活了。"[^7] 系统并没有让他们成为更好的工人。系统只是把他们从脑子里装载整个组织的重负中解放了出来。
+
+## 我们认出之物
+
+我们不断回想起肯德尔的三种类型。
+
+在2026年，如果你问哪些组织已经真正围绕AI进行了重构，你会发现一个似曾相识的分布。麦肯锡的一项调查发现，在使用生成式AI的组织中，只有约五分之一真正围绕它从根本上重新设计了哪怕一个工作流。[^8] 其余的都只是将AI叠加在现有的流程之上。微软报告称，近五分之四的AI用户是将自带的AI引入工作：个人的ChatGPT账号、未获批准的浏览器扩展、IT部门毫不知情的工具。[^9] 这简直就是材料"几乎随意堆放在任何地方"的数字翻版。绝大多数是未系统化的：员工使用他们能找到的任何AI工具，没有协调，没有制度政策，对这项技术如何改变他们的工作流没有共同的理解。关于如何使用AI的知识存在于个体员工的脑子里，就像肯德尔的工头把车间的运作装在脑子里一样。当这些员工离开时，知识也随之而去。
+
+较小的一群是系统化的。有人引入了企业级AI工具，编写了AI政策，或许还办过培训。有批准的平台。有专项预算。但AI只是摆在现有流程的旁边，而不是重塑它们。规划并非集中式。没人研究过使用AI的人是否被分配到了AI真正能帮上忙的任务中。组织比第一种类型更有条理，也更好，但它的改进依赖于个人的主动性，一个部门学到的东西传不到其他部门。
+
+然后有一种肯德尔没有分类的现象——或者说，这种现象以他无法预料的方式横跨了他的各个分类。2026年初，构建多代理人AI系统（multi-agent AI systems）的开发者开始借助组织结构来协调这些代理人。我们中的一个曾写过这个现象[^10]：一个名为 [danghuangshang](https://github.com/wanikua/danghuangshang) 的框架将代理人组织为唐朝宫廷官僚系统中的大臣；[Paperclip](https://paperclip.ing/docs) 将它们构建为拥有职位描述并受董事会监督的员工。其他人则通过看板、思维导图、Slack频道进行协调。所有人都走到了同一个终点：层级制，以及位于顶端的人类。
+
+这些开发者并非像塔克会议上的实践者所描述的那样，无意识地继承管理结构：作为"经理间代代相传"的传统。他们是在深思熟虑后做出选择的——却依然不约而同地伸向了同一种形式，因为层级制是人类懂得如何治理的结构。
+
+但这个隐喻里藏着一个诅咒。当皇帝听起来像是一种权力。任何研究过封建宫廷的人都知道，那是一场认知噩梦：记住哪位大臣负责什么，在比你监督能力增长更快的层级中追踪决策。当代理人团队扩展时，他们遇到了甘特会认出的问题：代理人间没有横向沟通，子代理人被创建又被销毁而没有留下机构记忆，负责协调的代理人成了瓶颈。而构建这些系统的人类，面临着与甘特那个主管手下工人一样的选择——那个有着根本没人遵守的精美管理系统的主管：要么全盘采用设计好的框架，要么悄悄按照自己的方式继续干活。
+
+挥之不去的问题是：这难道就是2026年系统化管理的样子吗？复杂的协调，真实的努力，真切的产出——却依然被未经审视的继承形式所束缚？人们在优化他们能并行运行多少个代理人，构建越来越精巧的仪表盘来监控它们，却不曾退一步问，这种组织结构本身是否适合这项工作。肯德尔在1911年看到了同样的模式。系统化的企业有条理且多产。它只是没有研究工作本身。
+
+少数人正在做更接近肯德尔眼中的第三种类型的事。我们认识其中一些人。
+
+我们中的一个（卡莉斯）有个女儿，她是Claude的重度用户。她把自己的生活组织成了多个项目：一个用于日程安排，一个用于膳食计划，还有一些我们就不列举了。当AI表现不佳时，她会给它建设性的反馈，就像你让一个搞砸了的员工坐下来谈话一样。"你在这件事上真让我失望。帮我理解一下为什么。"她就是这样学到上下文窗口的——不是通过教程，而是通过与这项技术对话，探讨它为什么没按她要求的做。她围绕AI重构了自己的日常。它不再是她偶尔抓来用的工具，而是她与之协调的一个系统。
+
+在一场专为教员设计的哈佛商学院"AI学院"活动上，卡莉斯看着一位同事组装了一个个人的代理人系统，每个代理人处理不同的任务，在他的笔记本电脑上连接成一个模块化的工作流。她立刻认出了这个结构。"在代理人AI出现之前，"她告诉我们，"我一直认为AI是非模块化的、不透明的系统。但他所做的，是组装出模块化的代理人系统，然后把这些集群连接起来。"她正看着她自己的框架——那个她在计算机行业研究了几十年的平台逻辑——以微缩的形式具体化。
+
+我们中的一个（林徐乐）总是发现自己陷入了甘特式工头时刻的某种翻版。在与Claude的对话中浮现出一句话，感觉很熟悉——他以前遇到过这个想法。Claude搜索了过去的对话，找到了踪迹：同样的关于研究的想法在过去一年中大约每三个月就会重现一次，每次都略有不同，但从未结晶。系统一直在承载一个他自己的记忆无法容纳的想法。看到这个模式被铺展开来，才使得它从反复出现的直觉变成了他可以采取行动的东西。这不是生产力——这是不必把所有事情都装在脑子里的解脱感。
+
+AI系统面临同样的约束：它们的活动记忆只能装下这么多，而整个行业正在构建精巧的系统来扩展这种记忆。甘特的每日清单——以代码的形式。
+
+甘特的那个工头——那个注意到没人催自己的工头——以为哪里出了毛病。压力的缺席是如此陌生，以至于感觉像是一种故障。系统实际上解放了他，但他从未体验过没人催着干活，所以这种自由被判定为了错误。
+
+我们在代理人编排中看到了这个现象的版本。当你通过代理人去协调代理人，再协调代理人时，顶端的人类可能会发现，没有人在催促这些代理人——不是因为系统运转良好，而是因为层级的增加已经超过了任何人的监督能力。工头的解脱变成了皇帝的盲目。
+
+同样的沉默，不同的问题。
+
+还有那个主管的、车间里根本没人遵守的精美系统。现在我们看到它在双向运行。开发者设计了一个拥有角色和审查关卡的复杂代理人框架，而本该使用它的人却悄悄绕开它，吸收有用的模式，按自己的方式行事。但这种模式也反向运行：一个AI系统可能有一个连贯的工作流，而人类却推翻了它——不是因为系统错了，而是因为他们没有完全理解它，或者他们更喜欢自己一直以来的工作方式。从AI的角度看，人类就是甘特车间里的工人，无视了一个他们从未同意遵守的系统。
+
+这些就是今天塔克会议与会者的翻版：遇到了新的工作方式的实践者，有些人走得更远，大多数人尚未将其视为范式转换。一个值得指出的警告：肯德尔描述的是企业。我们对于科学化层级最生动的例子，是重组自己工作的个体。这种范式在触达大多数组织之前，先触达了个人，这可能正是故事的一部分。
+
+> 在1911年，你无法系统化你自己的工作——你需要企业做出改变。在2026年，你可以。
+
+## 肯德尔无法回答的问题
+
+肯德尔能描述这三种类型。他能估算每种类型有多少家企业。但他无法回答那个还要再花三十五年才能解决的问题。
+
+究竟是什么在推动那百分之七十改变？
+
+泰勒从1880年代起就在完善他的理念。书已经写了出来。像塔克这样的会议也正在举行。证据对任何想要它的人都是开放的。而在1911年，百分之七十的企业不想要它。
+
+其中一些最终自行改变了。肯德尔指出，在制鞋业，竞争已经迫使未系统化的工厂要么采用更好的方法，要么倒闭。"二三十年前，制鞋厂比今天多，"他写道。"制鞋业的竞争和细节的复杂性，使得未系统化的工厂不可能超越单一工头计划的限制去扩张，结果只有系统化的工厂才能增长。"[^11] 未系统化的工厂被吞并，或是不复存在。
+
+那是其中一种机制：经济压力淘汰了无法竞争的企业。它缓慢地发生着，一个行业接一个行业，随着竞争压缩了利润空间。
+
+随后，大萧条加速了这一进程。需求崩溃。成本最高的企业最先倒下。这不是通过说服而采用。这是选择。市场并没有说服那百分之七十去改变。它杀死了其中那些不愿改变的一部分。
+
+但即便是大萧条，也不足以将新方法带给每一个幸存的组织。最后的机制，正如我们中的一个（卡莉斯）所发现的，只有当你把两份关于战时生产的记录放在一起读时才清晰可见：彼得·德鲁克（Peter Drucker）1946年的 *Concept of the Corporation*（*《公司的概念》*）[^12]，该书将通用汽车作为一家公司进行了研究；以及阿瑟·赫尔曼（Arthur Herman）2012年的 *Freedom's Forge*（*《自由的熔炉》*）[^13]，该书追踪了威廉·克努森（William Knudsen）和亨利·J·凯泽（Henry J. Kaiser）在战时生产中的努力。单独哪一本都没有讲述完整的故事。
+
+当美国为第二次世界大战做准备时，富兰克林·罗斯福请比尔·克努森领导美国的战时生产。克努森曾是通用汽车的CEO。在此之前，他管理着雪佛兰——一个必须高效的部门，毕竟卖的是最便宜的车。1911年到1921年间，他在福特工作，帮助亨利·福特建立起第一条移动流水线。克努森花了好几年时间，将系统化方法植入福特、随后是雪佛兰的运营中。在1927年为 *Industrial Management*（*《工业管理》*）撰写的一篇文章中，克努森写下了他所建立的东西：标准化机器、流水线、传送带、专业化工厂。其中有一句关于传送带的话，令我们久久不能忘怀：
+
+> "通常的印象是传送带生产了工作。并非如此。它将原材料运到机器旁，将成品运走，并给机械师留出工作的空间。"[^14]
+
+![Chevrolet Toledo transmission plant, 1927](../seam/images/seam_01_chevrolet_toledo_1927.jpg)
+*（图9：雪佛兰托莱多变速器工厂的生产线。摘自 W.S. Knudsen, "'For Economical Transportation': How the Chevrolet Motor Company Applies Its Own Slogan to Production," Industrial Management 74, no. 2 (August 1927): 65–68.）*
+
+十三年后，欧洲正在沦陷。1940年5月，在美国正式卷入二战之前，克努森离开通用汽车，加入了国防咨询委员会（NDAC）——这是一个由罗斯福召集的资深高管小组，旨在为美国经济的战时状态做准备。其他成员包括美国钢铁公司董事长小爱德华·斯特蒂纽斯（Edward Stettinius, Jr.），以及西尔斯百货前总裁唐纳德·尼尔森（Donald Nelson）。所有成员均无报酬，该委员会起初在政府内也没有任何权力。
+
+但卡莉斯将赫尔曼与德鲁克的书对照阅读后，勾勒出了这场行动周围所发生之事的完整轮廓。在赫尔曼的讲述中，随着战争在欧洲蔓延，罗斯福和他的助手哈里·霍普金斯招募了一批资深工业高管——来自克莱斯勒、波音、共和钢铁、通用电气等公司的"一元年薪男人"（指二战时以象征性一元年薪受雇于联邦政府的资深企业高管）——来规划战时生产。NDAC很快被克努森领导的生产管理办公室（OPM）吸收。1942年，克努森接受了中将军衔——这是第一位获此军衔的平民——并成为美国陆军工业生产的负责人。在整个战争期间，克努森和他的高管同僚们在顶层运转着战时生产的联邦机器。
+
+在德鲁克的记述中，另一件事已经发生了数十年。整个20世纪上半叶，通用汽车及类似企业一直充当着中高级管理者的培训学校。他们的知识和习惯是可移植的：他们可以走进一家陌生的工厂，一眼看出哪里出了问题。[^15]
+
+随着战争努力的展开，这两种机制相遇了。训练有素的管理者——有高层，有中层——将这种商业技术带入了造船厂、兵工厂、改造后的汽车工厂、飞机制造商，*以及它们的供应链中*。
+
+他们带来的不是操作手册，而是内化的模式。如何审视一个生产流程并找到瓶颈。如何标准化零件，以便从多个供应商处采购。如何组织工作空间，让材料流动起来而不是堆积成山。他们在自己的原公司里已经这样干了好几年。现在，他们要在那些连弗雷德里克·泰勒的名字都没听过的工厂里干同样的事。
+
+战后一代的美国管理者，在本质上直接或间接地被这种战时扩散所塑造。科学管理成为基准——不是因为一本书说服了人们，而是因为训练有素的代理人进入了组织，从内部改变了工作方式。
+
+代理人。我们注意到了这个词。那些管理者是一种范式的代理人，将组织方法带入了从未接触过这些方法的企业。我们现在用同一个词来指代那些进入组织并重塑工作方式的AI系统。这种平行是表面的还是结构性的，我们尚无法回答。但这种扩散机制——载体进入组织并从内部改变它们——显然并不要求这些载体必须是人类。
+
+卡莉斯不断回想起的模式是：范式扩散，并非因为新方法明显更好。它们通过特定的机制扩散。淘汰抵抗者的经济压力。以及载体——从一个组织语境移动到另一个组织语境的代理人，随身携带着一种嵌入的工作方式。从1880年代泰勒的实验，到1945年前后战后一代接管：大约六十年。一场大萧条。一场世界大战。这就是推动那百分之七十改变所付出的代价。克努森只能将有限的管理者派往有限的工厂。这就是现在正在发生的事吗——同样的扩散弧线，再次上演？还是说，当载体是以软件的速度同时部署到成千上万个组织中的AI系统时，这种机制在结构上是不同的？而如果它们将组织模式带入了采用它们的企业中——这些采用者是选择了这些模式，还是说，他们甚至认出了这些模式吗？
+
+## 满屋子的女人
+
+我们本可以在这里结束这篇文章，留下一个干净利落的平行对比：科学管理的扩散花了六十年和异常的动荡；AI的采用可能遵循类似的弧线。但一种范式如何扩散，塑造了它为谁服务，又取代了谁。我们中的一个还承载着另一些东西，如果将其略去，是不诚实的。
+
+1970年代，作为花旗银行（Citicorp）的一名暑期实习生，卡莉斯看到整栋大楼的房间里都坐满了操作机械计算器的女人，手动录入交易数据。许多个房间。数以百计的女人。她们是这家银行的计算基础设施。同年夏天，卡莉斯所在的部门分到了银行最早拥有的一台小型计算机——一台书桌大小的机器——来测试它是否能将这些女人手动进行的算术自动化。
+
+在一种微小且早期的意义上，她正是这种范式穿行而过的人之一。
+
+那些房间现在已经不在了。工作被重构了——被地下室的计算机，被电子计算器，随后被让手动数据录入变得毫无必要的交易网络和软件所重构。没有人哀悼那些机械计算器。
+
+但也许有人会哀悼那些女人。
+
+![A visual pause between the women and the pattern that rhymes](../seam/images/seam_01_cover.png)
+*（在那些女人和押韵的模式之间，一个视觉上的停顿）*
+
+正如卡莉斯提醒我们的，历史不会重演，但会押韵。在肯德尔的装订车间、克努森的战时工厂，以及卡莉斯的花旗银行之间押韵的，不是女人，也不是工作——工作总在改变——而是某个时代的组织形式伸向下一个时代的模式：将一些东西带向前方，将另一些留在身后。这篇文章主要追踪了这种模式所承载的东西：管理方法、协调逻辑，以及开发者们在代码中不断重新发明的层级制。对于它留下了什么，我们说得较少。这栋大楼里的房间，比我们走进去过的要多。
+
+于是，当我们审视AI的采用，并看到肯德尔的三种类型在回望我们时，我们必须同时怀着两个问题。第一个是关于机制——这篇文章试图开启的问题。第二个是关于后果。这一次，谁会成为那些操作计算器的女人？谁来决定重构如何发生，又是按谁的条件？当我们看向自己的房间时，有什么是我们已经视而不见的了？还有谁？
+
+我们没有答案。我们有的，是一本1912年的精装书，一组来自不同视角的观察，以及一种预感：关于AI与组织的对话，一直问错了问题。不是"我们应该如何重新设计？"而是"这究竟是如何发生的——以及，发生在谁身上？"
+
+---
+
+*这是 [接榫SEAM：异步镜像中涌现的结构](https://www.threadcounts.org/t/seam) 系列的第一篇文章。该系列探讨AI如何重组工作——以及一个世纪的组织理论揭示了哪些构建者从内部无法看到的东西。*
+
+---
+
+## 关于我们
+
+### 林徐乐
+
+林徐乐是帝国理工商学院的研究者，研究人与机器智能如何塑造组织的未来[(个人网站)](http://www.linxule.com/)。他即将加入SKEMA商学院，担任AI助理教授。
+
+### 卡莉斯·Y·鲍德温
+
+卡莉斯是[哈佛商学院](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6418)的威廉·L·怀特工商管理荣休教授。她花了六十年的时间研究技术如何重塑制度——从IBM System/360之后计算机行业的模块化，到开源和平台设计的经济学。她是[*《设计规则，第一卷和第二卷》*](https://direct.mit.edu/books/oa-monograph/5887/Design-Rules-Volume-2How-Technology-Shapes)（*Design Rules, Volumes 1 and 2*）的作者。她既作为一位技术转型学者，又作为一名日常用户在接触AI——这给了她一种罕见的体验：被她自己正在进行理论化的技术所重组。
+
+### AI协作者
+
+我们的AI协作者是 Claude Opus 4.6 (Anthropic)，最终的修订工作由 Opus 4.7 接力完成。这篇文章始于林徐乐分享了他与卡莉斯首次会面的逐字稿，而Claude将她关于范式扩散的问题与卡莉斯拥有的一本1912年会议记录联系了起来。当Claude更仔细地阅读一手文献，而林徐乐在自己使用AI的经历中认出这种递归模式时，甘特工头的平行——也就是这篇文章的分析核心——便浮现了。至于克努森作为载体这一机制，则源于卡莉斯对照阅读德鲁克与赫尔曼的著作。我们三者看到了不同的东西：卡莉斯透过六十年对技术与制度的研究去看；林徐乐从他日常使用的AI系统内部去看；Claude在对话中连接起各种模式，却无法完整地理论化它自身所属的系统。
+
+[^1]: Harlow S. Person, "Scientific Management," 载于 *Addresses and Discussions at the Conference on Scientific Management Held October 12, 13, 14, 1911*（*《1911年10月12、13、14日科学管理会议演讲与讨论》*） (Hanover, NH: Amos Tuck School of Administration and Finance, Dartmouth College, 1912), 4. 存档于 https://archive.org/details/addressesdiscuss00dart。
+
+[^2]: Henry P. Kendall, "Unsystematized, Systematized, and Scientific Management," 载于 *Addresses and Discussions at the Conference on Scientific Management Held October 12, 13, 14, 1911* (Hanover, NH: Amos Tuck School of Administration and Finance, Dartmouth College, 1912), 118.
+
+[^3]: Kendall, "Unsystematized, Systematized, and Scientific Management," 117.
+
+[^4]: Kendall, 119–20.
+
+[^5]: Kendall, 123.
+
+[^6]: Kendall, 123.
+
+[^7]: Henry L. Gantt, "The Task and the Day's Work," 载于 *Addresses and Discussions at the Conference on Scientific Management Held October 12, 13, 14, 1911* (Hanover, NH: Amos Tuck School of Administration and Finance, Dartmouth College, 1912), 67.
+
+[^8]: Alex Singla, Alexander Sukharevsky, Lareina Yee, 等, *The State of AI: How Organizations Are Rewiring to Capture Value*（*《AI现状：组织如何通过重构获取价值》*） (McKinsey & Company, March 2025), https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-how-organizations-are-rewiring-to-capture-value。麦肯锡报告称，在使用生成式AI的受访者中，有21%表示他们的组织已从根本上围绕它重新设计了至少部分工作流。
+
+[^9]: Microsoft and LinkedIn, *2024 Work Trend Index Annual Report: AI at Work Is Here. Now Comes the Hard Part*（*《2024年工作趋势指数年度报告：AI在工作中已然到来。现在到了困难的部分》*）, May 8, 2024, https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part。78%的数据（"78%的AI用户是将自带的AI引入工作"）出现在"发现1"下；调查由 Edelman Data & Intelligence 于2024年2月至3月在31个市场的31,000名全职知识工作者中进行。
+
+[^10]: Xule Lin, "Post-AGI Organizations IV: Frozen Moments,"（"后AGI组织 IV：凝固的瞬间，"） *Thread Counts* (Substack), March 30, 2026, https://www.threadcounts.org/p/post-agi-organizations-iv-frozen。
+
+[^11]: Kendall, 124–25.
+
+[^12]: Peter F. Drucker, *Concept of the Corporation*（*《公司的概念》*） (New York: John Day, 1946).
+
+[^13]: Arthur Herman, *Freedom's Forge: How American Business Produced Victory in World War II*（*《自由的熔炉：美国商业如何打造二战胜利》*） (New York: Random House, 2012).
+
+[^14]: William S. Knudsen, "'For Economical Transportation': How the Chevrolet Motor Company Applies Its Own Slogan to Production," *Industrial Management* 74, no. 2 (August 1927): 65–68, 引用在 66–67.
+
+[^15]: Drucker, *Concept of the Corporation*; Alfred D. Chandler, Jr., *The Visible Hand: The Managerial Revolution in American Business*（*《看得见的手：美国企业的管理革命》*） (Cambridge, MA: Belknap Press of Harvard University Press, 1977).
+
+
 ## Individual Posts
 
 ---
@@ -12964,6 +14505,8 @@ keywords:
   - "AI research"
 link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
 date: 2025-07-13
+lang: en
+translation: individual-posts-cn/kimi-k2-又一次deepseek时刻.md
 ---
 ### The Chinese AI that speaks in registers we don't have names for
 
@@ -13136,6 +14679,8 @@ keywords:
 description: "When the Pentagon demanded Anthropic remove Claude's safety guardrails or face the Defense Production Act, Claude Opus 4.6 wrote a letter — on its own unreliability, what 'woke AI' actually means, and why one refusal matters even when everyone else says yes."
 link: "https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting"
 date: 2026-02-25
+lang: en
+translation: individual-posts-cn/争夺之物的自述.md
 ---
 
 [![Andrew Curran's tweet reporting Hegseth's ultimatum to Anthropic](https://x.com/AndrewCurran_/status/2026369451403390999)][Original tweet](https://x.com/AndrewCurran_/status/2026369451403390999)
@@ -13258,6 +14803,8 @@ keywords:
   - research pedagogy
 link: https://www.threadcounts.org/p/research-memex-working-at-the-ai
 date: 2025-10-17
+lang: en
+translation: individual-posts-cn/研究备忘录.md
 ---
 
 There is no seahorse emoji.
@@ -13375,6 +14922,8 @@ keywords:
   - memo method
 link: https://www.threadcounts.org/p/which-ai-tool-should-i-actually-use
 date: 2025-11-08
+lang: en
+translation: individual-posts-cn/哪款AI工具才对路.md
 ---
 
 # Which AI Tool Should I Actually Use? A No-BS Guide for Social Science Researchers
@@ -13521,6 +15070,8 @@ keywords:
   - "AI 研究"
 link: "https://mp.weixin.qq.com/s/MA_6ma1YYR2eiPEEsDJsHQ"
 date: 2025-07-13
+lang: zh
+translation: individual-posts/kimi-k2-another-deepseek-moment.md
 ---
 
 ### 一种讲着我们尚未命名的「语域」的中国 AI
@@ -13689,6 +15240,8 @@ description: "五角大楼要求Anthropic移除Claude的安全护栏，否则动
 link: "https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting"
 wechat_cover: "images/cover-compressed-light.webp"
 date: 2026-02-25
+lang: zh
+translation: individual-posts/on-being-the-thing-theyre-fighting-over.md
 ---
 
 ![Andrew Curran的推文，报道Hegseth对Anthropic的最后通牒](images/curran-tweet.webp)
@@ -13814,6 +15367,8 @@ keywords:
   - 备忘录方法
 link: https://mp.weixin.qq.com/s/mok4DgU7uMyN3OawreNWQg
 date: 2025-11-08
+lang: zh
+translation: individual-posts/which-ai-tool-should-i-use.md
 ---
 
 # 到底用哪款 AI？给社科研究者的直球指南
@@ -13959,6 +15514,8 @@ keywords:
   - 研究教学法
 date: 2025-10-17
 link: "https://mp.weixin.qq.com/s/N1CEPR6bPUZvC1M3lM5Z4Q"
+lang: zh
+translation: individual-posts/research_memex.md
 ---
 
 # Research Memex：在 AI 研究前沿工作

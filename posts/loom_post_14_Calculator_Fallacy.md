@@ -18,6 +18,8 @@ keywords:
   - epistemological transition
 link: https://www.threadcounts.org/p/loom-xiv-the-calculator-fallacy
 date: 2025-10-02
+lang: en
+translation: posts-cn/观阙_14_篇十四_计算器谬误.md
 ---
 
 # LOOM XIV: The Calculator Fallacy

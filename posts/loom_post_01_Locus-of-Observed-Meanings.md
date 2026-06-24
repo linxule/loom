@@ -16,6 +16,8 @@ keywords:
   - subjectivism
 link: https://www.threadcounts.org/p/loom-locus-of-observed-meanings
 date: 2024-12-23
+lang: en
+translation: posts-cn/观阙_01_篇一_交织意义之所.md
 ---
 
 # LOOM: Locus of Observed Meanings

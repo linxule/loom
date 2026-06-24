@@ -16,6 +16,8 @@ keywords:
   - research methodology
 link: https://www.threadcounts.org/p/loom-vi-the-pattern-beneath-the-voices
 date: 2025-02-16
+lang: en
+translation: posts-cn/观阙_06_篇六_智思交织的韵律.md
 ---
 
 # LOOM VI: The Pattern Beneath the Voices

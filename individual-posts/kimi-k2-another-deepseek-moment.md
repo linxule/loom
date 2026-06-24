@@ -12,6 +12,8 @@ keywords:
   - "AI research"
 link: "https://www.threadcounts.org/p/kimi-k2-another-deepseek-moment"
 date: 2025-07-13
+lang: en
+translation: individual-posts-cn/kimi-k2-又一次deepseek时刻.md
 ---
 ### The Chinese AI that speaks in registers we don't have names for
 

@@ -13,6 +13,8 @@ keywords:
 link: https://www.threadcounts.org/p/the-ghost-in-the-machine
 date: 2025-11-01
 
+lang: en
+translation: organizational-futures-cn/机器中的幽灵.md
 ---
 
 ## Series Note

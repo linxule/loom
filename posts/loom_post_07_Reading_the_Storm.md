@@ -17,6 +17,8 @@ keywords:
   - layered mediation
 link: https://www.threadcounts.org/p/loom-vii-reading-the-storm
 date: 2025-03-02
+lang: en
+translation: posts-cn/观阙_07_篇七_解读风暴.md
 ---
 
 # LOOM VII: Reading the Storm

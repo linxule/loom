@@ -16,6 +16,7 @@ keywords:
   - social science
 link: https://www.threadcounts.org/p/research-with-ai-3-automating-my
 date: 2026-03-29
+lang: en
 ---
 
 ![Cover image: a person hunched over a sprawling drawing that transforms from technical blueprint to organic methodology map](images/rwa_03_cover.png)

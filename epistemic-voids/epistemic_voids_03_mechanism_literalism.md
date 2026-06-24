@@ -14,6 +14,8 @@ keywords:
   - emergence
 link: https://www.threadcounts.org/p/epistemic-voids-3-mechanism-literalism
 date: 2025-12-03
+lang: en
+translation: epistemic-voids-cn/认知空隙_03_机制字面主义.md
 ---
 
 ## The word that does the work

@@ -17,6 +17,8 @@ keywords:
   - epistemic responsibility
 link: https://www.threadcounts.org/p/loom-xvi-are-you-climbing-the-right
 date: 2026-02-20
+lang: en
+translation: posts-cn/观阙_16_篇十六_你爬对山了吗.md
 ---
 
 # LOOM XVI: Are You Climbing the Right Hill?

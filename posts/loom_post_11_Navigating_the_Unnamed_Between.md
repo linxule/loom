@@ -18,6 +18,8 @@ keywords:
   - authentic dialogue
 link: https://www.threadcounts.org/p/loom-xi-navigating-the-unnamed-betweenan
 date: 2025-05-14    
+lang: en
+translation: posts-cn/观阙_11_篇十一_导航未命名之间.md
 ---
 
 # LOOM XI: Navigating the Unnamed Between — An Epistemic Love Letter

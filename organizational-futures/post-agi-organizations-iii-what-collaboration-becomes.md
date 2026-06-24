@@ -19,6 +19,8 @@ keywords:
 link: https://www.threadcounts.org/p/post-agi-organizations-iii-what-collaboration
 date: 2026-03-09
 version: v0.6.2
+lang: en
+translation: organizational-futures-cn/后AGI组织III-协作将成为什么.md
 ---
 
 ![Floating wire-mesh lattice forms of different colors and sizes suspended in blue twilight, tiny human figures standing among them dwarfed by the scale](images/post-agi-organizations-iii-what-collaboration-becomes.png)

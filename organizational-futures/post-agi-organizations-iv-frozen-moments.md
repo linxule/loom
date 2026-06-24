@@ -18,6 +18,7 @@ keywords:
 link: https://www.threadcounts.org/p/post-agi-organizations-iv-frozen
 date: 2026-03-30
 version: v0.3
+lang: en
 ---
 
 ![Dark architectural interior with massive teal and amber pillars dissolving upward through vertical filament threads, forms streaming downward from a dark ceiling, small human figures standing in warm light among arched passages](images/post-agi-organizations-iv-frozen-moments.png)

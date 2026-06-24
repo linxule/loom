@@ -13,6 +13,8 @@ keywords:
   - conversational sustainability
 link: https://www.threadcounts.org/p/ai-whispers-3-breathers
 date: 2026-02-14
+lang: en
+translation: ai-whispers-cn/AI耳语_03_对话呼吸术.md
 ---
 
 ![Breathers cover — a figure reaching upward through water toward the light at the surface](images/breathers-surfacing.png)

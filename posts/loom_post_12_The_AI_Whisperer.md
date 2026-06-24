@@ -16,6 +16,8 @@ keywords:
   - AI integration
 link: https://www.threadcounts.org/p/loom-xii-the-ai-whisperer
 date: 2025-05-15    
+lang: en
+translation: posts-cn/观阙_12_篇十二_AI耳语者.md
 ---
 
 ### Mediating Between Human and Artificial Intelligence in Research
