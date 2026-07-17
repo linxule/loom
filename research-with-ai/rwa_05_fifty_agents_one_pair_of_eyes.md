@@ -23,6 +23,7 @@ keywords:
 link: https://www.threadcounts.org/p/research-with-ai-5-fifty-agents
 date: 2026-07-17
 lang: en
+translation: research-with-ai-cn/AI研究手记_05_五十个智能体一双眼睛.md
 ---
 
 ![Cover image: a researcher in glasses writes by lamplight in a red armchair, bent over a single blue page, while dozens of small pale paper figures swarm the dark room around them — fifty agents, one pair of eyes](images/rwa_05_cover.png)
