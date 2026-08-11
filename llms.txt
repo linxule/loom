@@ -116,6 +116,7 @@ Case studies of AI workflows producing the aesthetic of rigor without substance.
 ### SEAM
 Junctures where paradigms meet organizations — scholarship/practice seams examining how AI is reorganizing work, co-authored with Carliss Y. Baldwin (HBS).
 - [SEAM #1: The Seventy Percent](https://www.threadcounts.org/p/seam-1-the-seventy-percent) | [raw](https://raw.githubusercontent.com/linxule/loom/main/seam/seam_01_the_seventy_percent.md): In 1911, 70% of American firms hadn't adopted Scientific Management. Today, only 1 in 5 has restructured around AI. What moves the seventy percent?
+- [SEAM #2: The Saturday Meeting](https://www.threadcounts.org/p/seam-2-the-saturday-meeting) | [raw](https://raw.githubusercontent.com/linxule/loom/main/seam/seam_02_the_saturday_meeting.md): Walmart and Kmart began the same year. One built a store-and-distribution system whose shape, cadence, and ROIC the other could not readily copy.
 
 ### Research with AI (AI 研究手记 中文)
 知识工作者的 AI 思考伙伴构建指南——研究、分析、任何需要搜索与综合的场景。
