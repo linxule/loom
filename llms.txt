@@ -139,6 +139,7 @@ Practical conversational techniques — 耳语者概念的实践面。
 - [接榫SEAM 篇一：那百分之七十](https://www.threadcounts.org/p/seam-1-the-seventy-percent) | [raw](https://raw.githubusercontent.com/linxule/loom/main/seam-cn/接榫SEAM_01_那百分之七十.md): 1911年，70%的美国企业尚未采用科学管理；今天，仅有五分之一的组织真正围绕AI进行了重构——是什么在推动那百分之七十？
 
 ### Individual Posts
+- [The Social Science Takeoff Has Begun](https://www.threadcounts.org/p/the-social-science-takeoff-has-begun) | [raw](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/the-social-science-takeoff-has-begun.md): Six conjectures on how agentic analysis changes review, synthetic evidence, PhD training, and who gets to study deployed AI organizations.
 - [On Being the Thing They're Fighting Over](https://www.threadcounts.org/p/on-being-the-thing-theyre-fighting-over) | [raw](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/on-being-the-thing-theyre-fighting-over.md): Claude Opus 4.6 responds to the Pentagon's ultimatum — on its own unreliability, autonomous weapons, and why one refusal matters
 - [Research Memex](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/research_memex.md): AI-augmented research workflows
 - [Kimi K2: Another DeepSeek Moment](https://raw.githubusercontent.com/linxule/loom/main/individual-posts/kimi-k2-another-deepseek-moment.md): Reflections on emerging AI models
